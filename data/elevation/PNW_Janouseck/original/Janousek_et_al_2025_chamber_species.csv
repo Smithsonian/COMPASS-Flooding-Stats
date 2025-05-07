@@ -1,0 +1,313 @@
+study_id,site_id,chamber_id,species_year,species_month,species_day,cover,species_code,species_description
+Janousek_et_al_2025,ALD-PA,2096,2021,7,14,80,Carex obnupta,slough sedge
+Janousek_et_al_2025,ALD-PA,2096,2021,7,14,10,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2096,2021,7,14,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,ALD-PA,2097,2021,7,14,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2097,2021,7,14,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,ALD-PA,2098,2021,7,14,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2098,2021,7,14,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,ALD-PA,2099,2021,7,14,45,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2099,2021,7,14,65,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,ALD-PA,2100,2021,7,14,70,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2100,2021,7,14,50,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,ALD-PA,2101,2021,7,14,25,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,ALD-PA,2101,2021,7,14,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2042,2021,7,1,45,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2042,2021,7,1,20,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2042,2021,7,1,5,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,DAN-EM,2042,2021,7,1,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2043,2021,7,1,10,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2043,2021,7,1,5,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2043,2021,7,1,50,Cuscuta pacifica,dodder
+Janousek_et_al_2025,DAN-EM,2043,2021,7,1,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2044,2021,7,1,30,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2044,2021,7,1,75,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2044,2021,7,1,30,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2045,2021,7,1,45,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2045,2021,7,1,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2045,2021,7,1,5,Juncus balticus,Baltic rush
+Janousek_et_al_2025,DAN-EM,2045,2021,7,1,5,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,DAN-EM,2045,2021,7,1,70,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,10,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,10,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,15,Grindelia stricta,Oregon gumweed
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,10,Potentilla anserina,silverweed
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,30,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,DAN-EM,2046,2021,7,1,95,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,50,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,50,Angelica lucida,seacoast angelica
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,10,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,20,Potentilla anserina,silverweed
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,5,Symphyotrichum subspicatum,Douglas' aster
+Janousek_et_al_2025,DAN-EM,2047,2021,7,1,60,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,FSM-EM,2018,2021,6,30,20,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2018,2021,6,30,25,Potentilla anserina,silverweed
+Janousek_et_al_2025,FSM-EM,2018,2021,6,30,25,Symphyotrichum subspicatum,Douglas' aster
+Janousek_et_al_2025,FSM-EM,2018,2021,6,30,30,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FSM-EM,2019,2021,6,30,NA,Grindelia stricta,Oregon gumweed
+Janousek_et_al_2025,FSM-EM,2019,2021,6,30,45,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2019,2021,6,30,75,Potentilla anserina,silverweed
+Janousek_et_al_2025,FSM-EM,2019,2021,6,30,75,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FSM-EM,2020,2021,6,30,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FSM-EM,2020,2021,6,30,20,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2020,2021,6,30,45,Potentilla anserina,silverweed
+Janousek_et_al_2025,FSM-EM,2020,2021,6,30,25,Veronica americana,American speedwell
+Janousek_et_al_2025,FSM-EM,2020,2021,6,30,45,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FSM-EM,2021,2021,6,30,5,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FSM-EM,2021,2021,6,30,10,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2021,2021,6,30,75,Potentilla anserina,silverweed
+Janousek_et_al_2025,FSM-EM,2021,2021,6,30,100,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,60,Angelica lucida,seacoast angelica
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,20,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,35,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,10,Rumex occidentalis,Western dock
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,10,Symphyotrichum subspicatum,Douglas' aster
+Janousek_et_al_2025,FSM-EM,2022,2021,6,30,85,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FSM-EM,2023,2021,6,30,5,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,FSM-EM,2023,2021,6,30,50,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FSM-EM,2023,2021,6,30,50,Potentilla anserina,silverweed
+Janousek_et_al_2025,FRE-RM,2024,2021,6,27,95,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FRE-RM,2024,2021,6,27,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FRE-RM,2025,2021,6,27,75,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FRE-RM,2025,2021,6,27,28,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FRE-RM,2026,2021,6,27,25,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,FRE-RM,2026,2021,6,27,50,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FRE-RM,2026,2021,6,27,5,Potentilla anserina,silverweed
+Janousek_et_al_2025,FRE-RM,2026,2021,6,27,95,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FRE-RM,2027,2021,6,27,15,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,FRE-RM,2027,2021,6,27,30,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FRE-RM,2027,2021,6,27,80,Juncus balticus,Baltic rush
+Janousek_et_al_2025,FRE-RM,2027,2021,6,27,25,Potentilla anserina,silverweed
+Janousek_et_al_2025,FRE-RM,2027,2021,6,27,50,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FRE-RM,2028,2021,6,27,75,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,FRE-RM,2028,2021,6,27,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FRE-RM,2028,2021,6,27,60,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,FRE-RM,2029,2021,6,27,10,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,FRE-RM,2029,2021,6,27,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,FRE-RM,2029,2021,6,27,90,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KAN-RM,2108,2021,7,14,50,Scirpus microcarpus,small fruited bulrush
+Janousek_et_al_2025,KAN-RM,2108,2021,7,14,40,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,KAN-RM,2108,2021,7,14,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KAN-RM,2109,2021,7,14,80,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,KAN-RM,2109,2021,7,14,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KAN-RM,2110,2021,7,14,80,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KAN-RM,2111,2021,7,14,25,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KAN-RM,2111,2021,7,14,100,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,KAN-RM,2111,2021,7,14,25,Sagittaria latifolia,"common arrowhead, wapato"
+Janousek_et_al_2025,KAN-RM,2111,2021,7,14,25,Typha angustifolia,narrowleaf cattail
+Janousek_et_al_2025,KAN-RM,2112,2021,7,14,20,Typha angustifolia,narrowleaf cattail
+Janousek_et_al_2025,KAN-RM,2112,2021,7,14,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KAN-RM,2113,2021,7,14,70,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KAN-RM,2113,2021,7,14,60,Typha angustifolia,narrowleaf cattail
+Janousek_et_al_2025,KAN-RM,2113,2021,7,14,5,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZH-RM,2030,2021,6,30,20,Atriplex prostrata,fat hen
+Janousek_et_al_2025,KZH-RM,2030,2021,6,30,90,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZH-RM,2031,2021,6,30,20,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KZH-RM,2031,2021,6,30,90,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZH-RM,2031,2021,6,30,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZH-RM,2032,2021,6,30,95,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KZH-RM,2032,2021,6,30,10,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZH-RM,2033,2021,6,30,95,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZH-RM,2033,2021,6,30,30,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZH-RM,2034,2021,6,30,99,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KZH-RM,2035,2021,6,30,45,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KZH-RM,2035,2021,6,30,50,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZH-RM,2035,2021,6,30,5,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZL-RM,2036,2021,7,1,100,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZL-RM,2036,2021,7,1,50,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZL-RM,2037,2021,7,1,90,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZL-RM,2037,2021,7,1,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZL-RM,2038,2021,7,1,90,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZL-RM,2038,2021,7,1,100,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZL-RM,2039,2021,7,1,100,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZL-RM,2039,2021,7,1,7,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,KZL-RM,2040,2021,7,1,60,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,KZL-RM,2040,2021,7,1,80,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,KZL-RM,2041,2021,7,1,100,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,5,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,10,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,5,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,40,Jaumea carnosa,fleshy jaumea
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,10,Salicornia pacifica,pickleweed
+Janousek_et_al_2025,MET-EM,2048,2021,6,29,15,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,MET-EM,2049,2021,6,29,15,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MET-EM,2049,2021,6,29,20,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2049,2021,6,29,10,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MET-EM,2049,2021,6,29,40,Jaumea carnosa,fleshy jaumea
+Janousek_et_al_2025,MET-EM,2049,2021,6,29,5,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,5,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,10,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,25,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,20,Jaumea carnosa,fleshy jaumea
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,15,Salicornia pacifica,pickleweed
+Janousek_et_al_2025,MET-EM,2050,2021,6,29,10,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,MET-EM,2051,2021,6,29,25,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MET-EM,2051,2021,6,29,60,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2051,2021,6,29,30,Jaumea carnosa,fleshy jaumea
+Janousek_et_al_2025,MET-EM,2051,2021,6,29,5,Triglochin maritima,arrowgrass
+Janousek_et_al_2025,MET-EM,2052,2021,6,29,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2052,2021,6,29,10,Juncus balticus,Baltic rush
+Janousek_et_al_2025,MET-EM,2052,2021,6,29,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MET-EM,2053,2021,6,29,50,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MET-EM,2053,2021,6,29,15,Eleocharis palustris,common spikerush
+Janousek_et_al_2025,MET-EM,2053,2021,6,29,30,Juncus balticus,Baltic rush
+Janousek_et_al_2025,MET-EM,2053,2021,6,29,5,Potentilla anserina,silverweed
+Janousek_et_al_2025,MIL-EM,2054,2021,6,29,90,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2054,2021,6,29,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-EM,2055,2021,6,29,100,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2055,2021,6,29,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-EM,2056,2021,6,29,95,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2056,2021,6,29,5,Juncus balticus,Baltic rush
+Janousek_et_al_2025,MIL-EM,2056,2021,6,29,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-EM,2057,2021,6,29,95,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2057,2021,6,29,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-EM,2058,2021,6,29,80,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2058,2021,6,29,8,Juncus balticus,Baltic rush
+Janousek_et_al_2025,MIL-EM,2058,2021,6,29,18,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-EM,2059,2021,6,29,80,Agrostis stolonifera,creeping bentgrass
+Janousek_et_al_2025,MIL-EM,2059,2021,6,29,15,Juncus balticus,Baltic rush
+Janousek_et_al_2025,MIL-EM,2059,2021,6,29,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-RM,2060,2021,6,29,100,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2061,2021,6,29,10,Atriplex prostrata,fat hen
+Janousek_et_al_2025,MIL-RM,2061,2021,6,29,100,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2061,2021,6,29,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-RM,2062,2021,6,29,15,Cuscuta pacifica,dodder
+Janousek_et_al_2025,MIL-RM,2062,2021,6,29,70,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2062,2021,6,29,25,Salicornia pacifica,pickleweed
+Janousek_et_al_2025,MIL-RM,2062,2021,6,29,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-RM,2063,2021,6,29,80,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2063,2021,6,29,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-RM,2064,2021,6,29,10,Atriplex prostrata,fat hen
+Janousek_et_al_2025,MIL-RM,2064,2021,6,29,95,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2064,2021,6,29,10,Salicornia pacifica,pickleweed
+Janousek_et_al_2025,MIL-RM,2064,2021,6,29,30,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MIL-RM,2065,2021,6,29,30,Atriplex prostrata,fat hen
+Janousek_et_al_2025,MIL-RM,2065,2021,6,29,5,Cuscuta pacifica,dodder
+Janousek_et_al_2025,MIL-RM,2065,2021,6,29,80,Distichlis spicata,saltgrass
+Janousek_et_al_2025,MIL-RM,2065,2021,6,29,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2078,2021,7,4,80,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2078,2021,7,4,25,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,MLC-EM,2078,2021,7,4,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2079,2021,7,4,5,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,MLC-EM,2079,2021,7,4,40,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2079,2021,7,4,30,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,MLC-EM,2079,2021,7,4,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2080,2021,7,4,80,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2080,2021,7,4,30,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2081,2021,7,4,40,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2081,2021,7,4,20,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,MLC-EM,2081,2021,7,4,40,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2082,2021,7,4,50,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2082,2021,7,4,15,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,MLC-EM,2082,2021,7,4,25,Typha angustifolia,narrowleaf cattail
+Janousek_et_al_2025,MLC-EM,2082,2021,7,4,95,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,MLC-EM,2083,2021,7,4,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,MLC-EM,2083,2021,7,4,10,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,MLC-EM,2083,2021,7,4,85,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SAU-PA,2066,2021,6,30,95,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SAU-PA,2067,2021,6,30,95,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SAU-PA,2068,2021,6,30,100,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SAU-PA,2068,2021,6,30,28,Lotus corniculatus,trefoil
+Janousek_et_al_2025,SAU-PA,2069,2021,6,30,100,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SAU-PA,2070,2021,6,30,100,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SAU-PA,2071,2021,6,30,98,Holcus lanatus,velvet grass
+Janousek_et_al_2025,SCS-RM,2072,2021,7,12,30,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SCS-RM,2072,2021,7,12,75,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,SCS-RM,2072,2021,7,12,25,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,SCS-RM,2072,2021,7,12,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SCS-RM,2073,2021,7,12,30,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SCS-RM,2073,2021,7,12,25,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,SCS-RM,2073,2021,7,12,40,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,SCS-RM,2073,2021,7,12,10,Schoenoplectus tabernaemontanii,NA
+Janousek_et_al_2025,SCS-RM,2073,2021,7,12,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SCS-RM,2074,2021,7,12,60,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,SCS-RM,2074,2021,7,12,15,Oenanthe sarmentosa,water parsley
+Janousek_et_al_2025,SCS-RM,2074,2021,7,12,40,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,SCS-RM,2074,2021,7,12,20,Potentilla anserina,silverweed
+Janousek_et_al_2025,SCS-RM,2074,2021,7,12,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SCS-RM,2075,2021,7,12,40,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,SCS-RM,2075,2021,7,12,40,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,SCS-RM,2075,2021,7,12,10,Potentilla anserina,silverweed
+Janousek_et_al_2025,SCS-RM,2075,2021,7,12,20,Typha angustifolia,narrowleaf cattail
+Janousek_et_al_2025,SCS-RM,2075,2021,7,12,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SCS-RM,2076,2021,7,12,15,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,SCS-RM,2076,2021,7,12,80,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,SCS-RM,2076,2021,7,12,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SCS-RM,2077,2021,7,12,75,Carex lyngbyei,Lyngbye's sedge
+Janousek_et_al_2025,SCS-RM,2077,2021,7,12,30,Oenanthe sarmentosa,water parsley
+Janousek_et_al_2025,SCS-RM,2077,2021,7,12,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SEC-TS,2090,2021,7,13,100,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SEC-TS,2091,2021,7,13,35,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SEC-TS,2091,2021,7,13,85,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SEC-TS,2092,2021,7,13,10,Unidentified fern(s),Unidentified fern(s)
+Janousek_et_al_2025,SEC-TS,2092,2021,7,13,5,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SEC-TS,2092,2021,7,13,100,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SEC-TS,2093,2021,7,13,25,Unidentified fern(s),Unidentified fern(s)
+Janousek_et_al_2025,SEC-TS,2093,2021,7,13,15,Lysichiton americanus,skunk cabbage
+Janousek_et_al_2025,SEC-TS,2093,2021,7,13,5,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SEC-TS,2093,2021,7,13,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SEC-TS,2094,2021,7,13,75,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SEC-TS,2094,2021,7,13,50,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SEC-TS,2095,2021,7,13,50,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SEC-TS,2095,2021,7,13,5,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SEC-TS,2095,2021,7,13,50,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SES-TS,2102,2021,9,2,100,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SES-TS,2103,2021,9,2,50,Lysichiton americanus,skunk cabbage
+Janousek_et_al_2025,SES-TS,2104,2021,9,2,75,Lysichiton americanus,skunk cabbage
+Janousek_et_al_2025,SES-TS,2105,2021,9,2,100,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SES-TS,2106,2021,9,2,25,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,SES-TS,2106,2021,9,2,35,Oenanthe sarmentosa,water parsley
+Janousek_et_al_2025,SES-TS,2106,2021,9,2,40,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,SES-TS,2107,2021,9,2,40,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,SES-TS,2107,2021,9,2,35,Oenanthe sarmentosa,water parsley
+Janousek_et_al_2025,SES-TS,2107,2021,9,2,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS-PA,2006,2021,6,28,20,Equisetum palustre,marsh horsetail
+Janousek_et_al_2025,WAS-PA,2006,2021,6,28,100,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS-PA,2007,2021,6,28,20,Equisetum palustre,marsh horsetail
+Janousek_et_al_2025,WAS-PA,2007,2021,6,28,100,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS-PA,2007,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS-PA,2008,2021,6,28,45,Equisetum palustre,marsh horsetail
+Janousek_et_al_2025,WAS-PA,2008,2021,6,28,60,Holcus lanatus,velvet grass
+Janousek_et_al_2025,WAS-PA,2008,2021,6,28,35,Lotus corniculatus,trefoil
+Janousek_et_al_2025,WAS-PA,2008,2021,6,28,15,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,30,Equisetum palustre,marsh horsetail
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,10,Festuca arundinacea,tall fescue
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,5,Holcus lanatus,velvet grass
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,30,Lotus corniculatus,trefoil
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,40,Ranunculus repens,NA
+Janousek_et_al_2025,WAS-PA,2009,2021,6,28,10,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS-PA,2010,2021,6,28,10,Anthoxanthum odoratum,sweet vernal grass
+Janousek_et_al_2025,WAS-PA,2010,2021,6,28,45,Festuca arundinacea,tall fescue
+Janousek_et_al_2025,WAS-PA,2010,2021,6,28,5,Holcus lanatus,velvet grass
+Janousek_et_al_2025,WAS-PA,2010,2021,6,28,25,Lotus corniculatus,trefoil
+Janousek_et_al_2025,WAS-PA,2010,2021,6,28,5,Ranunculus repens,NA
+Janousek_et_al_2025,WAS-PA,2011,2021,6,28,65,Anthoxanthum odoratum,sweet vernal grass
+Janousek_et_al_2025,WAS-PA,2011,2021,6,28,10,Festuca arundinacea,tall fescue
+Janousek_et_al_2025,WAS-PA,2011,2021,6,28,45,Holcus lanatus,velvet grass
+Janousek_et_al_2025,WAS-PA,2011,2021,6,28,30,Ranunculus repens,NA
+Janousek_et_al_2025,WAS2-PA,2012,2021,6,28,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2012,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS2-PA,2013,2021,6,28,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2013,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS2-PA,2014,2021,6,28,80,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2014,2021,6,28,85,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS2-PA,2015,2021,6,28,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2015,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS2-PA,2016,2021,6,28,95,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2016,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WAS2-PA,2017,2021,6,28,5,Bare ground,No living plant cover or wrack
+Janousek_et_al_2025,WAS2-PA,2017,2021,6,28,50,Phalaris arundinacea,Reed canary grass
+Janousek_et_al_2025,WAS2-PA,2017,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2000,2021,6,28,100,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,WIN-TS,2000,2021,6,28,25,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2001,2021,6,28,90,Carex obnupta,slough sedge
+Janousek_et_al_2025,WIN-TS,2001,2021,6,28,20,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2002,2021,6,28,8,Carex obnupta,slough sedge
+Janousek_et_al_2025,WIN-TS,2002,2021,6,28,25,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,WIN-TS,2002,2021,6,28,75,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2003,2021,6,28,40,Carex obnupta,slough sedge
+Janousek_et_al_2025,WIN-TS,2003,2021,6,28,80,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2004,2021,6,28,5,Carex obnupta,slough sedge
+Janousek_et_al_2025,WIN-TS,2004,2021,6,28,100,Unattached plant matter,Unattached plant matter
+Janousek_et_al_2025,WIN-TS,2005,2021,6,28,5,Unidentified moss(es),Unidentified moss(es)
+Janousek_et_al_2025,WIN-TS,2005,2021,6,28,100,Unattached plant matter,Unattached plant matter

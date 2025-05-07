@@ -1,0 +1,988 @@
+Site,Type,Date,Operator_ID
+BSC Forest,Original,07_28_1998,11
+BSC Forest,Original,10_26_1998,11
+BSC Forest,Original,01_26_1999,11
+BSC Forest,Original,07_16_1999,10
+BSC Forest,Original,07_29_1999,10
+BSC Forest,Original,10_28_1999,10
+BSC Forest,Original,02_22_2000,10
+BSC Forest,Original,07_20_2000,16
+BSC Forest,Original,08_02_2000,16
+BSC Forest,Original,10_16_2000,16
+BSC Forest,Original,10_20_2000,Nr
+BSC Forest,Original,01_16_2001,16
+BSC Forest,Original,04_27_2001,16
+BSC Forest,Original,08_10_2001,1
+BSC Forest,Original,02_17_2002,16
+BSC Forest,Original,04_15_2002,16
+BSC Forest,Original,07_01_2002,16
+BSC Forest,Original,10_24_2002,16
+BSC Forest,Original,04_23_2003,16
+BSC Forest,Original,05_07_2003,Nl
+BSC Forest,Original,11_17_2003,5
+BSC Forest,Original,02_24_2004,5
+BSC Forest,Original,06_22_2004,5
+BSC Forest,Original,07_20_2004,5
+BSC Forest,Original,08_20_2004,5
+BSC Forest,Original,02_14_2005,5
+BSC Forest,Original,06_14_2005,5
+BSC Forest,Original,11_08_2005,5
+BSC Forest,Original,07_28_2006,5
+BSC Forest,Original,12_11_2006,16
+BSC Forest,Original,04_09_2007,16
+BSC Forest,Original,08_01_2007,16
+BSC Forest,Original,09_14_2007,Nr
+BSC Forest,Original,10_16_2007,16
+BSC Forest,Original,01_09_2008,7
+BSC Forest,Original,04_09_2008,16
+BSC Forest,Original,07_21_2008,16
+BSC Forest,Original,10_30_2008,16
+BSC Forest,Original,01_15_2009,16
+BSC Forest,Original,04_15_2009,16
+BSC Forest,Original,07_24_2009,14
+BSC Forest,Original,10_22_2009,16
+BSC Forest,Original,01_21_2010,14
+BSC Forest,Original,04_19_2010,16
+BSC Forest,Original,07_30_2010,14
+BSC Forest,Original,10_26_2010,16
+BSC Forest,Original,01_24_2011,14
+BSC Forest,Original,04_07_2011,14
+BSC Forest,Original,07_19_2011,14
+BSC Forest,Original,10_26_2011,14
+BSC Forest,Original,05_17_2013,9
+BSC Forest,Original,09_09_2014,16
+BSC Forest,Original,01_29_2016,4
+BSC Forest,Original,09_20_2016,4
+BSC Forest,Original,05_13_2017,4
+BSC Forest,Original,12_07_2017,4
+BSC Forest,Original,05_05_2018,4
+BSC Forest,Original,12_12_2018,4
+BSC Forest,Original,04_26_2019,4
+BSC Mud,Original,07_28_1998,11
+BSC Mud,Original,10_26_1998,11
+BSC Mud,Original,01_26_1999,11
+BSC Mud,Original,07_16_1999,10
+BSC Mud,Original,07_29_1999,10
+BSC Mud,Original,10_28_1999,10
+BSC Mud,Original,02_22_2000,10
+BSC Mud,Original,07_20_2000,16
+BSC Mud,Original,08_02_2000,Nr
+BSC Mud,Original,10_16_2000,16
+BSC Mud,Original,10_20_2000,Nr
+BSC Mud,Original,01_16_2001,16
+BSC Mud,Original,04_27_2001,1
+BSC Mud,Original,08_10_2001,1
+BSC Mud,Original,02_17_2002,16
+BSC Mud,Original,04_15_2002,16
+BSC Mud,Original,07_01_2002,16
+BSC Mud,Original,10_24_2002,16
+BSC Mud,Original,04_23_2003,Nr
+BSC Mud,Original,05_07_2003,16
+BSC Mud,Original,11_17_2003,16
+BSC Mud,Original,02_24_2004,5
+BSC Mud,Original,06_22_2004,5
+BSC Mud,Original,07_20_2004,5
+BSC Mud,Original,08_20_2004,5
+BSC Mud,Original,02_14_2005,5
+BSC Mud,Original,06_14_2005,5
+BSC Mud,Original,11_08_2005,5
+BSC Mud,Original,07_28_2006,5
+BSC Mud,Original,12_11_2006,Nr
+BSC Mud,Original,04_09_2007,16
+BSC Mud,Original,08_01_2007,16
+BSC Mud,Original,09_14_2007,16
+BSC Mud,Original,10_16_2007,16
+BSC Mud,Original,01_09_2008,7
+BSC Mud,Original,04_09_2008,16
+BSC Mud,Original,07_21_2008,16
+BSC Mud,Original,10_30_2008,16
+BSC Mud,Original,01_15_2009,16
+BSC Mud,Original,04_15_2009,16
+BSC Mud,Original,07_24_2009,16
+BSC Mud,Original,10_22_2009,16
+BSC Mud,Original,01_21_2010,14
+BSC Mud,Original,04_19_2010,16
+BSC Mud,Original,07_30_2010,14
+BSC Mud,Original,10_26_2010,16
+BSC Mud,Original,01_24_2011,14
+BSC Mud,Original,04_07_2011,14
+BSC Mud,Original,07_19_2011,14
+BSC Mud,Original,10_26_2011,Nr
+BSC Mud,Original,05_17_2013,9
+BSC Mud,Original,09_09_2014,Nr
+BSC Mud,Original,01_29_2016,Nr
+BSC Mud,Original,09_20_2016,Nr
+BSC Mud,Original,05_13_2017,Nr
+BSC Mud,Original,12_07_2017,Nr
+BSC Mud,Original,05_05_2018,Nr
+BSC Mud,Original,12_12_2018,Nr
+BSC Mud,Original,04_26_2019,Nr
+BSC Mud,Deep,07_28_1998,Nr
+BSC Mud,Deep,10_26_1998,Nr
+BSC Mud,Deep,01_26_1999,Nr
+BSC Mud,Deep,07_16_1999,Nr
+BSC Mud,Deep,07_29_1999,Nr
+BSC Mud,Deep,10_28_1999,Nr
+BSC Mud,Deep,02_22_2000,Nr
+BSC Mud,Deep,07_20_2000,Nr
+BSC Mud,Deep,08_02_2000,Nr
+BSC Mud,Deep,10_16_2000,Nr
+BSC Mud,Deep,10_20_2000,Nr
+BSC Mud,Deep,01_16_2001,Nr
+BSC Mud,Deep,04_27_2001,Nr
+BSC Mud,Deep,08_10_2001,Nr
+BSC Mud,Deep,02_17_2002,Nr
+BSC Mud,Deep,04_15_2002,Nr
+BSC Mud,Deep,07_01_2002,Nr
+BSC Mud,Deep,10_24_2002,Nr
+BSC Mud,Deep,04_23_2003,Nr
+BSC Mud,Deep,05_07_2003,Nr
+BSC Mud,Deep,11_17_2003,Nr
+BSC Mud,Deep,02_24_2004,Nr
+BSC Mud,Deep,06_22_2004,Nr
+BSC Mud,Deep,07_20_2004,Nr
+BSC Mud,Deep,08_20_2004,Nr
+BSC Mud,Deep,02_14_2005,Nr
+BSC Mud,Deep,06_14_2005,Nr
+BSC Mud,Deep,11_08_2005,Nr
+BSC Mud,Deep,07_28_2006,Nr
+BSC Mud,Deep,12_11_2006,Nr
+BSC Mud,Deep,04_09_2007,Nr
+BSC Mud,Deep,08_01_2007,Nr
+BSC Mud,Deep,09_14_2007,Nr
+BSC Mud,Deep,10_16_2007,Nr
+BSC Mud,Deep,01_09_2008,Nr
+BSC Mud,Deep,04_09_2008,Nr
+BSC Mud,Deep,07_21_2008,Nr
+BSC Mud,Deep,10_30_2008,Nr
+BSC Mud,Deep,01_15_2009,Nr
+BSC Mud,Deep,04_15_2009,Nr
+BSC Mud,Deep,07_24_2009,Nr
+BSC Mud,Deep,10_22_2009,Nr
+BSC Mud,Deep,01_21_2010,Nr
+BSC Mud,Deep,04_19_2010,Nr
+BSC Mud,Deep,07_30_2010,Nr
+BSC Mud,Deep,10_26_2010,Nr
+BSC Mud,Deep,01_24_2011,Nr
+BSC Mud,Deep,04_07_2011,Nr
+BSC Mud,Deep,07_19_2011,8
+BSC Mud,Deep,10_26_2011,Nr
+BSC Mud,Deep,05_17_2013,8
+BSC Mud,Deep,09_09_2014,Nr
+BSC Mud,Deep,01_29_2016,17
+BSC Mud,Deep,09_20_2016,17
+BSC Mud,Deep,05_13_2017,17
+BSC Mud,Deep,12_07_2017,17
+BSC Mud,Deep,05_05_2018,17
+BSC Mud,Deep,12_12_2018,17
+BSC Mud,Deep,04_26_2019,Nr
+LO1,Original,08_08_2000,16
+LO1,Original,11_14_2000,16
+LO1,Original,02_28_2001,16
+LO1,Original,06_20_2001,16
+LO1,Original,08_15_2001,1
+LO1,Original,01_04_2002,16
+LO1,Original,04_17_2002,16
+LO1,Original,07_02_2002,16
+LO1,Original,10_25_2002,16
+LO1,Original,05_06_2003,16
+LO1,Original,08_26_2003,16
+LO1,Original,11_18_2003,16
+LO1,Original,03_15_2004,16
+LO1,Original,07_30_2004,5
+LO1,Original,03_29_2005,5
+LO1,Original,02_09_2006,16
+LO1,Original,11_16_2006,16
+LO1,Original,05_08_2007,16
+LO1,Original,07_26_2007,16
+LO1,Original,08_23_2007,16
+LO1,Original,11_19_2007,16
+LO1,Original,02_22_2008,16
+LO1,Original,06_12_2008,16
+LO1,Original,08_15_2008,16
+LO1,Original,10_29_2008,Nr
+LO1,Original,11_25_2008,16
+LO1,Original,01_14_2009,16
+LO1,Original,05_06_2009,16
+LO1,Original,05_20_2009,8
+LO1,Original,08_21_2009,16
+LO1,Original,10_19_2009,16
+LO1,Original,01_20_2010,16
+LO1,Original,04_21_2010,16
+LO1,Original,08_12_2010,16
+LO1,Original,10_29_2010,16
+LO1,Original,01_27_2011,16
+LO1,Original,05_03_2011,8
+LO1,Original,08_08_2011,14
+LO1,Original,09_11_2014,16
+LO1,Original,08_22_2017,4
+LO1,Shallow,08_08_2000,Nr
+LO1,Shallow,11_14_2000,Nr
+LO1,Shallow,02_28_2001,Nr
+LO1,Shallow,06_20_2001,Nr
+LO1,Shallow,08_15_2001,Nr
+LO1,Shallow,01_04_2002,Nr
+LO1,Shallow,04_17_2002,Nr
+LO1,Shallow,07_02_2002,Nr
+LO1,Shallow,10_25_2002,Nr
+LO1,Shallow,05_06_2003,Nr
+LO1,Shallow,08_26_2003,Nr
+LO1,Shallow,11_18_2003,Nr
+LO1,Shallow,03_15_2004,Nr
+LO1,Shallow,07_30_2004,Nr
+LO1,Shallow,03_29_2005,Nr
+LO1,Shallow,02_09_2006,Nr
+LO1,Shallow,11_16_2006,Nr
+LO1,Shallow,05_08_2007,8
+LO1,Shallow,07_26_2007,8
+LO1,Shallow,08_23_2007,8
+LO1,Shallow,11_19_2007,8
+LO1,Shallow,02_22_2008,8
+LO1,Shallow,06_12_2008,8
+LO1,Shallow,08_15_2008,8
+LO1,Shallow,10_29_2008,8
+LO1,Shallow,11_25_2008,Nr
+LO1,Shallow,01_14_2009,8
+LO1,Shallow,05_06_2009,8
+LO1,Shallow,05_20_2009,8
+LO1,Shallow,08_21_2009,8
+LO1,Shallow,10_19_2009,8
+LO1,Shallow,01_20_2010,8
+LO1,Shallow,04_21_2010,8
+LO1,Shallow,08_12_2010,8
+LO1,Shallow,10_29_2010,8
+LO1,Shallow,01_27_2011,8
+LO1,Shallow,05_03_2011,8
+LO1,Shallow,08_08_2011,8
+LO1,Shallow,09_11_2014,4
+LO1,Shallow,08_22_2017,Nr
+LO2,Original,08_09_2000,16
+LO2,Original,11_15_2000,16
+LO2,Original,02_28_2001,16
+LO2,Original,06_20_2001,16
+LO2,Original,08_15_2001,1
+LO2,Original,01_07_2002,16
+LO2,Original,04_17_2002,16
+LO2,Original,07_02_2002,16
+LO2,Original,10_25_2002,16
+LO2,Original,05_06_2003,16
+LO2,Original,08_26_2003,16
+LO2,Original,11_18_2003,16
+LO2,Original,03_15_2004,16
+LO2,Original,07_30_2004,5
+LO2,Original,03_29_2005,5
+LO2,Original,02_09_2006,16
+LO2,Original,06_21_2006,16
+LO2,Original,11_16_2006,16
+LO2,Original,05_08_2007,16
+LO2,Original,07_25_2007,16
+LO2,Original,07_26_2007,16
+LO2,Original,11_19_2007,16
+LO2,Original,02_22_2008,16
+LO2,Original,06_12_2008,16
+LO2,Original,08_15_2008,16
+LO2,Original,10_29_2008,16
+LO2,Original,01_14_2009,16
+LO2,Original,05_06_2009,16
+LO2,Original,08_20_2009,16
+LO2,Original,10_19_2009,16
+LO2,Original,01_20_2010,16
+LO2,Original,04_21_2010,16
+LO2,Original,08_12_2010,14
+LO2,Original,10_29_2010,16
+LO2,Original,01_27_2011,8
+LO2,Original,05_03_2011,8
+LO2,Original,08_08_2011,14
+LO2,Original,02_01_2017,4
+LO2,Shallow,08_09_2000,Nr
+LO2,Shallow,11_15_2000,Nr
+LO2,Shallow,02_28_2001,Nr
+LO2,Shallow,06_20_2001,Nr
+LO2,Shallow,08_15_2001,Nr
+LO2,Shallow,01_07_2002,Nr
+LO2,Shallow,04_17_2002,Nr
+LO2,Shallow,07_02_2002,Nr
+LO2,Shallow,10_25_2002,Nr
+LO2,Shallow,05_06_2003,Nr
+LO2,Shallow,08_26_2003,Nr
+LO2,Shallow,11_18_2003,Nr
+LO2,Shallow,03_15_2004,Nr
+LO2,Shallow,07_30_2004,Nr
+LO2,Shallow,03_29_2005,Nr
+LO2,Shallow,02_09_2006,Nr
+LO2,Shallow,06_21_2006,Nr
+LO2,Shallow,11_16_2006,Nr
+LO2,Shallow,05_08_2007,8
+LO2,Shallow,07_25_2007,Nr
+LO2,Shallow,07_26_2007,8
+LO2,Shallow,11_19_2007,8
+LO2,Shallow,02_22_2008,8
+LO2,Shallow,06_12_2008,8
+LO2,Shallow,08_15_2008,8
+LO2,Shallow,10_29_2008,8
+LO2,Shallow,01_14_2009,8
+LO2,Shallow,05_06_2009,8
+LO2,Shallow,08_20_2009,8
+LO2,Shallow,10_19_2009,8
+LO2,Shallow,01_20_2010,8
+LO2,Shallow,04_21_2010,8
+LO2,Shallow,08_12_2010,8
+LO2,Shallow,10_29_2010,8
+LO2,Shallow,01_27_2011,8
+LO2,Shallow,05_03_2011,8
+LO2,Shallow,08_08_2011,8
+LO2,Shallow,02_01_2017,Nr
+LO3,Deep,07_14_1999,Nr
+LO3,Deep,11_10_1999,Nr
+LO3,Deep,03_09_2000,Nr
+LO3,Deep,07_21_2000,Nr
+LO3,Deep,11_22_2000,Nr
+LO3,Deep,02_26_2001,Nr
+LO3,Deep,06_24_2001,Nr
+LO3,Deep,08_20_2001,Nr
+LO3,Deep,01_05_2002,Nr
+LO3,Deep,04_16_2002,Nr
+LO3,Deep,07_11_2002,Nr
+LO3,Deep,10_23_2002,Nr
+LO3,Deep,04_22_2003,Nr
+LO3,Deep,08_25_2003,Nr
+LO3,Deep,11_21_2003,Nr
+LO3,Deep,03_14_2004,Nr
+LO3,Deep,06_15_2004,Nr
+LO3,Deep,02_17_2005,Nr
+LO3,Deep,06_15_2005,Nr
+LO3,Deep,02_08_2006,Nr
+LO3,Deep,06_23_2006,Nr
+LO3,Deep,01_16_2007,Nr
+LO3,Deep,05_14_2007,4
+LO3,Deep,07_26_2007,4
+LO3,Deep,07_27_2007,4
+LO3,Deep,11_21_2007,6
+LO3,Deep,02_19_2008,4
+LO3,Deep,05_15_2008,16
+LO3,Deep,08_13_2008,16
+LO3,Deep,10_11_2008,8
+LO3,Deep,05_05_2009,8
+LO3,Deep,08_17_2009,8
+LO3,Deep,11_30_2009,8
+LO3,Deep,02_24_2010,8
+LO3,Deep,05_10_2010,8
+LO3,Deep,08_09_2010,8
+LO3,Deep,11_18_2010,8
+LO3,Deep,02_14_2011,8
+LO3,Deep,05_16_2011,8
+LO3,Deep,08_10_2011,8
+LO3,Deep,09_09_2014,Nr
+LO3,Deep,09_14_2016,17
+LO3,Deep,11_14_2016,17
+LO3,Deep,05_10_2017,17
+LO3,Deep,12_04_2017,17
+LO3,Deep,05_10_2018,17
+LO3,Deep,12_08_2018,17
+LO3,Deep,04_29_2019,17
+LO3,Shallow,07_14_1999,Nr
+LO3,Shallow,11_10_1999,Nr
+LO3,Shallow,03_09_2000,Nr
+LO3,Shallow,07_21_2000,Nr
+LO3,Shallow,11_22_2000,Nr
+LO3,Shallow,02_26_2001,Nr
+LO3,Shallow,06_24_2001,Nr
+LO3,Shallow,08_20_2001,Nr
+LO3,Shallow,01_05_2002,Nr
+LO3,Shallow,04_16_2002,Nr
+LO3,Shallow,07_11_2002,Nr
+LO3,Shallow,10_23_2002,Nr
+LO3,Shallow,04_22_2003,Nr
+LO3,Shallow,08_25_2003,Nr
+LO3,Shallow,11_21_2003,Nr
+LO3,Shallow,03_14_2004,Nr
+LO3,Shallow,06_15_2004,Nr
+LO3,Shallow,02_17_2005,Nr
+LO3,Shallow,06_15_2005,Nr
+LO3,Shallow,02_08_2006,Nr
+LO3,Shallow,06_23_2006,Nr
+LO3,Shallow,01_16_2007,Nr
+LO3,Shallow,05_14_2007,8
+LO3,Shallow,07_26_2007,Nr
+LO3,Shallow,07_27_2007,8
+LO3,Shallow,11_21_2007,8
+LO3,Shallow,02_19_2008,8
+LO3,Shallow,05_15_2008,8
+LO3,Shallow,08_13_2008,8
+LO3,Shallow,10_11_2008,8
+LO3,Shallow,05_05_2009,8
+LO3,Shallow,08_17_2009,8
+LO3,Shallow,11_30_2009,8
+LO3,Shallow,02_24_2010,8
+LO3,Shallow,05_10_2010,8
+LO3,Shallow,08_09_2010,8
+LO3,Shallow,11_18_2010,8
+LO3,Shallow,02_14_2011,8
+LO3,Shallow,05_16_2011,8
+LO3,Shallow,08_10_2011,8
+LO3,Shallow,09_09_2014,4
+LO3,Shallow,09_14_2016,17
+LO3,Shallow,11_14_2016,17
+LO3,Shallow,05_10_2017,17
+LO3,Shallow,12_04_2017,17
+LO3,Shallow,05_10_2018,17
+LO3,Shallow,12_08_2018,17
+LO3,Shallow,04_29_2019,17
+LO3,Original,07_14_1999,10
+LO3,Original,11_10_1999,10
+LO3,Original,03_09_2000,10
+LO3,Original,07_21_2000,16
+LO3,Original,11_22_2000,16
+LO3,Original,02_26_2001,16
+LO3,Original,06_24_2001,16
+LO3,Original,08_20_2001,1
+LO3,Original,01_05_2002,16
+LO3,Original,04_16_2002,16
+LO3,Original,07_11_2002,16
+LO3,Original,10_23_2002,16
+LO3,Original,04_22_2003,16
+LO3,Original,08_25_2003,16
+LO3,Original,11_21_2003,16
+LO3,Original,03_14_2004,16
+LO3,Original,06_15_2004,3
+LO3,Original,02_17_2005,16
+LO3,Original,06_15_2005,5
+LO3,Original,02_08_2006,16
+LO3,Original,06_23_2006,16
+LO3,Original,01_16_2007,16
+LO3,Original,05_14_2007,16
+LO3,Original,07_26_2007,Nr
+LO3,Original,07_27_2007,16
+LO3,Original,11_21_2007,12
+LO3,Original,02_19_2008,16
+LO3,Original,05_15_2008,16
+LO3,Original,08_13_2008,16
+LO3,Original,10_11_2008,16
+LO3,Original,05_05_2009,16
+LO3,Original,08_17_2009,16
+LO3,Original,11_30_2009,16
+LO3,Original,02_24_2010,4
+LO3,Original,05_10_2010,14
+LO3,Original,08_09_2010,14
+LO3,Original,11_18_2010,14
+LO3,Original,02_14_2011,14
+LO3,Original,05_16_2011,14
+LO3,Original,08_10_2011,14
+LO3,Original,09_09_2014,16
+LO3,Original,09_14_2016,4
+LO3,Original,11_14_2016,Nr
+LO3,Original,05_10_2017,4
+LO3,Original,12_04_2017,4
+LO3,Original,05_10_2018,4
+LO3,Original,12_08_2018,4
+LO3,Original,04_29_2019,4
+SH1,Shallow,07_12_1999,Nr
+SH1,Shallow,01_17_2000,Nr
+SH1,Shallow,05_25_2000,Nr
+SH1,Shallow,10_19_2000,Nr
+SH1,Shallow,01_19_2001,Nr
+SH1,Shallow,04_24_2001,Nr
+SH1,Shallow,08_08_2001,Nr
+SH1,Shallow,01_03_2002,Nr
+SH1,Shallow,04_18_2002,Nr
+SH1,Shallow,07_03_2002,Nr
+SH1,Shallow,10_25_2002,Nr
+SH1,Shallow,01_16_2003,Nr
+SH1,Shallow,06_04_2003,Nr
+SH1,Shallow,11_21_2003,Nr
+SH1,Shallow,03_09_2004,Nr
+SH1,Shallow,08_04_2004,Nr
+SH1,Shallow,03_11_2005,Nr
+SH1,Shallow,07_14_2006,Nr
+SH1,Shallow,12_14_2006,Nr
+SH1,Shallow,01_18_2007,8
+SH1,Shallow,06_12_2007,8
+SH1,Shallow,09_13_2007,8
+SH1,Shallow,12_04_2007,8
+SH1,Shallow,02_25_2008,8
+SH1,Shallow,03_21_2008,8
+SH1,Shallow,05_27_2008,8
+SH1,Shallow,09_19_2008,8
+SH1,Shallow,11_21_2008,8
+SH1,Shallow,02_05_2009,8
+SH1,Shallow,05_20_2009,8
+SH1,Shallow,08_13_2009,8
+SH1,Shallow,11_19_2009,8
+SH1,Shallow,02_25_2010,8
+SH1,Shallow,04_03_2010,8
+SH1,Shallow,05_13_2010,8
+SH1,Shallow,08_25_2010,8
+SH1,Shallow,11_03_2010,8
+SH1,Shallow,02_24_2011,8
+SH1,Shallow,05_12_2011,8
+SH1,Shallow,09_06_2011,8
+SH1,Shallow,05_30_2013,Nr
+SH1,Shallow,06_28_2018,Nr
+SH1,Original,07_12_1999,4
+SH1,Original,01_17_2000,4
+SH1,Original,05_25_2000,4
+SH1,Original,10_19_2000,4
+SH1,Original,01_19_2001,4
+SH1,Original,04_24_2001,4
+SH1,Original,08_08_2001,1
+SH1,Original,01_03_2002,4
+SH1,Original,04_18_2002,4
+SH1,Original,07_03_2002,4
+SH1,Original,10_25_2002,4
+SH1,Original,01_16_2003,4
+SH1,Original,06_04_2003,4
+SH1,Original,11_21_2003,4
+SH1,Original,03_09_2004,4
+SH1,Original,08_04_2004,4
+SH1,Original,03_11_2005,4
+SH1,Original,07_14_2006,4
+SH1,Original,12_14_2006,4
+SH1,Original,01_18_2007,Nr
+SH1,Original,06_12_2007,4
+SH1,Original,09_13_2007,4
+SH1,Original,12_04_2007,4
+SH1,Original,02_25_2008,Nr
+SH1,Original,03_21_2008,4
+SH1,Original,05_27_2008,4
+SH1,Original,09_19_2008,4
+SH1,Original,11_21_2008,4
+SH1,Original,02_05_2009,4
+SH1,Original,05_20_2009,4
+SH1,Original,08_13_2009,4
+SH1,Original,11_19_2009,4
+SH1,Original,02_25_2010,4
+SH1,Original,04_03_2010,Nr
+SH1,Original,05_13_2010,4
+SH1,Original,08_25_2010,4
+SH1,Original,11_03_2010,4
+SH1,Original,02_24_2011,4
+SH1,Original,05_12_2011,4
+SH1,Original,09_06_2011,4
+SH1,Original,05_30_2013,4
+SH1,Original,06_28_2018,4
+SH2,Shallow,07_28_1998,Nr
+SH2,Shallow,10_27_1998,Nr
+SH2,Shallow,01_26_1999,Nr
+SH2,Shallow,07_13_1999,Nr
+SH2,Shallow,10_13_1999,Nr
+SH2,Shallow,02_18_2000,Nr
+SH2,Shallow,07_17_2000,Nr
+SH2,Shallow,10_18_2000,Nr
+SH2,Shallow,01_17_2001,Nr
+SH2,Shallow,05_03_2001,Nr
+SH2,Shallow,07_31_2001,Nr
+SH2,Shallow,01_28_2002,Nr
+SH2,Shallow,04_18_2002,Nr
+SH2,Shallow,07_05_2002,Nr
+SH2,Shallow,10_22_2002,Nr
+SH2,Shallow,04_22_2003,Nr
+SH2,Shallow,08_26_2003,Nr
+SH2,Shallow,11_20_2003,Nr
+SH2,Shallow,02_27_2004,Nr
+SH2,Shallow,06_18_2004,Nr
+SH2,Shallow,08_17_2004,Nr
+SH2,Shallow,02_07_2005,Nr
+SH2,Shallow,06_15_2005,Nr
+SH2,Shallow,02_10_2006,Nr
+SH2,Shallow,06_22_2006,Nr
+SH2,Shallow,11_14_2006,Nr
+SH2,Shallow,12_12_2006,8
+SH2,Shallow,04_10_2007,8
+SH2,Shallow,07_11_2007,8
+SH2,Shallow,10_15_2007,8
+SH2,Shallow,01_08_2008,8
+SH2,Shallow,04_07_2008,8
+SH2,Shallow,07_22_2008,8
+SH2,Shallow,10_27_2008,8
+SH2,Shallow,01_13_2009,8
+SH2,Shallow,04_14_2009,8
+SH2,Shallow,07_21_2009,8
+SH2,Shallow,10_20_2009,8
+SH2,Shallow,01_22_2010,8
+SH2,Shallow,05_11_2010,8
+SH2,Shallow,08_13_2010,8
+SH2,Shallow,11_16_2010,8
+SH2,Shallow,03_22_2011,8
+SH2,Shallow,05_18_2011,8
+SH2,Shallow,08_11_2011,8
+SH2,Shallow,05_06_2013,8
+SH2,Shallow,09_08_2014,8
+SH2,Shallow,09_22_2015,17
+SH2,Shallow,09_22_2016,17
+SH2,Shallow,05_12_2017,17
+SH2,Shallow,12_05_2017,17
+SH2,Shallow,05_06_2018,17
+SH2,Shallow,12_10_2018,17
+SH2,Shallow,04_27_2019,17
+SH2,Original,07_28_1998,11
+SH2,Original,10_27_1998,11
+SH2,Original,01_26_1999,11
+SH2,Original,07_13_1999,11
+SH2,Original,10_13_1999,10
+SH2,Original,02_18_2000,10
+SH2,Original,07_17_2000,16
+SH2,Original,10_18_2000,16
+SH2,Original,01_17_2001,16
+SH2,Original,05_03_2001,1
+SH2,Original,07_31_2001,1
+SH2,Original,01_28_2002,1
+SH2,Original,04_18_2002,16
+SH2,Original,07_05_2002,16
+SH2,Original,10_22_2002,16
+SH2,Original,04_22_2003,16
+SH2,Original,08_26_2003,16
+SH2,Original,11_20_2003,16
+SH2,Original,02_27_2004,3
+SH2,Original,06_18_2004,3
+SH2,Original,08_17_2004,3
+SH2,Original,02_07_2005,5
+SH2,Original,06_15_2005,5
+SH2,Original,02_10_2006,16
+SH2,Original,06_22_2006,5
+SH2,Original,11_14_2006,16
+SH2,Original,12_12_2006,Nr
+SH2,Original,04_10_2007,16
+SH2,Original,07_11_2007,16
+SH2,Original,10_15_2007,16
+SH2,Original,01_08_2008,16
+SH2,Original,04_07_2008,16
+SH2,Original,07_22_2008,16
+SH2,Original,10_27_2008,16
+SH2,Original,01_13_2009,16
+SH2,Original,04_14_2009,16
+SH2,Original,07_21_2009,16
+SH2,Original,10_20_2009,16
+SH2,Original,01_22_2010,14
+SH2,Original,05_11_2010,14
+SH2,Original,08_13_2010,14
+SH2,Original,11_16_2010,14
+SH2,Original,03_22_2011,16
+SH2,Original,05_18_2011,14
+SH2,Original,08_11_2011,14
+SH2,Original,05_06_2013,9
+SH2,Original,09_08_2014,16
+SH2,Original,09_22_2015,4
+SH2,Original,09_22_2016,4
+SH2,Original,05_12_2017,4
+SH2,Original,12_05_2017,4
+SH2,Original,05_06_2018,4
+SH2,Original,12_10_2018,4
+SH2,Original,04_27_2019,4
+SH3,Deep,07_28_1998,Nr
+SH3,Deep,10_27_1998,Nr
+SH3,Deep,01_26_1999,Nr
+SH3,Deep,07_12_1999,Nr
+SH3,Deep,10_27_1999,Nr
+SH3,Deep,02_25_2000,Nr
+SH3,Deep,06_22_2000,Nr
+SH3,Deep,07_18_2000,Nr
+SH3,Deep,10_17_2000,Nr
+SH3,Deep,01_17_2001,Nr
+SH3,Deep,05_02_2001,Nr
+SH3,Deep,07_31_2001,Nr
+SH3,Deep,01_07_2002,Nr
+SH3,Deep,03_18_2002,9
+SH3,Deep,04_18_2002,9
+SH3,Deep,05_16_2002,9
+SH3,Deep,06_03_2002,9
+SH3,Deep,07_12_2002,9
+SH3,Deep,08_12_2002,9
+SH3,Deep,09_10_2002,9
+SH3,Deep,10_10_2002,9
+SH3,Deep,11_09_2002,9
+SH3,Deep,12_13_2002,9
+SH3,Deep,01_09_2003,9
+SH3,Deep,02_20_2003,9
+SH3,Deep,03_21_2003,9
+SH3,Deep,04_24_2003,Nr
+SH3,Deep,10_02_2003,9
+SH3,Deep,02_25_2004,9
+SH3,Deep,07_21_2004,9
+SH3,Deep,02_11_2005,9
+SH3,Deep,06_13_2005,9
+SH3,Deep,11_09_2005,9
+SH3,Deep,06_19_2006,16
+SH3,Deep,11_14_2006,9
+SH3,Deep,03_17_2007,16
+SH3,Deep,06_09_2007,16
+SH3,Deep,09_12_2007,16
+SH3,Deep,11_20_2007,6
+SH3,Deep,03_10_2008,8
+SH3,Deep,06_13_2008,8
+SH3,Deep,09_15_2008,8
+SH3,Deep,11_11_2008,8
+SH3,Deep,02_02_2009,8
+SH3,Deep,05_08_2009,8
+SH3,Deep,08_18_2009,8
+SH3,Deep,12_01_2009,8
+SH3,Deep,01_19_2010,8
+SH3,Deep,04_20_2010,8
+SH3,Deep,07_29_2010,8
+SH3,Deep,10_28_2010,8
+SH3,Deep,01_25_2011,8
+SH3,Deep,04_06_2011,8
+SH3,Deep,07_20_2011,Nr
+SH3,Deep,08_03_2011,8
+SH3,Deep,05_08_2013,8
+SH3,Deep,09_08_2014,8
+SH3,Deep,09_21_2015,17
+SH3,Deep,09_19_2016,17
+SH3,Deep,05_09_2017,17
+SH3,Deep,12_05_2017,17
+SH3,Deep,05_08_2018,17
+SH3,Deep,12_09_2018,17
+SH3,Deep,04_27_2019,17
+SH3,Original,07_28_1998,Nr
+SH3,Original,10_27_1998,Nr
+SH3,Original,01_26_1999,Nr
+SH3,Original,07_12_1999,10
+SH3,Original,10_27_1999,16
+SH3,Original,02_25_2000,10
+SH3,Original,06_22_2000,16
+SH3,Original,07_18_2000,16
+SH3,Original,10_17_2000,16
+SH3,Original,01_17_2001,16
+SH3,Original,05_02_2001,1
+SH3,Original,07_31_2001,1
+SH3,Original,01_07_2002,13
+SH3,Original,03_18_2002,1
+SH3,Original,04_18_2002,16
+SH3,Original,05_16_2002,1
+SH3,Original,06_03_2002,1
+SH3,Original,07_12_2002,Nr
+SH3,Original,08_12_2002,1
+SH3,Original,09_10_2002,1
+SH3,Original,10_10_2002,1
+SH3,Original,11_09_2002,1
+SH3,Original,12_13_2002,1
+SH3,Original,01_09_2003,15
+SH3,Original,02_20_2003,16
+SH3,Original,03_21_2003,3
+SH3,Original,04_24_2003,3
+SH3,Original,10_02_2003,4
+SH3,Original,02_25_2004,3
+SH3,Original,07_21_2004,3
+SH3,Original,02_11_2005,2
+SH3,Original,06_13_2005,5
+SH3,Original,11_09_2005,5
+SH3,Original,06_19_2006,16
+SH3,Original,11_14_2006,16
+SH3,Original,03_17_2003,16
+SH3,Original,06_09_2007,16
+SH3,Original,09_12_2007,16
+SH3,Original,11_20_2007,16
+SH3,Original,03_10_2008,16
+SH3,Original,06_13_2008,16
+SH3,Original,09_15_2009,16
+SH3,Original,11_11_2008,16
+SH3,Original,02_02_2009,16
+SH3,Original,05_08_2009,16
+SH3,Original,08_18_2009,16
+SH3,Original,12_01_2009,16
+SH3,Original,01_19_2010,16
+SH3,Original,04_20_2010,16
+SH3,Original,07_29_2010,14
+SH3,Original,10_28_2010,16
+SH3,Original,01_25_2011,16
+SH3,Original,04_06_2011,16
+SH3,Original,07_20_2011,14
+SH3,Original,08_03_2011,Nr
+SH3,Original,05_08_2013,9
+SH3,Original,09_08_2014,16
+SH3,Original,09_21_2015,4
+SH3,Original,09_19_2016,4
+SH3,Original,05_09_2017,4
+SH3,Original,12_05_2017,4
+SH3,Original,05_08_2018,4
+SH3,Original,12_09_2018,4
+SH3,Original,04_27_2019,4
+SH3,Shallow,07_28_1998,Nr
+SH3,Shallow,10_27_1998,Nr
+SH3,Shallow,01_26_1999,Nr
+SH3,Shallow,07_12_1999,Nr
+SH3,Shallow,10_27_1999,Nr
+SH3,Shallow,02_25_2000,Nr
+SH3,Shallow,06_22_2000,Nr
+SH3,Shallow,07_18_2000,Nr
+SH3,Shallow,10_17_2000,Nr
+SH3,Shallow,01_17_2001,Nr
+SH3,Shallow,05_02_2001,Nr
+SH3,Shallow,07_31_2001,Nr
+SH3,Shallow,01_07_2002,Nr
+SH3,Shallow,03_18_2002,9
+SH3,Shallow,04_18_2002,9
+SH3,Shallow,05_16_2002,9
+SH3,Shallow,06_03_2002,9
+SH3,Shallow,07_12_2002,9
+SH3,Shallow,08_12_2002,9
+SH3,Shallow,09_10_2002,9
+SH3,Shallow,10_10_2002,9
+SH3,Shallow,11_09_2002,9
+SH3,Shallow,12_13_2002,9
+SH3,Shallow,01_09_2003,9
+SH3,Shallow,02_20_2003,9
+SH3,Shallow,03_21_2003,9
+SH3,Shallow,04_24_2003,Nr
+SH3,Shallow,10_02_2003,9
+SH3,Shallow,02_25_2004,9
+SH3,Shallow,07_21_2004,9
+SH3,Shallow,02_11_2005,9
+SH3,Shallow,06_13_2005,9
+SH3,Shallow,11_09_2005,9
+SH3,Shallow,06_19_2006,16
+SH3,Shallow,11_14_2006,9
+SH3,Shallow,03_17_2007,16
+SH3,Shallow,06_09_2007,16
+SH3,Shallow,09_12_2007,16
+SH3,Shallow,11_20_2007,16
+SH3,Shallow,03_10_2008,6
+SH3,Shallow,06_13_2008,8
+SH3,Shallow,09_15_2009,8
+SH3,Shallow,11_11_2008,8
+SH3,Shallow,02_02_2009,8
+SH3,Shallow,05_08_2009,8
+SH3,Shallow,08_18_2009,8
+SH3,Shallow,12_01_2009,8
+SH3,Shallow,01_19_2010,8
+SH3,Shallow,04_20_2010,8
+SH3,Shallow,07_29_2010,8
+SH3,Shallow,10_28_2010,8
+SH3,Shallow,01_25_2011,8
+SH3,Shallow,04_06_2011,8
+SH3,Shallow,07_20_2011,Nr
+SH3,Shallow,08_03_2011,8
+SH3,Shallow,05_08_2013,8
+SH3,Shallow,09_08_2014,8
+SH3,Shallow,09_21_2015,17
+SH3,Shallow,09_19_2016,17
+SH3,Shallow,05_09_2017,17
+SH3,Shallow,12_05_2017,17
+SH3,Shallow,05_08_2018,17
+SH3,Shallow,12_09_2018,17
+SH3,Shallow,04_27_2019,17
+SH4,Deep,12_13_2006,Nr
+SH4,Deep,12_19_2006,16
+SH4,Deep,02_28_2007,16
+SH4,Deep,06_08_2007,16
+SH4,Deep,09_11_2007,16
+SH4,Deep,11_23_2007,6
+SH4,Deep,03_12_2008,16
+SH4,Deep,06_10_2008,16
+SH4,Deep,09_17_2008,16
+SH4,Deep,11_26_2008,16
+SH4,Deep,02_03_2009,16
+SH4,Deep,05_04_2009,16
+SH4,Deep,07_20_2009,16
+SH4,Deep,12_02_2009,16
+SH4,Deep,02_10_2010,Nr
+SH4,Deep,03_05_2010,8
+SH4,Deep,05_12_2010,14
+SH4,Deep,08_11_2010,14
+SH4,Deep,11_17_2010,14
+SH4,Deep,02_15_2011,Nr
+SH4,Deep,02_16_2011,14
+SH4,Deep,05_17_2011,14
+SH4,Deep,08_09_2011,14
+SH4,Deep,05_07_2013,9
+SH4,Deep,09_10_2014,9
+SH4,Deep,09_23_2015,17
+SH4,Deep,09_21_2016,17
+SH4,Deep,05_11_2017,17
+SH4,Deep,12_06_2017,17
+SH4,Deep,05_09_2018,17
+SH4,Deep,12_11_2018,17
+SH4,Deep,04_28_2019,17
+SH4,Shallow,12_13_2006,8
+SH4,Shallow,12_19_2006,Nr
+SH4,Shallow,02_28_2007,8
+SH4,Shallow,06_08_2007,8
+SH4,Shallow,09_11_2007,8
+SH4,Shallow,11_23_2007,8
+SH4,Shallow,03_12_2008,8
+SH4,Shallow,06_10_2008,8
+SH4,Shallow,09_17_2008,8
+SH4,Shallow,11_26_2008,8
+SH4,Shallow,02_03_2009,8
+SH4,Shallow,05_04_2009,8
+SH4,Shallow,07_20_2009,8
+SH4,Shallow,12_02_2009,8
+SH4,Shallow,02_10_2010,8
+SH4,Shallow,03_05_2010,Nr
+SH4,Shallow,05_12_2010,8
+SH4,Shallow,08_11_2010,8
+SH4,Shallow,11_17_2010,8
+SH4,Shallow,02_15_2011,8
+SH4,Shallow,02_16_2011,Nr
+SH4,Shallow,05_17_2011,8
+SH4,Shallow,08_09_2011,8
+SH4,Shallow,05_07_2013,8
+SH4,Shallow,09_10_2014,4
+SH4,Shallow,09_23_2015,4
+SH4,Shallow,09_21_2016,4
+SH4,Shallow,05_11_2017,4
+SH4,Shallow,12_06_2017,4
+SH4,Shallow,05_09_2018,4
+SH4,Shallow,12_11_2018,4
+SH4,Shallow,04_28_2019,4
+SH5,Deep,12_13_2006,16
+SH5,Deep,01_23_2007,16
+SH5,Deep,02_28_2007,16
+SH5,Deep,06_08_2007,16
+SH5,Deep,09_11_2007,16
+SH5,Deep,11_23_2007,16
+SH5,Deep,03_12_2008,16
+SH5,Deep,06_10_2008,16
+SH5,Deep,09_17_2008,16
+SH5,Deep,02_03_2009,16
+SH5,Deep,05_04_2009,16
+SH5,Deep,07_20_2009,16
+SH5,Deep,12_02_2009,16
+SH5,Deep,02_10_2010,Nr
+SH5,Deep,03_05_2010,8
+SH5,Deep,05_12_2010,14
+SH5,Deep,08_11_2010,14
+SH5,Deep,11_17_2010,14
+SH5,Deep,02_15_2011,Nr
+SH5,Deep,02_16_2011,14
+SH5,Deep,05_17_2011,14
+SH5,Deep,08_09_2011,14
+SH5,Deep,05_07_2013,9
+SH5,Deep,09_10_2014,9
+SH5,Deep,09_23_2015,17
+SH5,Deep,09_21_2016,17
+SH5,Deep,05_11_2017,17
+SH5,Deep,12_06_2017,17
+SH5,Deep,05_09_2018,17
+SH5,Deep,12_11_2018,17
+SH5,Deep,04_28_2019,17
+SH5,Shallow,12_13_2006,8
+SH5,Shallow,01_23_2007,Nr
+SH5,Shallow,02_28_2007,8
+SH5,Shallow,06_08_2007,8
+SH5,Shallow,09_11_2007,8
+SH5,Shallow,11_23_2007,8
+SH5,Shallow,03_12_2008,8
+SH5,Shallow,06_10_2008,8
+SH5,Shallow,09_17_2008,8
+SH5,Shallow,02_03_2009,8
+SH5,Shallow,05_04_2009,8
+SH5,Shallow,07_20_2009,8
+SH5,Shallow,12_02_2009,8
+SH5,Shallow,02_10_2010,8
+SH5,Shallow,03_05_2010,Nr
+SH5,Shallow,05_12_2010,8
+SH5,Shallow,08_11_2010,8
+SH5,Shallow,11_17_2010,8
+SH5,Shallow,02_15_2011,8
+SH5,Shallow,02_16_2011,Nr
+SH5,Shallow,05_17_2011,8
+SH5,Shallow,08_09_2011,8
+SH5,Shallow,05_07_2013,8
+SH5,Shallow,09_10_2014,4
+SH5,Shallow,09_23_2015,4
+SH5,Shallow,09_21_2016,4
+SH5,Shallow,05_11_2017,4
+SH5,Shallow,12_06_2017,4
+SH5,Shallow,05_09_2018,4
+SH5,Shallow,12_11_2018,4
+SH5,Shallow,04_28_2019,4

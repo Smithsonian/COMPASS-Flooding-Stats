@@ -1,0 +1,1012 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Brett A. Patton</origin>
+        <origin>William C. Vervaeke</origin>
+        <origin>Nicholas M. Enwright</origin>
+        <origin>Hana R. Thurman</origin>
+        <origin>Bethanie M. Simons</origin>
+        <pubdate>20231027</pubdate>
+        <title>Wetland vegetation and elevation survey within the Timucuan Ecological and Historic Preserve, Jacksonville, Florida, 2021–2022</title>
+        <geoform>spreadsheet</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9AL9DEM</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Nicholas M. Enwright</origin>
+            <origin>Michael J. Osland</origin>
+            <origin>Hana R. Thurman</origin>
+            <origin>Claire E. McHenry</origin>
+            <origin>William C. Vervaeke</origin>
+            <origin>Brett A. Patton</origin>
+            <origin>Davina L. Passeri</origin>
+            <origin>Jason M. Stoker</origin>
+            <origin>Richard H. Day</origin>
+            <origin>Bethanie M. Simons</origin>
+            <pubdate>20240603</pubdate>
+            <title>Enhancing Assessments of Coastal Wetland Migration Potential with Sea-level Rise: Accounting for Uncertainty in Elevation Data, Tidal Data, and Future Water Levels</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Springer Science and Business Media LLC</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.1007/s12237-024-01363-6</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Vegetation and elevation data were collected using a real-time kinematic global positioning system (RTK GPS) in coastal wetlands at the National Park Service’s Timucuan Ecological and Historic Preserve in summer 2021 and winter 2022 (n = 362). For each 0.5-by-0.5 m plot, the following data were collected: 1) percent cover by vegetation species; 2) percent cover by vegetation classes based on height (that is, carpet, herbaceous, and woody); 3) mean height of the dominant species; 4) water depth; 5) marsh class based on dominant vegetation species; and 6) location and elevation (that is, northing, easting, and elevation).</abstract>
+      <purpose>This project was funded by the U.S. Geological Survey Natural Resources Preservation Program. These data were collected to provide baseline information on marsh species and for developing a model to reduce the error in coastal wetlands for the digital elevation model spanning the preserve.</purpose>
+      <supplinf>Author ORCIDs: Patton, B.A.(0000-0002-7396-3452);Vervaeke, W.C.(0000-0002-1518-5197);Enwright, N.M.(0000-0002-7887-3261);Thurman, H.R.(0000-0001-7097-5362);Simons, B.M.(0009-0002-1214-3239)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20210724</begdate>
+          <enddate>20220201</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Duval and Nassau Counties, Florida</descgeog>
+      <bounding>
+        <westbc>-82.0631</westbc>
+        <eastbc>-81.3701</eastbc>
+        <northbc>30.8383</northbc>
+        <southbc>30.1059</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>environment</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>wetland ecosystems</themekey>
+        <themekey>coastal ecosystems</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:64f0f2c1d34efb959f41b119</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Florida</placekey>
+        <placekey>South Atlantic</placekey>
+        <placekey>United States</placekey>
+        <placekey>Timucuan Ecological And Historic Preserve</placekey>
+        <placekey>Duval</placekey>
+        <placekey>Nassau</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Nicholas M Enwright</cntper>
+          <cntorg>U.S. Geological Survey, Southeast Region</cntorg>
+        </cntperp>
+        <cntpos>Research Geographer</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-262-7613</cntvoice>
+        <cntfax>337-266-8513</cntfax>
+        <cntemail>enwrightn@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This project was funded by the U.S. Geological Survey Natural Resources Preservation Program. We thank Steve Kidd from NPS for his contribution to this project regarding site access and logistics.</datacred>
+    <native>Environment as of Metadata Creation: Microsoft Windows 10</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted.</logic>
+    <complete>Dataset is considered complete for the information described in the abstract.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal vertical accuracy tests were conducted.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Oceanic and Atmospheric Administration, Office for Coastal Management</origin>
+            <pubdate>2016</pubdate>
+            <title>Coastal Change Analysis Program (C-CAP) Regional Land Cover</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Charleston, SC</pubplace>
+              <publish>National Oceanic and Atmospheric Administration, Office for Coastal Management</publish>
+            </pubinfo>
+            <onlink>www.coast.noaa.gov/htdata/raster1/landcover/bulkdownload/30m_lc/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2016</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>observed</srccurr>
+        </srctime>
+        <srccitea>C-CAP</srccitea>
+        <srccontr>Sample development</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>We collected vegetation and elevation data in the National Park Service’s Timucuan Ecological and Historic Preserve in summer 2021 and winter 2022. Elevation data were collected using a Trimble R10 and R12i global navigation satellite system (GNSS) receivers for 180 epochs while connected to the Florida Department of Transportation Permanent Reference Network (FPRN). We used a thin metal plate (3 mm) to avoid the GNSS receiver rod from sinking in substrate in wetlands. We subtracted this constant offset from all elevation observations. Sites were selected based on feasibility of access. In accessible areas, random seed points were generated along the forest/marsh transition zone. The forest/marsh transition was extracted using the National Oceanic and Atmospheric Administration Coastal Change Assessment Program's (C-CAP) 2016 land cover dataset. Additional data was collected radiating off the seed point at a distance of generally 25 m, if possible, from the center point in the four cardinal directions. When possible, up to two additional anchor points were randomly generated by determining a random distance from 30 to 100 m and a random bearing with a 180 degree arch away from the forest/marsh transition. Offsets from the seed points data were predominately collected in marsh, salt pannes, mudflats, and scrub/shrub wetlands.</procdesc>
+        <srcused>C-CAP</srcused>
+        <procdate>2021</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Nicholas M Enwright</cntper>
+              <cntorg>U.S. Geological Survey, Southeast Region</cntorg>
+            </cntperp>
+            <cntpos>Research Geographer</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>700 Cajundome Blvd</address>
+              <city>Lafayette</city>
+              <state>LA</state>
+              <postal>70506</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>337-262-7613</cntvoice>
+            <cntfax>337-266-8513</cntfax>
+            <cntemail>enwrightn@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>17</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-81.0</longcm>
+              <latprjo>0.0</latprjo>
+              <feast>500000.0</feast>
+              <fnorth>0.0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>1.0</absres>
+            <ordres>1.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101004</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Elevation_vegetation_survey_TIMU_09252023.xlsx</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Plot</attrlabl>
+        <attrdef>Unique plot ID.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Unique plot ID.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Class</attrlabl>
+        <attrdef>General class of wetland based on vegetation cover.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Juncus dominated</edomv>
+            <edomvd>Plot dominated by Juncus roemerianus Scheele.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Spartina dominated</edomv>
+            <edomvd>Plot dominated by Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Succulent dominated</edomv>
+            <edomvd>Plot dominated by Succulent.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Salt panne</edomv>
+            <edomvd>Plot dominated by Salt panne.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Scrub/shrub</edomv>
+            <edomvd>Plot dominated by Scrub/shrub.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Other Spartina dominated</edomv>
+            <edomvd>Plot dominated by Other Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Patens dominated</edomv>
+            <edomvd>Plot dominated by Spartina patens.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Other</edomv>
+            <edomvd>Plot dominated by Other marsh vegetation species.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Juncus dominated/Marsh - Succulent dominated</edomv>
+            <edomvd>Plot co-dominated by Juncus roemerianus Scheele and Succulent.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Forest</edomv>
+            <edomvd>Plot dominated by Forest.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Water</edomv>
+            <edomvd>Plot dominated by Water.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh - Juncus dominated/Marsh - Other</edomv>
+            <edomvd>Plot co-dominated by Juncus roemerianus Scheele and Other.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mudflat</edomv>
+            <edomvd>Plot dominated by Mudflat.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Habitat</attrlabl>
+        <attrdef>General land cover class for plot.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Marsh</edomv>
+            <edomvd>Emergent marsh with vegetation cover of generally 30 percent 
+or greater cover by erect, rooted, herbaceous hydrophytes.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Salt panne</edomv>
+            <edomvd>Areas in the upper portion of the estuarine zone and are irregularly flooded (i.e., less than daily) by shallow polyhaline waters (i.e., salinity between 18 and 30 parts per thousand) associated with lunar tides, Perigean spring tides, wind-induced water level fluctuations, and storms. These areas often have succulent marsh species (Salicornia spp. and Batis spp.) and algal mats.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Woody</edomv>
+            <edomvd>Areas where woody vegetation height is greater than about 0.5 meter. Woody vegetation coverage should generally be greater than 30 percent.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Water</edomv>
+            <edomvd>Water includes areas of open water with vegetation cover generally less than 30 percent.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mudflat</edomv>
+            <edomvd>Non-hypersaline bare or sparsely vegetated areas located in the marsh.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S1Code</attrlabl>
+        <attrdef>Plant codes for species 1.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JURO</edomv>
+            <edomvd>Juncus roemerianus Scheele.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPAL</edomv>
+            <edomvd>Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BAMA</edomv>
+            <edomvd>Batis maritima.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BOFR</edomv>
+            <edomvd>Borrichia frutescens (L.) DC.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPPA</edomv>
+            <edomvd>Spartina patens (Aiton) Muhl.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SALC</edomv>
+            <edomvd>Salicornia?</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DISP</edomv>
+            <edomvd>Distichlis spicata (L.) Greene.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>UNKNOWN</edomv>
+            <edomvd>Unknown plant species.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PHAU</edomv>
+            <edomvd>Phacelia austromontana</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BORO</edomv>
+            <edomvd>Boschniakia rossica</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>CLMA</edomv>
+            <edomvd>Cladium mariscoides</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>IVFR</edomv>
+            <edomvd>Iva frutescens L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPART</edomv>
+            <edomvd>Spartina Schreb.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S1PCov</attrlabl>
+        <attrdef>Percent cover for species 1.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>90</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S2Code</attrlabl>
+        <attrdef>Plant codes for species 2.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SALC</edomv>
+            <edomvd>Salicornia spp.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BAMA</edomv>
+            <edomvd>Batis maritima.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DISP</edomv>
+            <edomvd>Distichlis spicata (L.) Greene.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JURO</edomv>
+            <edomvd>Juncus roemerianus Scheele.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPAL</edomv>
+            <edomvd>Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BOFR</edomv>
+            <edomvd>Borrichia frutescens (L.) DC.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>UNKNOWN</edomv>
+            <edomvd>Unknown plant species.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPPA</edomv>
+            <edomvd>Spartina patens (Aiton) Muhl.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ELEOC</edomv>
+            <edomvd>Eleocharis spp.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PHAU</edomv>
+            <edomvd>Phacelia austromontana</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>IVFR</edomv>
+            <edomvd>Iva frutescens L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>HYUM</edomv>
+            <edomvd>Hydrocotyle umbellata L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ILVO</edomv>
+            <edomvd>Ilex vomitoria</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JUVI</edomv>
+            <edomvd>Juniperus virginiana L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>QUERC</edomv>
+            <edomvd>Quercus L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SAMA11</edomv>
+            <edomvd>Salicornia maritima</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SAMA8</edomv>
+            <edomvd>Sabal minor</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TYPHA</edomv>
+            <edomvd>Typha L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S2PCov</attrlabl>
+        <attrdef>Percent cover for species 2.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S3Code</attrlabl>
+        <attrdef>Plant codes for species 3.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>OTHER</edomv>
+            <edomvd>Other vegetation species. See comment field.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BOFR</edomv>
+            <edomvd>Borrichia frutescens (L.) DC.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BAMA</edomv>
+            <edomvd>Batis maritima.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPPA</edomv>
+            <edomvd>Spartina patens (Aiton) Muhl.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPAL</edomv>
+            <edomvd>Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SALC</edomv>
+            <edomvd>Salicornia spp.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JURO</edomv>
+            <edomvd>Juncus roemerianus Scheele.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DISP</edomv>
+            <edomvd>Distichlis spicata (L.) Greene.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>IVFR</edomv>
+            <edomvd>Iva frutescens L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JUVI</edomv>
+            <edomvd>Juniperus virginiana L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>QUERC</edomv>
+            <edomvd>Quercus L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>RUBUS</edomv>
+            <edomvd>Rubus L.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S3PCov</attrlabl>
+        <attrdef>Percent cover for species 3.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S4Code</attrlabl>
+        <attrdef>Plant codes for species 4.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>No data.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SPAL</edomv>
+            <edomvd>Spartina alterniflora Loisel.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SALC</edomv>
+            <edomvd>Salicornia?</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>UNKNOWN</edomv>
+            <edomvd>Unknown plant species.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DISP</edomv>
+            <edomvd>Distichlis spicata (L.) Greene.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S4PCov</attrlabl>
+        <attrdef>Percent cover for species 4.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>20</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PCovCarp</attrlabl>
+        <attrdef>Vegetation height &lt; 10 cm.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PCovHerb</attrlabl>
+        <attrdef>Vegetation height &gt; 10 cm.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PCovWoody</attrlabl>
+        <attrdef>Vegetation height &gt; 50 cm and not herbaceous.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Waterdepth</attrlabl>
+        <attrdef>Water depth in plot in cm.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>52</rdommax>
+            <attrunit>cm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MeanHDom</attrlabl>
+        <attrdef>Mean height of dominant plant species in cm.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>167</rdommax>
+            <attrunit>cm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing_UTM</attrlabl>
+        <attrdef>Northing (Y) coordinate in UTM 17.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3360875.602</rdommin>
+            <rdommax>3382564.898</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting_UTM</attrlabl>
+        <attrdef>Easting (X) coordinate in UTM 17.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>441511.149</rdommin>
+            <rdommax>459440.3514</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elevation</attrlabl>
+        <attrdef>Elevation (m) in plot relative to the North American Vertical Datum of 1988.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.823</rdommin>
+            <rdommax>1.251</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>Comment about plot.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Comment about plot.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Observer</attrlabl>
+        <attrdef>Person that made vegetation observations for plot.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BP</edomv>
+            <edomvd>Brett Patton</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>CV</edomv>
+            <edomvd>William "Chesley" Vervaeke</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date that data were collected.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1/27/2022</rdommin>
+            <rdommax>7/29/2021</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9AL9DEM</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20240606</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Nicholas M Enwright</cntper>
+          <cntorg>U.S. Geological Survey, Southeast Region</cntorg>
+        </cntperp>
+        <cntpos>Research Geographer</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-26278613</cntvoice>
+        <cntfax>337-266-8513</cntfax>
+        <cntemail>enwrightn@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

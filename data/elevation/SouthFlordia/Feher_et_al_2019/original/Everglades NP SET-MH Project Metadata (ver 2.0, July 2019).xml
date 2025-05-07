@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Laura C. Feher</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Gordon H. Anderson</origin>
+        <pubdate>2019</pubdate>
+        <title>Everglades NP SET-MH Project Metadata (ver 2.0, July 2019)</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7348HNP</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Laura C. Feher</origin>
+            <origin>Michael J. Osland</origin>
+            <origin>Gordon H. Anderson</origin>
+            <origin>William C. Vervaeke</origin>
+            <origin>Ken W. Krauss</origin>
+            <origin>Kevin R. T. Whelan</origin>
+            <origin>Karen M. Balentine</origin>
+            <origin>Ginger Tiling-Range</origin>
+            <origin>Thomas J. Smith</origin>
+            <origin>Donald R. Cahoon</origin>
+            <pubdate>2019</pubdate>
+            <title>The Long-Term Effects of Hurricanes Wilma and Irma on Soil Elevation Change in Everglades Mangrove Forests</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>Ecosystems</pubplace>
+              <publish>Springer Science and Business Media LLC</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.1007/s10021-019-00446-x</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Due to their position at the land-sea interface, coastal wetlands are sensitive to sea-level rise and many other aspects of global change. Small changes in coastal wetland surface elevation can lead to comparatively large changes in coastal wetland ecosystem structure and function, and in some cases wetland loss. The surface elevation table (SET)-marker horizon (MH) approach (SET-MH, together) is a method for quantifying net wetland surface elevation change while accounting for the relative contributions of various biological, geological, and hydrological processes that can occur within different segments of the soil profile (e.g., deep, shallow subsurface, and surface soil depths). This data release includes long-term and high temporal resolution surface elevation table (SET) and marker horizon (MH) data from nine study sites in Everglades National Park.
+
+All data files and their associated metadata documentation can be found within "Everglades NP SET-MH Data (ver 2.0, July 2019).zip".
+
+First posted August 10th, 2017
+Revised July 1st, 2019, ver 2.0</abstract>
+      <purpose>Due to their position at the land-sea interface, coastal wetlands are sensitive to sea-level rise and many other aspects of global change. Small changes in coastal wetland surface elevation can lead to comparatively large changes in coastal wetland ecosystem structure and function, and in some cases wetland loss. The surface elevation table (SET)-marker horizon (MH) approach (SET-MH, together) is a method for quantifying net wetland surface elevation change while accounting for the relative contributions of various biological, geological, and hydrological processes that can occur within different segments of the soil profile (e.g., deep, shallow subsurface, and surface soil depths). This data release includes long-term and high temporal resolution surface elevation table (SET) and marker horizon (MH) data from nine study sites in Everglades National Park.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1998</begdate>
+          <enddate>2019</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.18429</westbc>
+        <eastbc>-80.84822</eastbc>
+        <northbc>25.61225</northbc>
+        <southbc>25.26616</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field inventory and monitoring</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>long-term ecological monitoring</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:58f65df4e4b0bd52222f7818</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Everglades National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1 (Build 4959) Service Pack N/A (Build N/A)</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Relevant site information was digitized for the Everglades National Park LTER sediment elevation table - marker horizon study.</procdesc>
+        <procdate>20170324</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Version History for Everglades National Park sediment elevation and marker horizon data release 
+
+Feher, L.C., Osland, M.J., and Anderson, G.H., 2019, Everglades National Park sediment elevation and marker horizon data release (ver 2.0, July 2019): U.S. Geological Survey data release. https://doi.org/10.5066/F7348HNP
+________________________________________________________ 
+
+Original posted online August 10, 2017
+________________________________________________________ 
+
+Version 2.0 revised and reposted online July 2019 
+
+Changes in version 2.0 
+
+1. Added several additional columns of sediment elevation and marker horizon data from sampling events from the period between September 2014 and April 2019. 
+2. Revised the SET pin height values collected prior to April 2019 to reflect the length of new fiberglass pins. Note that in some instances this conversion resulted in negative pin height values. 
+3. Added data from new marker horizon plots that were installed during the May 2017 or December 2018 sampling events. 
+________________________________________________________</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <overview>
+      <eaover>Please review the detailed descriptions that are provided in the dataset specific metadata records within "Everglades NP SET-MH Data (ver 2.0, July 2019).zip" for information on the values that appear as fields/table entries of the dataset.</eaover>
+      <eadetcit>The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information. All data file and their associated metadata documentation can be found within "Everglades NP SET-MH Data (ver 2.0, July 2019).zip"</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>sciencebase@usgs.gov</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20200830</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

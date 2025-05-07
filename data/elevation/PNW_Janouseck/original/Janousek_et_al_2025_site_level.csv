@@ -1,0 +1,35 @@
+study_id,site_name,site_id,state,estuary,wetland_type,latitude_NAD83_2011,longitude_NAD83_2011,site_elevation,site_elevation_datum
+Janousek_et_al_2025,Alder Road Pasture,ALD-PA,WA,Columbia River,Non-tidal wet pasture,46.3144111247,-123.6832940752,2.0403333333333333,NAVD88
+Janousek_et_al_2025,Big Indian Slough Marsh,BIS-EM,WA,Padilla Bay,Emergent marsh,48.4539240461,-122.4730817536,2.3495,NAVD88
+Janousek_et_al_2025,Danger Point Marsh,DAN-EM,OR,Coos Bay,Emergent marsh,43.2832740211,-124.3234988886,2.0388333333333333,NAVD88
+Janousek_et_al_2025,Fir Island Marsh,FIR-EM,WA,Skagit River,Emergent marsh,48.3333150091,-122.4149963314,2.583,NAVD88
+Janousek_et_al_2025,Fredrickson Restored Marsh,FRE-RM,OR,Coos Bay,Emergent marsh,43.2748557263,-124.3203222643,2.2490000000000006,NAVD88
+Janousek_et_al_2025,Fir Island Restored Marsh,FRR-RM,WA,Skagit River,Emergent marsh,48.3351995555,-122.4103806893,1.9405,NAVD88
+Janousek_et_al_2025,Fredrickson South Marsh,FSM-EM,OR,Coos Bay,Emergent marsh,43.2723480456,-124.3188820834,2.5039000000000002,NAVD88
+Janousek_et_al_2025,Johns River North Pasture,JRD-N-PA,WA,Grays Harbor,Non-tidal dry pasture,46.8986728552,-123.9882139439,2.557333333333334,NAVD88
+Janousek_et_al_2025,Johns River Mesohaline Marsh,JRM-EM,WA,Grays Harbor,Emergent marsh,46.8915784214,-123.9872853565,2.9426666666666668,NAVD88
+Janousek_et_al_2025,Johns River Oligohaline Marsh,JRO-EM,WA,Grays Harbor,Emergent marsh,46.8834396364,-123.9645784031,2.817,NAVD88
+Janousek_et_al_2025,Johns River Polyhaline Marsh,JRP-EM,WA,Grays Harbor,Emergent marsh,46.9008072865,-123.9923986154,2.5605,NAVD88
+Janousek_et_al_2025,Johns River Restored Marsh,JRR-RM,WA,Grays Harbor,Emergent marsh,46.9051260727,-123.9907070344,2.0669999999999997,NAVD88
+Janousek_et_al_2025,Johns River Tidal Swamp,JRS-TS,WA,Grays Harbor,Tidal swamp,46.8829219455,-123.9657581911,2.715621428571429,NAVD88
+Janousek_et_al_2025,Johns River South Pasture,JRW-S-PA,WA,Grays Harbor,Non-tidal wet pasture,46.8934249509,-123.9884196079,2.7834999999999996,NAVD88
+Janousek_et_al_2025,Kandoll Farm Restored Wetland,KAN-RM,WA,Columbia River,Emergent marsh,46.3261217644,-123.6539792144,2.0215,NAVD88
+Janousek_et_al_2025,"Kunz Restored Marsh, High Cell",KZH-RM,OR,Coos Bay,Emergent marsh,43.2805407245,-124.3188367127,2.3352500000000003,NAVD88
+Janousek_et_al_2025,"Kunz Restored Marsh, Low Cell",KZL-RM,OR,Coos Bay,Emergent marsh,43.2817205654,-124.3195417002,1.8098333333333332,NAVD88
+Janousek_et_al_2025,Metcalf Marsh,MET-EM,OR,Coos Bay,Emergent marsh,43.3352403343,-124.3283399969,2.0867999999999998,NAVD88
+Janousek_et_al_2025,Millicoma Marsh,MIL-EM,OR,Coos Bay,Emergent marsh,43.3680990131,-124.1852965041,2.2816,NAVD88
+Janousek_et_al_2025,Millicoma Restored Marsh,MIL-RM,OR,Coos Bay,Emergent marsh,43.3673109312,-124.1850166613,2.527833333333334,NAVD88
+Janousek_et_al_2025,Milltown Island Oligohaline Marsh,MIO-EM,WA,Skagit River,Emergent marsh,48.3014451645,-122.3599497982,2.6485,NAVD88
+Janousek_et_al_2025,Milltown Island Restored Marsh,MIR-RM,WA,Skagit River,Emergent marsh,48.3172959819,-122.3484822108,2.7955000000000005,NAVD88
+Janousek_et_al_2025,Milltown Island Tidal Swamp,MIS-TS,WA,Skagit River,Tidal swamp,48.31744,-122.34747,3.309,NAVD88
+Janousek_et_al_2025,Mouth Lewis and Clark River Marsh,MLC-EM,OR,Columbia River,Emergent marsh,46.1577312785,-123.8615160365,2.1765000000000003,NAVD88
+Janousek_et_al_2025,Padilla Bay Dry Pasture,PBD-PA,WA,Padilla Bay,Non-tidal dry pasture,48.4636876532,-122.469562224,1.7789999999999997,NAVD88
+Janousek_et_al_2025,Padilla Bay Wet Pasture,PBW-PA,WA,Padilla Bay,Non-tidal wet pasture,48.4570501765,-122.4696021194,1.014,NAVD88
+Janousek_et_al_2025,Sause Pasture,SAU-PA,OR,Coos Bay,Non-tidal dry pasture,43.3683470405,-124.1840404111,1.727,NAVD88
+Janousek_et_al_2025,South Clatsop Slough Restored Marsh,SCS-RM,OR,Columbia River,Emergent marsh,46.1290839147,-123.8792404128,2.221722222222222,NAVD88
+Janousek_et_al_2025,Secret River Marsh,SEC-EM,WA,Columbia River,Emergent marsh,46.3049710252,-123.6924174752,1.9709999999999999,NAVD88
+Janousek_et_al_2025,Secret River Tidal Swamp,SEC-TS,WA,Columbia River,Tidal swamp,46.30766,-123.68992,2.871,NAVD88
+Janousek_et_al_2025,Seal Slough Tidal Swamp,SES-TS,WA,Columbia River,Tidal swamp,46.32647,-123.65992,2.717,NAVD88
+Janousek_et_al_2025,Wasson Creek Upper Pasture,WAS-PA,OR,Coos Bay,Non-tidal dry pasture,43.2717555559,-124.3240554153,4.057,NAVD88
+Janousek_et_al_2025,Wasson Creek Lower Pasture,WAS2-PA,OR,Coos Bay,Semi-tidal dry pasture,43.2706682392,-124.3217085672,2.9053000000000004,NAVD88
+Janousek_et_al_2025,Winchester Creek tidal swamp,WIN-TS,OR,Coos Bay,Tidal swamp,43.26943,-124.32101,2.503,NAVD88

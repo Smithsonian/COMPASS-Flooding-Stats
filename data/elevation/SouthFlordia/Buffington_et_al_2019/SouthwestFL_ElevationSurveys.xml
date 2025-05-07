@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Kevin J. Buffington</origin>
+        <origin>Karen M. Thorne</origin>
+        <pubdate>20220523</pubdate>
+        <title>Elevation survey across southwest Florida coastal wetlands, 2021</title>
+        <geoform>tabular digital data (CSV)</geoform>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey data release</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9POUPH5</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Accurate elevation data in coastal wetlands is crucial for planning for sea-level rise. Elevation surveys were conducted across southwest Florida wetlands to provide ground validation of LiDAR as well as target long-term monitoring stations (surface elevation tables). Surveys were conducted in June 2021 across Ding Darling National Wildlife Refuge, Clam Bay, Rookery Bay National Estuarine Research Reserve, and Ten Thousand Islands National Wildlife Refuge. A combination of post-processed kinematic GPS and differential levelling survey techniques were employed, depending on the canopy cover.</abstract>
+      <purpose>The elevation data were collected to serve as validation of recent LiDAR and establish the position of long-term elevation change monitoring stations (surface elevation tables).</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20210621</begdate>
+          <enddate>20210629</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>southwest Florida</descgeog>
+      <bounding>
+        <westbc>-82.1523</westbc>
+        <eastbc>-81.4142</eastbc>
+        <northbc>26.4890</northbc>
+        <southbc>25.7739</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field methods</themekey>
+        <themekey>GPS measurement</themekey>
+        <themekey>land surveying</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>elevation surveys</themekey>
+        <themekey>differential leveling</themekey>
+        <themekey>RTK GPS</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6275a7bfd34e8d45aa6e22ab</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Florida</placekey>
+        <placekey>Ding Darling National Wildlife Refuge</placekey>
+        <placekey>Clam Bay</placekey>
+        <placekey>Rookery Bay National Estuarine Research Reserve</placekey>
+        <placekey>Ten Thousand Islands National Wildlife Refuge</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see Distribution Info for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Western Ecological Research Center</cntorg>
+        </cntorgp>
+        <cntpos>Data Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>3020 State University Drive, Modoc Hall, Suite 4004</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95819</postal>
+        </cntaddr>
+        <cntvoice>916-278-9485</cntvoice>
+        <cntemail>gs-b-werc_data_management@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Funding was provided by NOAA and the USGS SECASC</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attributes were reviewed for accuracy.</attraccr>
+    </attracc>
+    <logic>All data were visually inspected in a GIS to confirm location accuracy. Elevations were checked to ensure they fell within expected ranges.</logic>
+    <complete>Data represent surveyed elevations across southwest Florida coastal wetlands.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Horizontal accuracy of PPK points was 0.0034 m (standard deviation). Accuracy of leveling points is estimated to be plus/minus 3 m.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Elevation accuracy throughout the survey was 0.03 m (standard deviation)</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Elevation surveys were undertaken across southwest Florida in June 2021. A combination of methods was used to measure elevation in coastal wetlands.  Each day, a global positioning system base station (Leica GS10) was setup at a temporary location to provide corrections to a GNSS rover (Leica GS15). Rover positions were corrected using post-processing kinematic (PPK) techniques in Leica Infinity software. The rover was used to survey elevations where the tree canopy allowed; temporary benchmarks were established and served as the start and end points for differential leveling surveys. A digital level (Spectra Precision FOCUS DL15) and bar code rod were used to run survey loops in areas with dense overstory (for example, mangroves). When necessary, a surveying 'turtle' was used as a turning point. All but one surveying loop was closed in order to determine surveying accuracy; surveying errors for a given loop were distributed across all the points. Horizontal position of differential leveling points was determined using a mobile phone application (Avenza). Surface elevation tables (SETs) were the primary target for the survey, although additional points of interest were surveyed opportunistically (eg, beach points at Clam Bay, photo points around Ten Thousand Islands NWR).</procdesc>
+        <procdate>20210630</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>SWFL_USGS_ElevationLevelingSurvey_June2021.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Unique identifier</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>525</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Study area</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>DingDarling</edomv>
+            <edomvd>Ding Darling National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>RookeryBay</edomv>
+            <edomvd>Rookery Bay NOAA National Estuary Research Reserve</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ClamBay</edomv>
+            <edomvd>Clam Bay</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TenThousandIslands</edomv>
+            <edomvd>Ten Thousand Island National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SurveyDate</attrlabl>
+        <attrdef>Date of elevation survey, YYYYMMDD</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210621</rdommin>
+            <rdommax>20210629</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Surveyed.Elevation</attrlabl>
+        <attrdef>Elevation in meters, NAVD88.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.8434</rdommin>
+            <rdommax>2.2713</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TurtleHt</attrlabl>
+        <attrdef>Height of surveying turtle, if used.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>0.044</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elevation.m.NAVD88</attrlabl>
+        <attrdef>Final elevation in meters, NAVD88</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.8434</rdommin>
+            <rdommax>2.2713</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Decimal degrees latitude (in the WGS84 datum)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data, no coordinates recorded</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>25.920991</rdommin>
+            <rdommax>26.468533</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Decimal degrees longitude (in the WGS84 datum)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data, no coordinates recorded</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>-82.1135</rdommin>
+            <rdommax>-81.52453</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Description</attrlabl>
+        <attrdef>Full description of the elevation point.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Photo point locations relative to the SETs. Photos were taken across the E-W transect.
+NE: northeast
+NW: northwest
+SE: southeast
+SW: southwest</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Type</attrlabl>
+        <attrdef>Classification of elevation points</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>SET</edomv>
+            <edomvd>Surface elevation table- top of the receiver</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET GND</edomv>
+            <edomvd>Surface elevation table, ground adjacent to the receiver</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>CORE</edomv>
+            <edomvd>Location of soil core sampled by J. Drexler</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TP</edomv>
+            <edomvd>Leveling turning point</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SS</edomv>
+            <edomvd>Leveling side shot</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>EP</edomv>
+            <edomvd>Extra point</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BP</edomv>
+            <edomvd>Beach points</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PP</edomv>
+            <edomvd>Photo points</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Method</attrlabl>
+        <attrdef>Method used to determine elevation</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Leveling</edomv>
+            <edomvd>Differential leveling</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PPK</edomv>
+            <edomvd>Post-processed kinematic GPS</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Vegetation</attrlabl>
+        <attrdef>Mangrove species</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Red</edomv>
+            <edomvd>Red mangrove, Rhizophera mangle</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Black, Red</edomv>
+            <edomvd>Black and red mangroves, Avicennia germinans and Rhizophera mangle</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Black</edomv>
+            <edomvd>Black mangrove, Avicennia germinans</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9POUPH5</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20220523</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Kevin Buffington</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>USGS Davis Field Station, One Shields Ave, UC Davis, John Muir Institute of the Environment</address>
+          <city>Davis</city>
+          <state>CA</state>
+          <postal>95616</postal>
+        </cntaddr>
+        <cntvoice>707-315-4256</cntvoice>
+        <cntemail>kbuffington@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

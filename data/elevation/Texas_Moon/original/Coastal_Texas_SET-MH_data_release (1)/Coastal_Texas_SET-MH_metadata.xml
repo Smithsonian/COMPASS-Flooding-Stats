@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Feher, Laura C.</origin>
+        <origin>Jena, Moon A.</origin>
+        <origin>Lane, Tiffany C.</origin>
+        <origin>Vervaeke, William C.</origin>
+        <origin>Osland, Michael J.</origin>
+        <origin>Head, Douglas M.</origin>
+        <origin>Chivoiu, Bogdan C.</origin>
+        <pubdate>2021</pubdate>
+        <title>Surface elevation change dynamics in coastal marshes along the northwestern Gulf of Mexico: building knowledge to better anticipate effects of rising sea-level and intensifying hurricanes</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Winnie, TX</pubplace>
+          <publish>U.S. Fish and Wildlife Service</publish>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Maintaining and enhancing the ecological and economic contributions of coastal wetlands requires an advanced understanding of surface elevation dynamics, as these dynamics underpin the health of these wetland ecosystems. Coastal wetlands in Texas are particularly vulnerable to conversion to water open due to high rates of subsidence and relative sea-level rise, small tidal ranges, frequent hurricanes, and anthropogenic land-use changes that have affected freshwater and sediment delivery to the coast. Maintaining and enhancing the ecological and economic contributions of coastal wetlands requires an advanced understanding of surface elevation dynamics, as these dynamics underpin the health of these wetland ecosystems. The surface elevation table (SET)-marker horizon (MH) approach (SET-MH, together) is a method for quantifying net wetland surface elevation change while accounting for the relative contributions of various biological, geological, and hydrological processes that can occur within different segments of the soil profile (e.g., deep, shallow subsurface, and surface soil depths). This dataset includes surface elevation table-marker horizon (SET-MH) data and measurements of sediment deposition resulting from hurricane Harvey from 14 different coastal marshes along the northwestern Gulf of Mexico, within five National Wildlife Refuges in Texas (USA).</abstract>
+      <purpose>The surface elevation table (SET)-marker horizon (MH) approach (SET-MH, together) is a method for quantifying net wetland surface elevation change while accounting for the relative contributions of various biological, geological, and hydrological processes that can occur within different segments of the soil profile (e.g., deep, shallow subsurface, and surface soil depths). This dataset includes surface elevation table-marker horizon (SET-MH) data and measurements of sediment deposition resulting from hurricane Harvey from 14 different coastal marshes along the northwestern Gulf of Mexico, within five National Wildlife Refuges in Texas (USA).</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2014</begdate>
+          <enddate>2019</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-98.679199218407</westbc>
+        <eastbc>-93.361816406114</eastbc>
+        <northbc>30.901849283352</northbc>
+        <southbc>27.410397293387</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>ecology</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>wetland ecosystems</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>McFaddin National Wildlife Refuge</placekey>
+        <placekey>Anahuac National Wildlife Refuge</placekey>
+        <placekey>Brazoria National Wildlife Refuge</placekey>
+        <placekey>San Bernard National Wildlife Refuge</placekey>
+        <placekey>Aransas National Wildlife Refuge</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jena A. Moon</cntper>
+          <cntorg>U.S. Fish and Wildlife Service</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1035 Buccaneer Drive</address>
+          <city>Winnie</city>
+          <state>TX</state>
+          <postal>77665</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>409-332-9364</cntvoice>
+        <cntemail>jena_moon@fws.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Surface elevation change was measured at 14 sites across the five refuges (i.e., 2-3 sites per refuge; Table 1) beginning in April 2014. Three SET-MH permanent SET benchmarks (i.e., SET-MH stations) were established at each of the 14 sites, for a total of 42 SET-MH stations. During each sampling event, surface elevation measurements were made for nine pins on four fixed measurement positions (that is, compass bearings) around each benchmark, for a total of 36 elevation measurements per benchmark per sampling event. Surface elevation dynamics at each SET-MH station were measured roughly twice per year across the 5.5-year period between June 2014 and December 2019 (i.e., 9–12 total SET sampling events per site).</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Three feldspar marker horizon plots were established in the immediate vicinity of each SET benchmark in April 2014, and three additional marker horizon plots were added to each benchmark in November 2017 following the landfall of Hurricane Harvey. Vertical accretion was determined by collecting a core from each marker horizon and measuring the depth to the feldspar layer. Vertical accretion at each SET-MH station was measured roughly once per year except for 2015 (i.e., 4–5 total MH sampling events per site).</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>SET-derived relative surface elevation values were converted to actual elevation values using digital leveling methods in combination with repeated, overlapping static Global Navitation Satellite System (GNSS) surveys to determined the elevation of each SET benchmark relative to the North American Vertical Datum 1988 (NAVD 88).</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>On the first sampling event following hurricane Harvey (November 2017), we measured the depth of deposited sediments left by Harvey’s surge within the same cores taken from the marker horizon plots. Within these cores, the sediments deposited by hurricane Harvey were easily distinguished from surrounding soil layers by color, texture, and absence of fine roots.</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>TX_FWS_SET_data.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>refuge</attrlabl>
+        <attrdef>Refuge name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Anahuac</edomv>
+            <edomvd>Anahuac National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Aransas</edomv>
+            <edomvd>Aransas National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazoria</edomv>
+            <edomvd>Brazoria National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>McFaddin</edomv>
+            <edomvd>McFaddin National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard</edomv>
+            <edomvd>San Bernard National Wildlife Refuge</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site</attrlabl>
+        <attrdef>Site name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>10 Mile Cut</edomv>
+            <edomvd>10 Mile Cut site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alice Jackson White</edomv>
+            <edomvd>Alice Jackson White site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alligator Lake</edomv>
+            <edomvd>Alligator Lake site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Blackjack</edomv>
+            <edomvd>Blackjack site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazoria Barrier Island</edomv>
+            <edomvd>Brazoria Barrier Island site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cow Trap</edomv>
+            <edomvd>Cow Trap site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ICWW</edomv>
+            <edomvd>ICWW site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jackson Ditch</edomv>
+            <edomvd>Jackson Ditch site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Matagorda Island</edomv>
+            <edomvd>Matagorda Island site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>North Brazoria Peninsula</edomv>
+            <edomvd>North Brazoria Peninsula site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard Barrier Island</edomv>
+            <edomvd>San Bernard Barrier Island site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard ICWW</edomv>
+            <edomvd>San Bernard ICWW site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Willow-Barnet</edomv>
+            <edomvd>Willow-Barnet site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Yellow Rail</edomv>
+            <edomvd>Yellow Rail site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET</attrlabl>
+        <attrdef>SET (surface elevation table) station number.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>SET 1</edomv>
+            <edomvd>SET station 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 2</edomv>
+            <edomvd>SET station 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 3</edomv>
+            <edomvd>SET station 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>azi</attrlabl>
+        <attrdef>Compass azimuth from SET benchmark in which the pin height measurement was made.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>359</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>pin</attrlabl>
+        <attrdef>Number of the pin as located on the SET arm.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>pin_length_mm</attrlabl>
+        <attrdef>Length of the pin in mm.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>913</rdommin>
+            <rdommax>916</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>date</attrlabl>
+        <attrdef>Date that the measurement was recorded in ISO 8601 format (YYYY-MM-DD).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2014-06-02</rdommin>
+            <rdommax>2019-12-06</rdommax>
+            <attrunit>YYYY-MM-DD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>pinvalue_mm</attrlabl>
+        <attrdef>Height of the pin above the SET arm on each date in mm. Pin height values recorded after January 2017 were corrected for an adjustment to the instrument that was made in January 2017 by subtracting 28 mm from the original value.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>236</rdommin>
+            <rdommax>567</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Designated when a measurement was not taken due to debris obscuring the soil surface, holes in the soil from invertebrate burrows, or when an obviously errant value was recorded in the field.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>navd88_arm_mm</attrlabl>
+        <attrdef>Elevation of the SET arm in mm in the NAVD88 vertical datum.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>622.7</rdommin>
+            <rdommax>1111.8</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>navd88_pinvalue_mm</attrlabl>
+        <attrdef>SET pin height measurement by date (pinvalue_mm), converted to ground elevation in mm NAVD88. Pin height measurements were converted to ground elevation in mm NAVD88 using the formula A - (B - C) where A = the elevation of the SET arm in mm NAVDD88, B = the length of the pin in mm, and C = the SET pin height measurement in mm.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-33.8</rdommin>
+            <rdommax>641.4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Designated when a measurement was not taken due to debris obscuring the soil surface, holes in the soil from invertebrate burrows, or when an obviously errant value was recorded in the field.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>date_numeric</attrlabl>
+        <attrdef>Time since the first SET measurement, expressed as decimal years.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5.49</rdommax>
+            <attrunit>decimal year since the first measurment</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>TX_FWS_accr_data.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>refuge</attrlabl>
+        <attrdef>Refuge name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Anahuac</edomv>
+            <edomvd>Anahuac National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Aransas</edomv>
+            <edomvd>Aransas National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazora</edomv>
+            <edomvd>Brazoria National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>McFaddin</edomv>
+            <edomvd>McFaddin National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard</edomv>
+            <edomvd>San Bernard National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site</attrlabl>
+        <attrdef>Site name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>10 Mile Cut</edomv>
+            <edomvd>10 Mile Cut site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alice Jackson White</edomv>
+            <edomvd>Alice Jackson White site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alligator Lake</edomv>
+            <edomvd>Alligator Lake site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Blackjack</edomv>
+            <edomvd>Blackjack site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazoria Barrier Island</edomv>
+            <edomvd>Brazoria Barrier Island site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cow Trap</edomv>
+            <edomvd>Cow Trap site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ICWW</edomv>
+            <edomvd>ICWW site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jackson Ditch</edomv>
+            <edomvd>Jackson Ditch site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Matagorda Island</edomv>
+            <edomvd>Matagorda Island site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>North Brazoria Peninsula</edomv>
+            <edomvd>North Brazoria Peninsula site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard Barrier Island</edomv>
+            <edomvd>San Bernard Barrier Island site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard ICWW</edomv>
+            <edomvd>San Bernard ICWW site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Willow-Barnet</edomv>
+            <edomvd>Willow-Barnet site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Yellow Rail</edomv>
+            <edomvd>Yellow Rail site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET</attrlabl>
+        <attrdef>SET (surface elevation table) station number.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>SET 1</edomv>
+            <edomvd>SET station 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 2</edomv>
+            <edomvd>SET station 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 3</edomv>
+            <edomvd>SET station 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>date</attrlabl>
+        <attrdef>Date that the measurement was recorded in ISO 8601 format (YYYY-MM-DD).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2014-06-03</rdommin>
+            <rdommax>2019-12-06</rdommax>
+            <attrunit>YYYY-MM-DD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>mean_accr_mm</attrlabl>
+        <attrdef>Average accretion in mm of the three feldspar subplots at each SET station.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>78.5</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>date_numeric</attrlabl>
+        <attrdef>Time since the first accretion measurement, expressed as decimal years.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5.49</rdommax>
+            <attrunit>decimal year since the first measurment</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>TX_FWS_harvey_data.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>refuge</attrlabl>
+        <attrdef>Refuge name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Anahuac</edomv>
+            <edomvd>Anahuac National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Aransas</edomv>
+            <edomvd>Aransas National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazoria</edomv>
+            <edomvd>Brazoria National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>McFaddin</edomv>
+            <edomvd>McFaddin National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard</edomv>
+            <edomvd>San Bernard National Wildlife Refuge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site</attrlabl>
+        <attrdef>Site name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>10 Mile Cut</edomv>
+            <edomvd>10 Mile Cut site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alice Jackson White</edomv>
+            <edomvd>Alice Jackson White site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alligator Lake</edomv>
+            <edomvd>Alligator Lake site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Blackjack</edomv>
+            <edomvd>Blackjack site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Brazoria Barrier Island</edomv>
+            <edomvd>Brazoria Barrier Island site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cow Trap</edomv>
+            <edomvd>Cow Trap site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ICWW</edomv>
+            <edomvd>ICWW site at Aransas</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jackson Ditch</edomv>
+            <edomvd>Jackson Ditch site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Matagorda Island</edomv>
+            <edomvd>Matagorda Island site at Aransas NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>North Brazoria Peninsula</edomv>
+            <edomvd>North Brazoria Peninsula site at Brazoria NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard Barrier Island</edomv>
+            <edomvd>San Bernard Barrier Island site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Bernard ICWW</edomv>
+            <edomvd>San Bernard ICWW site at San Bernard NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Willow-Barnet</edomv>
+            <edomvd>Willow-Barnet site at McFaddin NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Yellow Rail</edomv>
+            <edomvd>Yellow Rail site at Anahuac NWR</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET</attrlabl>
+        <attrdef>SET (surface elevation table) station number.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>SET 1</edomv>
+            <edomvd>SET station 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 2</edomv>
+            <edomvd>SET station 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SET 3</edomv>
+            <edomvd>SET station 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site_lat</attrlabl>
+        <attrdef>Site latitude in decimal degrees of the WGS84 geodetic datum.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>28.132774</rdommin>
+            <rdommax>29.755034</rdommax>
+            <attrunit>decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site_long</attrlabl>
+        <attrdef>Site longitude in decimal degrees of the WGS84 geodetic datum.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-96.928895</rdommin>
+            <rdommax>-94.046857</rdommax>
+            <attrunit>decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>lat_harvey</attrlabl>
+        <attrdef>Latitude of the landfall of hurricane Harvey in decimal degrees of the WGS84 geodetic datum.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>28.000000</rdommin>
+            <rdommax>28.000000</rdommax>
+            <attrunit>decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>long_harvey</attrlabl>
+        <attrdef>Longitude of the landfall of hurricane Harvey in decimal degrees of the WGS84 geodetic datum.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-96.900000</rdommin>
+            <rdommax>-96.900000</rdommax>
+            <attrunit>decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>harvey_dist_km</attrlabl>
+        <attrdef>Straight line distance in km of the site from the landfall of hurricane Harvey.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>13.59</rdommin>
+            <rdommax>334.97</rdommax>
+            <attrunit>kilometers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>harvey_sed_mm</attrlabl>
+        <attrdef>The average sediment deposit from hurricane Harvey in mm at each SET station in each site.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>32.67</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jena A. Moon</cntper>
+          <cntorg>U.S. Fish and Wildlife Service</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1035 Buccaneer Drive</address>
+          <city>Winnie</city>
+          <state>TX</state>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>409-332-9364</cntvoice>
+        <cntemail>jena_moon@fws.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20210423</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jena A. Moon</cntper>
+          <cntorg>US Fish and Wildlife Service</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1035 Buccaneer Drive</address>
+          <city>Winnie</city>
+          <state>TX</state>
+          <postal>77665</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>409-332-9364</cntvoice>
+        <cntemail>jena_moon@fws.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+

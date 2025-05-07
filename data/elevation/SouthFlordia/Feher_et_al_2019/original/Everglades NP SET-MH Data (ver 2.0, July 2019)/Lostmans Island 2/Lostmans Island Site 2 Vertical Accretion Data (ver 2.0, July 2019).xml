@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Laura C. Feher</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Gordon H. Anderson</origin>
+        <pubdate>2019</pubdate>
+        <title>Lostmans Island Site 2 Vertical Accretion Data (ver 2.0, July 2019)</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7348HNP</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/58f65df4e4b0bd52222f7818</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set represents vertical accretion data from Lostmans Island site 2 in Everglades National Park.</abstract>
+      <purpose>Marker horizons are used to measure vertical accretion due to sediment deposition or erosion. Marker horizons are often used in conjunction with sediment elevation tables to measure both surface and below-ground processes that influence elevation change.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1998</begdate>
+          <enddate>2019</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.18429</westbc>
+        <eastbc>-80.84822</eastbc>
+        <northbc>25.61225</northbc>
+        <southbc>25.26616</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field inventory and monitoring</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>long-term ecological monitoring</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Everglades National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1 (Build 4959) Service Pack N/A (Build N/A)</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Powdered white feldspar clay (or other inert materials such as sand, brick dusk, or glitter) is placed on the surface of the sediment in a designated plot. Cores are taken within this plot upon return visits to the site, and the thickness of the sediment accumulated above the marker layer is measured as vertical accretion.</procdesc>
+        <procdate>20000809</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Version History for Everglades National Park sediment elevation and marker horizon data release&#xD;
+&#xD;
+Feher, L.C., Osland, M.J., and Anderson, G.H., 2019, Everglades National Park sediment elevation and marker horizon data release (ver 2.0, July 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7348HNP.&#xD;
+&#xD;
+________________________________________________________&#xD;
+&#xD;
+Original posted online August 10, 2017&#xD;
+________________________________________________________&#xD;
+&#xD;
+Version 2.0 revised and reposted online July 2019&#xD;
+&#xD;
+Changes in version 2.0&#xD;
+&#xD;
+1. Added several additional columns of sediment elevation and marker horizon data from sampling events from the period between September 2014 and April 2019.&#xD;
+2. Revised the SET pin height values collected prior to April 2019 to reflect the length of new fiberglass pins. Note that in some instances this conversion resulted in negative pin height values.&#xD;
+3. Added data from new marker horizon plots that were installed during the May 2017 or December 2018 sampling events.&#xD;
+________________________________________________________</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Attribute table for Lostmans Island Site 2 Vertical Accretion Data (ver 2.0, July 2019).csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Site name</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>LO2</edomv>
+            <edomvd>Lostmans Island site 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Plot</attrlabl>
+        <attrdef>Feldspar marker horizon designation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1a</edomv>
+            <edomvd>Plot 1a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1b</edomv>
+            <edomvd>Plot 1b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1c</edomv>
+            <edomvd>Plot 1c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2a</edomv>
+            <edomvd>Plot 2a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2b</edomv>
+            <edomvd>Plot 2b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2c</edomv>
+            <edomvd>Plot 2c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3a</edomv>
+            <edomvd>Plot 3a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3b</edomv>
+            <edomvd>Plot 3b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3c</edomv>
+            <edomvd>Plot 3c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Measuremen</attrlabl>
+        <attrdef>Measurement number for 1 of 3 marker horizon depth measurements taken on a single core from each plot</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Measurement 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Measurement 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Measurement 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Est_date</attrlabl>
+        <attrdef>Date of feldspar marker horizon plot installation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>08_09_2000</edomv>
+            <edomvd>August 9th, 2000</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_28_2001</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8.2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>06_20_2001</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_17_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.2</rdommin>
+            <rdommax>14.2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_02_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_25_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5</rdommin>
+            <rdommax>10.4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>05_06_2003</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5</rdommin>
+            <rdommax>2.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>08_26_2003</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.1</rdommin>
+            <rdommax>14.6</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>03_15_2004</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.7</rdommin>
+            <rdommax>4.2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>11_15_2006</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>05_08_2007</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10</rdommin>
+            <rdommax>30</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>11_19_2007</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20</rdommin>
+            <rdommax>26</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_22_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20</rdommin>
+            <rdommax>33</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>06_12_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>15</rdommin>
+            <rdommax>28</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_29_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12</rdommin>
+            <rdommax>20</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>05_06_2009</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>11</rdommin>
+            <rdommax>25</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>sciencebase@usgs.gov</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20190708</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Laura C. Feher</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Gordon H. Anderson</origin>
+        <pubdate>2019</pubdate>
+        <title>Everglades NP SET-MH Study Site Information (ver 2.0, July 2019)</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7348HNP</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/58f65df4e4b0bd52222f7818</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set represents the relevant study site information for the Everglades National Park LTER sediment elevation table - marker horizon study. Nine SETs study sites are located near U.S. Geological Survey (USGS) hydrological stations in Everglades National Park. The coupling of coastal sediment elevation with Hydrology data is important aid in evaluating sea level changes influences to coastal ground elevations. The basic concept of the SET is a fixed reference point either local surveyed or tied to a known vertical datum is used to evaluate sediment change over time. Sediment change can occur from physical and biological factors, which through erosion or accretion raise or lower the sediment profile. There are three modified SET designs used by the USGS in the Everglades (Original, Shallow and Deep). However, all are based on the SET design, consisting of a mechanical arm with a measurement plate at the end, which is pivoted out from the fixed reference point and leveled. The cantilevered mechanical arm radiates out from the fixed reference point in a circle to a determined bearing (typically the reference SET point is measured at four bearings) where a sediment measurement can be sampled. The measurement plate (or bar) has a series of machined holes (typically nine) through the plate, allowing fiberglass rods (also referred to as pins) to be inserted and lower through the plate to the ground surface. Each fiberglass rod is gently lowered through the plate hole until the rod tip touches the ground surface. The rod segment above plate is measured and the change in ground surface elevation is determined by subtracting the known rod length from the above rod segment length (i.e.: more rod segment above the plate is indicative of increased sediment. At each SET four fixed bearing measurements, nine measuring pins are lowered to the soil surface to obtain a relative soil elevation.</abstract>
+      <purpose>Sediment Elevation Tables or SETs are used to measure rates of surface sediment elevation change due to soil accretion or erosion in the coastal mangrove, and marshes of the Everglades. Soil surface elevation is an important response variable in wetland environments. Marker horizons are used to measure vertical accretion due to sediment deposition or erosion. Marker horizons are often used in conjunction with sediment elevation tables to measure both surface and below-ground processes that influence elevation change.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2019</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.18429</westbc>
+        <eastbc>-80.84822</eastbc>
+        <northbc>25.61225</northbc>
+        <southbc>25.26616</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field inventory and monitoring</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>long-term ecological monitoring</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Everglades National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Relevant site information was digitized for the Everglades National Park LTER sediment elevation table - marker horizon study.</procdesc>
+        <procdate>20170324</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Version History for Everglades National Park sediment elevation and marker horizon data release.&#xD;
+&#xD;
+Feher, L.C., Osland, M.J., and Anderson, G.H., 2019, Everglades National Park sediment elevation and marker horizon data release (ver 2.0, July 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7348HNP.&#xD;
+&#xD;
+________________________________________________________&#xD;
+&#xD;
+Original posted online August 10, 2017&#xD;
+________________________________________________________&#xD;
+&#xD;
+Version 2.0 revised and reposted online July 2019&#xD;
+&#xD;
+Changes in version 2.0&#xD;
+&#xD;
+1. Added several additional columns of sediment elevation and marker horizon data from sampling events from the period between September 2014 and April 2019.&#xD;
+2. Revised the SET pin height values collected prior to April 2019 to reflect the length of new fiberglass pins. Note that in some instances this conversion resulted in negative pin height values.&#xD;
+3. Added data from new marker horizon plots that were installed during the May 2017 or December 2018 sampling events.&#xD;
+________________________________________________________</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Attribute table for Everglades NP SET-MH Study Site Information (ver 2.0, July 2019).csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Site name</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BSC</edomv>
+            <edomvd>Big Sable Creek</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO1</edomv>
+            <edomvd>Lostmans Island 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO2</edomv>
+            <edomvd>Lostmans Island 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO3</edomv>
+            <edomvd>Lostmans Island 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH1</edomv>
+            <edomvd>Shark River 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH2</edomv>
+            <edomvd>Shark River 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH3</edomv>
+            <edomvd>Shark River 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH4</edomv>
+            <edomvd>Shark River 4</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH5</edomv>
+            <edomvd>Shark River 5</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Est_date</attrlabl>
+        <attrdef>Date of SET installation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/16/1998</rdommin>
+            <rdommax>9/21/2015</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Base_date</attrlabl>
+        <attrdef>Date of baseline SET reading</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/12/1998</rdommin>
+            <rdommax>9/21/2015</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lat</attrlabl>
+        <attrdef>Latitude</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>25.26616</rdommin>
+            <rdommax>25.61225</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Long</attrlabl>
+        <attrdef>Longitude</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-81.18429</rdommin>
+            <rdommax>-80.84822</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET_</attrlabl>
+        <attrdef>SET replicate</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>SET 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>SET 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>SET 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Azi</attrlabl>
+        <attrdef>Compass azimuth from SET benchmark in which the measurements were made</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>359</rdommax>
+            <attrunit>degreees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Align</attrlabl>
+        <attrdef>Indicates which alignment pin hole was used on each SET instrument</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1st hole up from bottom</edomv>
+            <edomvd>1st hole up from bottom</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2nd hole up from bottom</edomv>
+            <edomvd>2nd hole up from bottom</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3rd hole up from bottom</edomv>
+            <edomvd>3rd hole up from bottom</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>bottom hole</edomv>
+            <edomvd>bottom hole</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - a value of NA was given for original type SETs because original SET instruments do not use alignment pins</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elev_ftNAV</attrlabl>
+        <attrdef>SET elevation at establishment</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3.58</rdommax>
+            <attrunit>ft NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the elevation of the SET benchmark was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET_depth_</attrlabl>
+        <attrdef>SET installation depth.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>14.3</rdommax>
+            <attrunit>ft</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the depth of the SET benchmark was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sed_depth_</attrlabl>
+        <attrdef>Sediment depth</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25.4</rdommax>
+            <attrunit>ft</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the depth of the sediment was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Veg</attrlabl>
+        <attrdef>A description of the major vegetation community at the site</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Forest</edomv>
+            <edomvd>Forest</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Marsh</edomv>
+            <edomvd>Marsh</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Open water</edomv>
+            <edomvd>Open water</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ridge or sawgrass and emergent marsh</edomv>
+            <edomvd>Ridge or sawgrass and emergent marsh</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Wet prairie</edomv>
+            <edomvd>Wet prairie</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water</attrlabl>
+        <attrdef>A description of primary water conditions at the site</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>brackish</edomv>
+            <edomvd>brackish</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>freshwater</edomv>
+            <edomvd>freshwater</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>saltwater</edomv>
+            <edomvd>saltwater</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elev_ave</attrlabl>
+        <attrdef>Average ground elevation at SET establishment</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.69</rdommin>
+            <rdommax>1.17</rdommax>
+            <attrunit>ft NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the elevation of the SET benchmark was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elev_max</attrlabl>
+        <attrdef>Maximum ground elevation at SET establishment</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.55</rdommin>
+            <rdommax>1.39</rdommax>
+            <attrunit>ft NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the elevation of the SET benchmark was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elev_min</attrlabl>
+        <attrdef>Minimum ground elevation at SET establishment</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.77</rdommin>
+            <rdommax>0.96</rdommax>
+            <attrunit>ft NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NR</edomv>
+            <edomvd>Not recorded - A value of NR was given when the elevation of the SET benchmark was not measured at establishment</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SET_name</attrlabl>
+        <attrdef>Name of the specific SET instrument used to collect measurements</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Cahoon 99-2</edomv>
+            <edomvd>Cahoon 99-2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Foote 96-1</edomv>
+            <edomvd>Foote 96-1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>St Pete 2005</edomv>
+            <edomvd>St Pete 2005</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>TJS 2002</edomv>
+            <edomvd>TJS 2002</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pin_ft</attrlabl>
+        <attrdef>Pin length</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.5</rdommin>
+            <rdommax>5</rdommax>
+            <attrunit>ft</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pin_mm</attrlabl>
+        <attrdef>Pin length</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>762</rdommin>
+            <rdommax>1521</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pin_ft_v2</attrlabl>
+        <attrdef>Updated pin length for new pins used starting with the December 2018 sampling event</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.5</rdommin>
+            <rdommax>4</rdommax>
+            <attrunit>ft</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pin_mm_v2</attrlabl>
+        <attrdef>Updated pin length for new pins used starting with the December 2018 sampling event</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>762</rdommin>
+            <rdommax>1223</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_orig</attrlabl>
+        <attrdef>Original accretion plot names</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1a, 1b, 1c</edomv>
+            <edomvd>1a, 1b, 1c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2a, 2b, 2c</edomv>
+            <edomvd>2a, 2b, 2c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3a, 3b, 3c</edomv>
+            <edomvd>3a, 3b, 3c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>a, b, c, d</edomv>
+            <edomvd>a, b, c, d</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_1</attrlabl>
+        <attrdef>Names of the 1st set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1a, 1b, 1c</edomv>
+            <edomvd>1a, 1b, 1c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1d, 1e, 1f</edomv>
+            <edomvd>1d, 1e, 1f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1d, 1e, 1f, 1g</edomv>
+            <edomvd>1d, 1e, 1f, 1g</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1x, 1y, 1z</edomv>
+            <edomvd>1x, 1y, 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2a, 2b, 2c</edomv>
+            <edomvd>2a, 2b, 2c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2d, 2e, 2f</edomv>
+            <edomvd>2d, 2e, 2f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2d, 2e, 2f, 2g</edomv>
+            <edomvd>2d, 2e, 2f, 2g</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x, 2y, 2z</edomv>
+            <edomvd>2x, 2y, 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3a, 3b, 3c</edomv>
+            <edomvd>3a, 3b, 3c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3d, 3e, 3f</edomv>
+            <edomvd>3d, 3e, 3f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3d, 3e, 3f, 3g</edomv>
+            <edomvd>3d, 3e, 3f, 3g</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x, 3y, 3z</edomv>
+            <edomvd>3x, 3y, 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_2</attrlabl>
+        <attrdef>Names of the 2nd set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1a</edomv>
+            <edomvd>1a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1d, 1e, 1f</edomv>
+            <edomvd>1d, 1e, 1f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1h, 1i, 1j</edomv>
+            <edomvd>1h, 1i, 1j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1x, 1y, 1z</edomv>
+            <edomvd>1x, 1y, 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2a</edomv>
+            <edomvd>2a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2d, 2e, 2f</edomv>
+            <edomvd>2d, 2e, 2f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2h, 2i, 2j</edomv>
+            <edomvd>2h, 2i, 2j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x, 2y, 2z</edomv>
+            <edomvd>2x, 2y, 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3a</edomv>
+            <edomvd>3a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3d, 3e, 3f</edomv>
+            <edomvd>3d, 3e, 3f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3h, 3i, 3j</edomv>
+            <edomvd>3h, 3i, 3j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x, 3y, 3z</edomv>
+            <edomvd>3x, 3y, 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_3</attrlabl>
+        <attrdef>Names of the 3rd set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1h, 1i, 1j</edomv>
+            <edomvd>1h, 1i, 1j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1k, 1l, 1m</edomv>
+            <edomvd>1k, 1l, 1m</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1x, 1y, 1z</edomv>
+            <edomvd>1x, 1y, 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2h, 2i, 2j</edomv>
+            <edomvd>2h, 2i, 2j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2k, 2l, 2m</edomv>
+            <edomvd>2k, 2l, 2m</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x, 2y, 2z</edomv>
+            <edomvd>2x, 2y, 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3h, 3i, 3j</edomv>
+            <edomvd>3h, 3i, 3j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3k, 3l, 3m</edomv>
+            <edomvd>3k, 3l, 3m</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x, 3y, 3z</edomv>
+            <edomvd>3x, 3y, 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_4</attrlabl>
+        <attrdef>Names of the 4th set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1n, 1o, 1p</edomv>
+            <edomvd>1n, 1o, 1p</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1x, 1y, 1z</edomv>
+            <edomvd>1x, 1y, 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2n, 2o, 2p</edomv>
+            <edomvd>2n, 2o, 2p</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x, 2y, 2z</edomv>
+            <edomvd>2x, 2y, 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3n, 3o, 3p</edomv>
+            <edomvd>3n, 3o, 3p</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x, 3y, 3z</edomv>
+            <edomvd>3x, 3y, 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Accre_5</attrlabl>
+        <attrdef>Names of the 5th set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1x, 1y, 1z</edomv>
+            <edomvd>1x, 1y, 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x, 2y, 2z</edomv>
+            <edomvd>2x, 2y, 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x, 3y, 3z</edomv>
+            <edomvd>3x, 3y, 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_accre</attrlabl>
+        <attrdef>Installation date of the original accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/28/1994</rdommin>
+            <rdommax>11/14/2006</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_acc_1</attrlabl>
+        <attrdef>Date of installation of the 1st set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10/26/2000</rdommin>
+            <rdommax>12/11/2018</rdommax>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_acc_2</attrlabl>
+        <attrdef>Date of installation of the 2nd set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2/14/2005</rdommin>
+            <rdommax>5/12/2017</rdommax>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_acc_3</attrlabl>
+        <attrdef>Date of installation of the 3rd set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>11/13/2006</rdommin>
+            <rdommax>5/9/2017</rdommax>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_acc_4</attrlabl>
+        <attrdef>Date of installation of the 4th set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2/2/2009</edomv>
+            <edomvd>12/12/2018</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date_acc_5</attrlabl>
+        <attrdef>Date of installation of the 5th set of replacement accretion plots</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>5/9/2017</edomv>
+            <edomvd>5/9/2017</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable - A value of NA was given if replacement accretion plots were not established</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Note</attrlabl>
+        <attrdef>Additional notes used described instances where specific SET arm azimuth positions were changed from the original positions that were either disturbed, damaged or obscured</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Additional notes used described instances where specific SET arm azimuth positions were changed from the original positions that were either disturbed, damaged or obscured</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>sciencebase@usgs.gov</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20190619</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+

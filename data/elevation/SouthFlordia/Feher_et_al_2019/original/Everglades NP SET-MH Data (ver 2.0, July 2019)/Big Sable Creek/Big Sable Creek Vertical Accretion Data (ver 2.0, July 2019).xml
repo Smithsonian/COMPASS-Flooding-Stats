@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Laura C. Feher</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Gordon H. Anderson</origin>
+        <pubdate>2019</pubdate>
+        <title>Big Sable Creek Vertical Accretion Data (ver 2.0, July 2019)</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7348HNP</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/58f65df4e4b0bd52222f7818</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set represents vertical accretion data from the Big Sable Creek site in Everglades National Park.</abstract>
+      <purpose>Marker horizons are used to measure vertical accretion due to sediment deposition or erosion. Marker horizons are often used in conjunction with sediment elevation tables to measure both surface and below-ground processes that influence elevation change.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1998</begdate>
+          <enddate>2019</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.18429</westbc>
+        <eastbc>-80.84822</eastbc>
+        <northbc>25.61225</northbc>
+        <southbc>25.26616</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field inventory and monitoring</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>long-term ecological monitoring</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Everglades National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Powdered white feldspar clay (or other inert materials such as sand, brick dusk, or glitter) is placed on the surface of the sediment in a designated plot. Cores are taken within this plot upon return visits to the site, and the thickness of the sediment accumulated above the marker layer is measured as vertical accretion.</procdesc>
+        <procdate>19980728</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Version History for Everglades National Park sediment elevation and marker horizon data release&#xD;
+&#xD;
+Feher, L.C., Osland, M.J., and Anderson, G.H., 2019, Everglades National Park sediment elevation and marker horizon data release (ver 2.0, July 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7348HNP.&#xD;
+&#xD;
+________________________________________________________&#xD;
+&#xD;
+Original posted online August 10, 2017&#xD;
+________________________________________________________&#xD;
+&#xD;
+Version 2.0 revised and reposted online July 2019&#xD;
+&#xD;
+Changes in version 2.0&#xD;
+&#xD;
+1. Added several additional columns of sediment elevation and marker horizon data from sampling events from the period between September 2014 and April 2019.&#xD;
+2. Revised the SET pin height values collected prior to April 2019 to reflect the length of new fiberglass pins. Note that in some instances this conversion resulted in negative pin height values.&#xD;
+3. Added data from new marker horizon plots that were installed during the May 2017 or December 2018 sampling events.&#xD;
+________________________________________________________</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Attribute table for Big Sable Creek Vertical Accretion Data (ver 2.0, July 2019).csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Site name</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BSC</edomv>
+            <edomvd>Big Sable Creek</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Plot</attrlabl>
+        <attrdef>Feldspar marker horizon plot designation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1a</edomv>
+            <edomvd>Plot 1a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1b</edomv>
+            <edomvd>Plot 1b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1c</edomv>
+            <edomvd>Plot 1c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2a</edomv>
+            <edomvd>Plot 2a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2b</edomv>
+            <edomvd>Plot 2b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2c</edomv>
+            <edomvd>Plot 2c</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3a</edomv>
+            <edomvd>Plot 3a</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3b</edomv>
+            <edomvd>Plot 3b</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1d</edomv>
+            <edomvd>Plot 1d</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1e</edomv>
+            <edomvd>Plot 1e</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1f</edomv>
+            <edomvd>Plot 1f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2d</edomv>
+            <edomvd>Plot 2d</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2e</edomv>
+            <edomvd>Plot 2e</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2f</edomv>
+            <edomvd>Plot 2f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3d</edomv>
+            <edomvd>Plot 3d</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3e</edomv>
+            <edomvd>Plot 3e</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3f</edomv>
+            <edomvd>Plot 3f</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1h</edomv>
+            <edomvd>Plot 1h</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1i</edomv>
+            <edomvd>Plot 1i</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1j</edomv>
+            <edomvd>Plot 1j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2h</edomv>
+            <edomvd>Plot 2h</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2i</edomv>
+            <edomvd>Plot 2i</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2j</edomv>
+            <edomvd>Plot 2j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3h</edomv>
+            <edomvd>Plot 3h</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3i</edomv>
+            <edomvd>Plot 3i</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3j</edomv>
+            <edomvd>Plot 3j</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1x</edomv>
+            <edomvd>Plot 1x</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1y</edomv>
+            <edomvd>Plot 1y</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>1z</edomv>
+            <edomvd>Plot 1z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2x</edomv>
+            <edomvd>Plot 2x</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2y</edomv>
+            <edomvd>Plot 2y</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2z</edomv>
+            <edomvd>Plot 2z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3x</edomv>
+            <edomvd>Plot 3x</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3y</edomv>
+            <edomvd>Plot 3y</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3z</edomv>
+            <edomvd>Plot 3z</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Measuremen</attrlabl>
+        <attrdef>Measurement number for 1 of 3 marker horizon depth measurements taken on a single core from each plot</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Measurement 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Measurement 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Measurement 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Est_date</attrlabl>
+        <attrdef>Date of feldspar marker horizon plot installation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>07_21_2008</edomv>
+            <edomvd>July 21st, 2008</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>10_16_2000</edomv>
+            <edomvd>October 16th, 2000</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>02_14_2005</edomv>
+            <edomvd>February 14th, 2005</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>08_01_2007</edomv>
+            <edomvd>August 1st, 2007</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>07_21_2008</edomv>
+            <edomvd>July 21st, 2008</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>10_26_2010</edomv>
+            <edomvd>October 26th, 2010</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>05_13_2017</edomv>
+            <edomvd>May 13th, 2017</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>12_12_2018</edomv>
+            <edomvd>December 12th, 2018</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_26_1998</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_26_1999</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>18</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_30_1999</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>17</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_28_1999</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5</rdommin>
+            <rdommax>18.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_22_2000</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.5</rdommin>
+            <rdommax>42.2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_20_2000</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8.1</rdommin>
+            <rdommax>17.2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>08_02_2000</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5</rdommin>
+            <rdommax>14.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_16_2000</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.9</rdommin>
+            <rdommax>22.4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_16_2001</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>26.8</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_27_2001</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>28.6</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_17_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5</rdommin>
+            <rdommax>30.8</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_15_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.4</rdommin>
+            <rdommax>32.7</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_01_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.9</rdommin>
+            <rdommax>22.4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_24_2002</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.9</rdommin>
+            <rdommax>40.6</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_23_2003</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.8</rdommin>
+            <rdommax>33.9</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>11_16_2003</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6</rdommin>
+            <rdommax>41.1</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_24_2004</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8.8</rdommin>
+            <rdommax>54.3</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_20_2004</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.3</rdommin>
+            <rdommax>44.1</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>02_14_2005</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>21</rdommin>
+            <rdommax>46.9</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>06_14_2005</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.2</rdommin>
+            <rdommax>4.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>11_08_2005</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>1.4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_28_2006</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>6</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>12_11_2006</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.7</rdommin>
+            <rdommax>15</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_09_2007</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>2</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_16_2007</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_09_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>4</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_09_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.2</rdommin>
+            <rdommax>1</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_30_2008</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>11</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_15_2009</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>13</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_15_2009</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.5</rdommin>
+            <rdommax>8.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_24_2009</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5</rdommin>
+            <rdommax>9.5</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_22_2009</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>13</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_21_2010</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>29</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_19_2010</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5</rdommin>
+            <rdommax>16</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>07_30_2010</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7</rdommin>
+            <rdommax>21</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>10_26_2010</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>mm</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>17</rdommin>
+            <rdommax>28</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>01_24_2011</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>17</rdommin>
+            <rdommax>28</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>09_20_2016</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>43</rdommin>
+            <rdommax>132</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>05_13_2017</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>47</rdommin>
+            <rdommax>48.8</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>12_07_2017</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>28</rdommin>
+            <rdommax>81</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>05_05_2018</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>23</rdommin>
+            <rdommax>64</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>12_12_2018</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>29</rdommin>
+            <rdommax>45</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>04_26_2019</attrlabl>
+        <attrdef>Feldspar marker horizon depth by date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>41</rdommax>
+            <attrunit>mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not Applicable: designated when the marker horizon was not sampled on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Not Found: designated when a marker horizon layer was not found.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>sciencebase@usgs.gov</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20190708</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+
