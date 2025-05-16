@@ -16,28 +16,28 @@ whitebox::wbt_init()
 theme_set(theme_classic())
 
 
-dem <- raster("data/GIS/GCREW_elevation.tif")
+dem <- raster("data/GIS/GCREW_elevation_3m.tif")
 
 pal <- colorNumeric(palette = "PuOr", values(dem),
                     na.color = "transparent")
 
-leaflet() %>% addTiles() %>%
-  addRasterImage(dem, colors = pal, opacity = 0.8) %>%
-  addLegend(pal = pal, values = values(dem),
-            title = "Elv (m)")
+# leaflet() %>% addTiles() %>%
+#   addRasterImage(dem, colors = pal, opacity = 0.8) %>%
+#   addLegend(pal = pal, values = values(dem),
+#             title = "Elv (m)")
 
-wbt_hillshade(dem = "data/GIS/GCREW_elevation.tif",
-              output = "data/GIS/GCREW_hillshade.tif",
-              azimuth = 115)
-
-hillshade <- raster("data/GIS/GCREW_hillshade.tif")
-
-leaflet() %>% addTiles() %>%
-  addRasterImage(hillshade, opacity = 0.8)
-
+# wbt_hillshade(dem = "data/GIS/GCREW_elevation.tif",
+#               output = "data/GIS/GCREW_hillshade.tif",
+#               azimuth = 115)
+# 
+# hillshade <- raster("data/GIS/GCREW_hillshade.tif")
+# 
+# leaflet() %>% addTiles() %>%
+#   addRasterImage(hillshade, opacity = 0.8)
+# 
 # Fill depressions
 wbt_breach_depressions_least_cost(
-  dem = "data/GIS/GCREW_elevation.tif",
+  dem = "data/GIS/GCREW_elevation_3m.tif",
   output = "data/GIS/GCREW_breached.tif",
   dist = 5,
   fill = TRUE)
@@ -74,10 +74,11 @@ wbt_jenson_snap_pour_points(pour_pts = "data/GIS/GCREW_flume.shp",
 pp <- shapefile("data/GIS/GCREW_flume_snapped.shp")
 streams <- raster("data/GIS/GCREW_streams.tif")
 
-leaflet() %>% addProviderTiles("Esri.WorldImagery", group = "ESRI") %>%
-  addRasterImage(dem, colors = pal, opacity = 0.8) %>%
-  addRasterImage(streams, colors = "blue", opacity = 0.8) %>% 
-  addCircleMarkers(color = "black", lat = pp@coords[,"y"], lng = pp@coords[,"x"])
+# leaflet() %>% addProviderTiles("Esri.WorldImagery", group = "ESRI") %>%
+#   
+#   addRasterImage(dem, colors = pal, opacity = 0.8) %>%
+#   addRasterImage(streams, colors = "blue", opacity = 0.8) %>% 
+#   addCircleMarkers(color = "black", lat = pp@coords[,"y"], lng = pp@coords[,"x"])
 
 wbt_watershed(d8_pntr = "data/GIS/GCREW_pointer.tif",
               pour_pts = "data/GIS/GCREW_flume_snapped.shp",
@@ -86,6 +87,8 @@ wbt_watershed(d8_pntr = "data/GIS/GCREW_pointer.tif",
 lil_shed <- raster("data/GIS/GCREW_flume_watershed.tif")
 
 leaflet() %>% addProviderTiles("Esri.WorldImagery", group = "ESRI") %>%
+  addRasterImage(lil_shed, colors = "white", opacity = 0.8) %>% 
+  addRasterImage(streams, colors = "blue", opacity = 0.8) %>% 
+  addCircleMarkers(color = "black", lat = pp@coords[,"y"], lng = pp@coords[,"x"])
   # addRasterImage(streams, colors = "blue", opacity = 0.8)
-  addRasterImage(lil_shed, colors = "blue", opacity = 0.8)
 
