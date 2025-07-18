@@ -53,7 +53,7 @@ wbt_d8_pointer(dem = "data/GIS/GoodwinIsland/Goodwin_breached_filled.tif",
 
 ppoints <- tribble(
   ~Lon, ~Lat,
-  -76.89657499622773, 37.565049362589946
+  -76.40471955371122, 37.21584690891987
 )
 
 ppointsSP <- SpatialPoints(ppoints, proj4string = CRS("+proj=longlat +datum=WGS84"))
