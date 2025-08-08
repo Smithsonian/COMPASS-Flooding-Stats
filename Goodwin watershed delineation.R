@@ -53,7 +53,7 @@ wbt_d8_pointer(dem = "data/GIS/GoodwinIsland/Goodwin_breached_filled.tif",
 
 ppoints <- tribble(
   ~Lon, ~Lat,
-  -76.40471955371122, 37.21584690891987
+  -76.404642, 37.215855
 )
 
 ppointsSP <- SpatialPoints(ppoints, proj4string = CRS("+proj=longlat +datum=WGS84"))
@@ -67,7 +67,7 @@ wbt_extract_streams(flow_accum = "data/GIS/GoodwinIsland/Goodwin_D8FA.tif",
 wbt_jenson_snap_pour_points(pour_pts = "data/GIS/GoodwinIsland/Goodwin_flume.shp",
                             streams = "data/GIS/GoodwinIsland/Goodwin_streams.tif",
                             output = "data/GIS/GoodwinIsland/Goodwin_flume_snapped.shp",
-                            snap_dist = 0.001) #careful with this! Know the units of your data
+                            snap_dist = 0.0005) #careful with this! Know the units of your data
 
 pp <- shapefile("data/GIS/GoodwinIsland/Goodwin_flume_snapped.shp")
 streams <- raster("data/GIS/GoodwinIsland/Goodwin_streams.tif")
