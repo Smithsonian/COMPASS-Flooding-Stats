@@ -8,7 +8,7 @@ library(stars)
 library(rayshader)
 library(rgl)
 library(leaflet)
-library(terra)
+# library(terra)
 
 whitebox::wbt_init()
 theme_set(theme_classic())
