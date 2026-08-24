@@ -1,0 +1,3040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="9e59be92-afd0-11e9-88ab-ab083203ecc2" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <dataset>
+    <title>Dataset: 2015-2018 USA-MDA TMON Marsh Biomass Surveys</title>
+    <creator>
+      <individualName>
+        <givenName>Dennis</givenName>
+        <surName>Whigham</surName>
+      </individualName>
+      <electronicMailAddress>whighamd@si.edu</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Dennis</givenName>
+        <surName>Whigham</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>James R</givenName>
+        <surName>Holmquist</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Mattew B</givenName>
+        <surName>Ogburn</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Michael</givenName>
+        <surName>Goodison</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Liza</givenName>
+        <surName>McFarland</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>J. Patrick</givenName>
+        <surName>Megonigal</surName>
+      </individualName>
+      <role>author</role>
+    </associatedParty>
+    <pubDate>2020</pubDate>
+    <abstract>Biomass surveys conducted each fall from 2015 to 2018 at the Global Change Research Wetland (GCREW) marsh, Corn Island, Bear Neck Creek, and other tidal wetland sites located at the Smithsonian Environmental Research Center in Edgewater, Maryland.  Biomass measurements include allometry and percent cover classes.</abstract>
+    <keywordSet>
+      <keyword>TMON vegetation sampling</keyword>
+      <keyword>plant communities</keyword>
+    </keywordSet>
+    <intellectualRights>This dataset is listed under a Creative Commons BY 4.0 and can be used with attribution. https://creativecommons.org/licenses/by/4.0/</intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>GCREW</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.5492306</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.5425514</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.8783426</northBoundingCoordinate>
+          <southBoundingCoordinate>38.8723234</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>Rhode</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.5336222</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.5322758</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.9008727</northBoundingCoordinate>
+          <southBoundingCoordinate>38.8989323</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>Sellman</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.5392908</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.5376132</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.896173</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895201</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548647</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548647</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.876194</northBoundingCoordinate>
+          <southBoundingCoordinate>38.876194</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548674</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548674</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.876065</northBoundingCoordinate>
+          <southBoundingCoordinate>38.876065</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548639</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548639</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875911</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875911</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548633</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548633</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875794</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875794</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548622</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548622</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875608</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875608</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548601</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548601</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875352</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875352</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-7</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548593</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548593</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875256</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875256</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-8</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548611</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548611</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875086</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875086</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-9</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548566</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548566</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874801</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874801</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-10</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548527</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548527</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874684</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874684</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-11</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548479</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548479</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874443</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874443</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-12</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548497</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548497</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874256</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874256</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-13</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548494</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548494</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874142</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874142</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-14</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548477</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548477</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873889</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873889</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-15</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548427</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548427</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873755</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873755</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-16</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548385</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548385</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873627</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873627</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-17</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548434</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548434</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873341</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873341</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-18</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548436</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548436</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.87321</northBoundingCoordinate>
+          <southBoundingCoordinate>38.87321</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-19</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548408</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548408</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.872953</northBoundingCoordinate>
+          <southBoundingCoordinate>38.872953</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G1-20</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.548413</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.548413</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.872825</northBoundingCoordinate>
+          <southBoundingCoordinate>38.872825</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546266</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546266</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875347</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875347</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546261</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546261</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875178</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875178</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546292</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546292</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.875029</northBoundingCoordinate>
+          <southBoundingCoordinate>38.875029</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546254</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546254</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874832</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874832</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546183</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546183</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874697</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874697</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546157</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546157</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874518</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874518</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-7</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546188</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546188</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874285</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874285</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-8</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.54617</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.54617</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.874059</northBoundingCoordinate>
+          <southBoundingCoordinate>38.874059</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-9</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546175</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546175</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873857</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873857</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-10</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546162</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546162</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873669</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873669</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G2-11</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.546167</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.546167</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.873442</northBoundingCoordinate>
+          <southBoundingCoordinate>38.873442</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.543108</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.543108</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877733</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877733</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.543241</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.543241</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877741</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877741</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.543656</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.543656</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877762</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877762</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.543814</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.543814</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877818</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877818</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.544004</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.544004</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877841</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877841</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>G3-6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.544217</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.544217</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.877825</northBoundingCoordinate>
+          <southBoundingCoordinate>38.877825</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R1-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533272</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533272</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.900671</northBoundingCoordinate>
+          <southBoundingCoordinate>38.900671</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R1-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533334</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533334</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.900688</northBoundingCoordinate>
+          <southBoundingCoordinate>38.900688</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R1-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.53339</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.53339</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.900699</northBoundingCoordinate>
+          <southBoundingCoordinate>38.900699</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R1-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.53342</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.53342</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.900691</northBoundingCoordinate>
+          <southBoundingCoordinate>38.900691</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R1-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.53351</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.53351</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.900711</northBoundingCoordinate>
+          <southBoundingCoordinate>38.900711</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R2-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533153</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533153</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899811</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899811</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R2-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533178</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533178</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899811</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899811</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R2-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533232</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533232</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899757</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899757</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R2-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533279</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533279</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.89978</northBoundingCoordinate>
+          <southBoundingCoordinate>38.89978</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R2-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.533314</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.533314</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899709</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899709</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R3-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.532388</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.532388</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899461</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899461</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R3-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.532434</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.532434</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899347</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899347</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R3-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.532573</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.532573</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899277</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899277</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R3-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.532585</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.532585</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899217</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899217</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>R3-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.532663</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.532663</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.899094</northBoundingCoordinate>
+          <southBoundingCoordinate>38.899094</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.53826</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.53826</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.896092</northBoundingCoordinate>
+          <southBoundingCoordinate>38.896092</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538314</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538314</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.896082</northBoundingCoordinate>
+          <southBoundingCoordinate>38.896082</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538602</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538602</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895927</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895927</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538678</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538678</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895894</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895894</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538921</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538921</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.89573</northBoundingCoordinate>
+          <southBoundingCoordinate>38.89573</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S1-6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.539151</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.539151</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895613</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895613</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.53791</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.53791</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895927</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895927</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538033</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538033</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895908</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895908</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538127</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538127</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.89584</northBoundingCoordinate>
+          <southBoundingCoordinate>38.89584</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538502</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538502</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895654</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895654</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538558</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538558</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895579</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895579</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S2-6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538846</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538846</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895399</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895399</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S3-1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.537753</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.537753</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895705</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895705</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S3-2</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.537923</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.537923</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.89559</northBoundingCoordinate>
+          <southBoundingCoordinate>38.89559</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S3-3</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538076</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538076</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895508</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895508</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S3-4</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538245</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538245</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895462</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895462</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>S3-5</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.538502</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.538502</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.895282</northBoundingCoordinate>
+          <southBoundingCoordinate>38.895282</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2015-10-30</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2018-10-03</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Amaranthus cannabinus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Atriplex patula</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Baccharis halimifolia</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Distichlis spicata</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Hibiscus moscheutos</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Hydrocotyle umbellata</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Iva frutescens</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Juniper communis</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>﻿Juniperus virginiana</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Kosteletzkya  virginica</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Limonium carolinianum</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Morella cerifera</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Panicum dichotomoflorum</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Panicum virgatum</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Peltandra virginica</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Phragmites australis</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Pluchea odorata</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Polygonum hydropiperoides</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Rhynchospora rariflora</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Sagittaria latifolia</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Samolus valerandi</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Schoenoplectus americanus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Schoenoplectus robustus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Smilax rotundifolia</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Solidago sempervirens</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Spartina alterniflora</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Spartina cynosuroides</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Spartina patens</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Symphyotrichum lanceolatum</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Symphyotrichum tenuifolium</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Typha angustifolia</taxonRankValue>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <contact>
+      <individualName>
+        <givenName>Dennis</givenName>
+        <surName>Whigham</surName>
+      </individualName>
+      <electronicMailAddress>whighamd@si.edu</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <section>
+            <title>Plot establishment</title>
+            <para>
+    Transects were established at each site, and plots were placed at
+    randomly determined intervals along each transect. At each plot,
+    locations were taken using handheld GPS, and 1m x 1m sampling plots
+    were established using PVC and fiberglass markers.
+  </para>
+          </section>
+          <section>
+            <title>Vegetation Cover Sampling</title>
+            <para>
+    Boundaries were set up in each 1m x 1m plot, and visual percent
+    cover was approximated using the Braun-Blanquet cover class
+    estimation (Braun-Blanquet 1932). The cover class approximations for
+    each species in each plot were then converted to fractional cover,
+    and treated as the midpoint value for data analysis. The relative
+    cover classes of other environmental conditions such as bare ground,
+    open water, wrack, dead biomass, and leaf litter, were also
+    recorded.
+  </para>
+          </section>
+          <section>
+            <title>Herbaceous Biomass Harvest</title>
+            <para>
+    In one corner of each 1x1m plot, herbaceous biomass was harvested
+    when Distichlis spicata and/or Spartina patens were present within a
+    10 X 10 cm subplot. We harvested all aboveground biomass, live or
+    dead in the subplot. In the laboratory, live biomass of each species
+    was separated. All dead biomass was combined into one category.
+    Samples were dried for a minimum of three days at 60°C in a Grieve
+    forced-air drying oven, then weighed to the nearest .01 grams.
+  </para>
+          </section>
+          <section>
+            <title>Phragmites australis</title>
+            <para>
+    Within each 1 m x 1 m plot, we counted living and dead Phragmites
+    stems. We measured the height and diameter of four stems in each
+    plot. Diameters were measured at two heights, the base and 40 cm
+    from the base of the stem (sometime referred to as diameter at knee
+    height, DKH).
+  </para>
+          </section>
+          <section>
+            <title>Iva frutescens</title>
+            <para>
+    Within each 1 m x 1 m plot, we counted the number of living and dead
+    stems (defined as a shoot emerging aboveground). Based on the ratio
+    of living and dead stems, the diameter, at 40 cm, of 5 stems were
+    measured. Three diameter measurements were made on the type of stem
+    (living or dead) that was present in the greatest number and two
+    measurements were made on the other category. We measured the total
+    height of the bush. We also made two measurements, at right angles
+    to each other, of diameter of the crown.
+  </para>
+          </section>
+          <section>
+            <title>Other species allometry</title>
+            <para>
+    Within each 1 m x 1 m plot, we counted the number of living stems
+    for species other than Spartina patens and Distichils spicata. We
+    measured the heights and diameter of all stems of each species with
+    a limit of eight stems per species. Diameters were measured at the
+    base and 40 cm of each stem (diameter at knee height, DKH).
+  </para>
+          </section>
+          <section>
+            <title>Calculating Total Biomass</title>
+            <para>
+    For species harvested in the 10 X 10 cm subplot, we estimated total
+    plot biomass (g) by multiplying the dry weights of each species by
+    100 to estimate biomass as grams per square meter. The biomass of
+    litter in each 10 X 10 cm subplot was also converted to g m-2.
+  </para>
+            <para>
+    For species that were measured (diameter and height), we estimated
+    biomass using the allometric equations published by Lu et al.
+    (2016). Each function takes height as a mandatory input, and DKH as
+    an optional input. The list of functions contains species-specific
+    allometric equations for most of the species present, and generic
+    grass and forb equations for the rest. In one case we applied the
+    allometric equation for Iva frutescens to Morella cerifera because
+    it was the only shrub-specific allometric equation available for the
+    site.
+  </para>
+            <para>
+    For each herbaceous species in which biomass was estimated using
+    allometry, we first calculated the average biomass of all stems
+    measured, then multiplied average plant biomass by the number of
+    stems counted in the 1 x 1 m plot to estimate biomass as g m-2.
+  </para>
+            <para>
+    For the shrub Iva frutescens, biomass was estimated for all shoots
+    (living and dead) in each 1 m x 1 m plot. First, the biomass of the
+    5 separate shoots that were measured was calculated from the
+    allometric equation for Iva. Second, the average biomass of the 5
+    shoots was calculated. Third, average shoot biomass was multiplied
+    by the number of live shoots to calculate the biomass (g m-2) per
+    plot.
+  </para>
+          </section>
+          <section>
+            <title>Data Quality Control</title>
+            <para>
+    After data had been scanned and digitized, datasets were inspected
+    by an independent team. Edits were made to enforce site and transect
+    naming consistency, and to correct typographical errors in species
+    codes. We inspected summary statistics of cover percentages and
+    corrected values that were out of bounds as described next. We
+    plotted log-transformed distributions of width, diameter, and
+    biomass for each species using box-and-whisker plots, and corrected
+    some extreme high outliers (i.e. 3 x the interquartile range of the
+    data) after comparing digital data to the original hand-written data
+    sheets for data entry errors. We plotted changes in species biomass
+    through time by plot and visually inspected trends to detect
+    additional data entry errors. After cursory inspection and data
+    visualization, we checked ~4% of the rows in the dataset against the
+    original entry sheets. Out of 1,352 total entries, we found 6 true
+    data entry errors, a 0.44% entry error rate. We judged that none of
+    these were critical to calculating biomass by allometry.
+  </para>
+          </section>
+          <section>
+            <title>Works Cited</title>
+            <para>
+    Braun-Blanquet J (1932) Plant Sociology: The Study of Plant
+    Communities : Authorized English Translation of Pflanzensoziologie.
+    McGraw-Hill.
+  </para>
+            <para>
+    Lu, M., Caplan, J. S., Bakker, J. D., Langley, J. A., Mozdzer, T.
+    J., Drake, B. G., and Megonigal, J. P. (2016). Allometry data and
+    equations for coastal marsh plants. Ecology 97(12): 3554-3554.
+    https://doi.org/10.1002/ecy.1600
+  </para>
+          </section>
+        </description>
+      </methodStep>
+    </methods>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_site_coordinates</entityName>
+      <entityDescription>site_coordinates information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_site_coordinates.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>site</attributeName>
+          <attributeDefinition>Site in which transects were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>latitude</attributeName>
+          <attributeDefinition>Latitude in decimal degrees, World Geodetic System 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>longitude</attributeName>
+          <attributeDefinition>Longitude in decimal degrees, World Geodetic System 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_plant_species_cover</entityName>
+      <entityDescription>plant_species_cover information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_plant_species_cover.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>fractional_cover</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of live plant matter</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>flag</attributeName>
+          <attributeDefinition>Error or note for species composition</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_comp_notes</attributeName>
+          <attributeDefinition>Additional notes for species composition</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_other_environmental_cover</entityName>
+      <entityDescription>other_environmental_cover information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_other_environmental_cover.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bare_ground</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of bare ground</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>leaf_litter</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of fallen leaf litter</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>standing_dead</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of still standing dead plant material (not species specific)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>open_water</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of any water in the plot (tides excluded--only ponding/holes)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>wrack</attributeName>
+          <attributeDefinition>Midpoint of fractional cover class (Braun Blonquet) of anything else in plots (fallen branch, things washed in on tide, etc)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sampled</attributeName>
+          <attributeDefinition>Indicates whether plot had herbaceous biomass to sample/was sampled</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>yes</code>
+                    <definition>plot was sampled for herbaceous biomass</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>no</code>
+                    <definition>plot was not sampled for herbaceous biomass.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>environment_notes</attributeName>
+          <attributeDefinition>Additional notes for environmental cover</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_harvested_biomass</entityName>
+      <entityDescription>harvested_biomass information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_harvested_biomass.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>mass</attributeName>
+          <attributeDefinition>Mass of dried herbaceous sample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gram</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>biomass_notes</attributeName>
+          <attributeDefinition>Additional notes for harvested biomass</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>total_biomass</attributeName>
+          <attributeDefinition>Estimated biomass per plot, either from scaling harvest, or applying allometric equations.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gramsPerSquareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_Phragmites_allometry</entityName>
+      <entityDescription>Phragmites_allometry information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_Phragmites_allometry.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>total_biomass</attributeName>
+          <attributeDefinition>Estimated biomass per plot, either from scaling harvest, or applying allometric equations.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gramsPerSquareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_Iva_allometry</entityName>
+      <entityDescription>Iva_allometry information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_Iva_allometry.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bush</attributeName>
+          <attributeDefinition>Identifies how many bushes were in the plot, and which bush these measurements are for</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>hgt</attributeName>
+          <attributeDefinition>Height of the bush measured as overall height</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>live_count</attributeName>
+          <attributeDefinition>Number of live stems on the bush</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dead_count</attributeName>
+          <attributeDefinition>Number of dead stems on the bush</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_1</attributeName>
+          <attributeDefinition>Diameter of one stem (to use for allometric biomass equation)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_1_flag</attributeName>
+          <attributeDefinition>Code indicating whether branch was live or dead.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>live</code>
+                    <definition>branch is alive</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>dead</code>
+                    <definition>branch is dead.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_2</attributeName>
+          <attributeDefinition>Diameter of one stem (to use for allometric biomass equation)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_2_flag</attributeName>
+          <attributeDefinition>Code indicating whether branch was live or dead.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>live</code>
+                    <definition>branch is alive</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>dead</code>
+                    <definition>branch is dead.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_3</attributeName>
+          <attributeDefinition>Diameter of one stem (to use for allometric biomass equation)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_3_flag</attributeName>
+          <attributeDefinition>Code indicating whether branch was live or dead.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>live</code>
+                    <definition>branch is alive</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>dead</code>
+                    <definition>branch is dead.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_4</attributeName>
+          <attributeDefinition>Diameter of one stem (to use for allometric biomass equation)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_4_flag</attributeName>
+          <attributeDefinition>Code indicating whether branch was live or dead.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>live</code>
+                    <definition>branch is alive</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>dead</code>
+                    <definition>branch is dead.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_5</attributeName>
+          <attributeDefinition>Diameter of one stem (to use for allometric biomass equation)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>diam_5_flag</attributeName>
+          <attributeDefinition>Code indicating whether branch was live or dead.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>live</code>
+                    <definition>branch is alive</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>dead</code>
+                    <definition>branch is dead.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>crown_1</attributeName>
+          <attributeDefinition>Diameter of bush crown cover (one direction/radius)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>crown_2</attributeName>
+          <attributeDefinition>Diameter of bush crown cover (one direction/radius)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bush_health</attributeName>
+          <attributeDefinition>Indicates whether bush was alive or dead (or a mix)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>total_biomass</attributeName>
+          <attributeDefinition>Estimated biomass per plot, either from scaling harvest, or applying allometric equations.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gramsPerSquareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_other_species_allometry</entityName>
+      <entityDescription>other_species_allometry information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_other_species_allometry.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem1_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem2_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem3_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem5_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem5_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem5_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem6_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem6_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem6_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem7_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem7_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem7_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem8_hgt</attributeName>
+          <attributeDefinition>Height of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem8_basal</attributeName>
+          <attributeDefinition>Diameter of stem at base of stem</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stem8_40cm</attributeName>
+          <attributeDefinition>Diameter of stem at 40 cm above ground (knee height)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>total_biomass</attributeName>
+          <attributeDefinition>Estimated biomass per plot, either from scaling harvest, or applying allometric equations.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gramsPerSquareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_plant_species_codes</entityName>
+      <entityDescription>plant_species_codes information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_plant_species_codes.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>family</attributeName>
+          <attributeDefinition>Plant family</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>genus</attributeName>
+          <attributeDefinition>Plant genus</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species</attributeName>
+          <attributeDefinition>Plant species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>authority</attributeName>
+          <attributeDefinition>Authority describing genus and species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Whigham_et_al_2020_all_biomass</entityName>
+      <entityDescription>all_biomass information for study</entityDescription>
+      <physical>
+        <objectName>Whigham_et_al_2020_all_biomass.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeDefinition>Year samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>month</attributeName>
+          <attributeDefinition>Month samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>day</attributeName>
+          <attributeDefinition>Day samples were collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeDefinition>Transect at site in which plots were located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>plot</attributeName>
+          <attributeDefinition>1 by 1 meter plots along a transect</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code indicating plant family, or genus and/or species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>area</attributeName>
+          <attributeDefinition>Area of sampling plot</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>method</attributeName>
+          <attributeDefinition>Method used to estimate total biomass</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>harvest</code>
+                    <definition>biomass was estimated directly by harvesting</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>allometry</code>
+                    <definition>biomass was estimated indirectly using allometric equations.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>total_biomass</attributeName>
+          <attributeDefinition>Estimated biomass per plot, either from scaling harvest, or applying allometric equations.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gramsPerSquareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="nominalMonth" multiplierToSI="2628000" name="nominalMonth" parentSI="second" unitType="time">
+          <description>one month excluding leap seconds and leap days, 2628000 seconds</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

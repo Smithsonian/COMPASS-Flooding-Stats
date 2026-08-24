@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20240129</CreaDate>
+<CreaTime>14584700</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">HydroHourly</itemName>
+<imsContentType Sync="TRUE" export="True">002</imsContentType>
+<itemLocation>
+<linkage Sync="FALSE">withheld</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+</itemProps>
+</DataProperties>
+<SyncDate>20240517</SyncDate>
+<SyncTime>11552600</SyncTime>
+<ModDate>20240517</ModDate>
+<ModTime>11552600</ModTime>
+<scaleRange>
+<minScale>150000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>FGDC</ArcGISProfile>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows 10 Version 10.0 (Build 19045) ; Esri ArcGIS 13.1.3.41833</envirDesc>
+<dataLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">HydroHourly</resTitle>
+<presForm>
+<PresFormCd value="011" Sync="TRUE">
+</PresFormCd>
+</presForm>
+<date>
+<createDate>1996-12-09T00:00:00</createDate>
+<pubDate>1996-12-09T00:00:00</pubDate>
+</date>
+<citRespParty>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="006">
+</RoleCd>
+</role>
+</citRespParty>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="003" Sync="TRUE">
+</SpatRepTypCd>
+</spatRpType>
+<idPurp>The intended purpose of this dataset is to provide tabular data that represent hourly hydrographic measurements collected at specific locations.</idPurp>
+<searchKeys>
+<keyword>CRMS</keyword>
+<keyword>Louisiana</keyword>
+<keyword>Sampling</keyword>
+<keyword>Hydrography</keyword>
+</searchKeys>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Hydrographic hourly data may be downloaded by project, CRMS site, or by station number, but it should be noted that these files are much larger than the monthly files. For example, since one year of hourly sampling will yield approximately 8,760 records, a file for a project collecting data at 3 stations for a period of 5 years will contain approximately 131,400 records. For this reason, we recommend that hourly data be downloaded by station and not by project. The term “Raw” in the variable descriptions below indicates that data within that column are listed as reported by the data-collection instrument and have not been adjusted or corrected. The term “Adjusted” indicates that the raw data have been corrected for biofouling, instrument drift, and/or instrument malfunction.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<idCredit>These data were created through a cooperative agreement between the Coastal Protection and Restoration Authority of Louisiana (CPRA) and the U.S. Geological Survey, Wetland and Aquatic Research Center.</idCredit>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Information that fulfills this data request has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.  Elevation measurements are dependent upon the choices of standards that were used, including: vertical datums, geoids, ellipsoids, and various other factors. These factors should be considered when comparing elevation data between stations.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL>-93.901486 </westBL>
+<eastBL>-88.801599</eastBL>
+<northBL>30.536226</northBL>
+<southBL>28.966122</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+<exDesc>Louisiana Coastal Zone.  No end date, data updated continually.</exDesc>
+<tempEle>
+<TempExtent>
+<exTemp>
+<TM_Period>
+<tmBegin>1996-12-09T00:00:00</tmBegin>
+</TM_Period>
+</exTemp>
+</TempExtent>
+</tempEle>
+</dataExt>
+<dataChar>
+<CharSetCd value="004">
+</CharSetCd>
+</dataChar>
+<idStatus>
+<ProgCd value="004">
+</ProgCd>
+</idStatus>
+<idPoC>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</idPoC>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="001">
+</MaintFreqCd>
+</maintFreq>
+<maintCont>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</maintCont>
+</resMaint>
+<tpCat>
+<TopicCatCd value="007">
+</TopicCatCd>
+</tpCat>
+<tpCat>
+<TopicCatCd value="012">
+</TopicCatCd>
+</tpCat>
+<tpCat>
+<TopicCatCd value="014">
+</TopicCatCd>
+</tpCat>
+</dataIdInfo>
+<mdLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</mdLang>
+<distInfo>
+<distFormat>
+<formatName Sync="FALSE">Tabular CSV</formatName>
+</distFormat>
+</distInfo>
+<mdHrLv>
+<ScopeCd value="007" Sync="TRUE">
+</ScopeCd>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<eainfo>
+<detailed Name="HydroHourly">
+<enttyp>
+<enttypl Sync="FALSE">HydroHourly</enttypl>
+<enttypt Sync="TRUE">Table</enttypt>
+<enttypc Sync="TRUE">12179</enttypc>
+<enttypd>Tabular data that represent hydrographic measurements for specific locations.</enttypd>
+<enttypds>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Station_ID</attrlabl>
+<attalias Sync="TRUE">Station ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">30</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Alphanumeric value assigned to a station by CPRA used for identification purposes.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Alphanumeric value assigned to a station by CPRA used for identification purposes (i.e., CRMS0292-H01).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Date__mm_dd_yyyy_</attrlabl>
+<attalias Sync="TRUE">Date (mm/dd/yyyy)</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Month, day, and year that the data were collected.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>MM/DD/YYYY.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Time__hh_mm_ss_</attrlabl>
+<attalias Sync="TRUE">Time (hh:mm:ss)</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Time the data were collected.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>HH:MM:SS.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Time_Zone</attrlabl>
+<attalias Sync="TRUE">Time Zone</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">3</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Time zone in Central Standard Time (CST).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>CST.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sensor_Environment</attrlabl>
+<attalias Sync="TRUE">Sensor Environment</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">65</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Flotant Marsh, Surface Water, or Marsh Well.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Flotant Marsh, Surface Water, Marsh Well.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Water_Temperature___C_</attrlabl>
+<attalias Sync="TRUE">Raw Water Temperature (°C)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Water temperature in degrees Celsius as reported by data recorder.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 14.56).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Water_Temperature___C_</attrlabl>
+<attalias Sync="TRUE">Adjusted Water Temperature (°C)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>“Raw Water Temperature” with erroneous data values removed.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 14.56).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Specific_Conductance__uS_cm_</attrlabl>
+<attalias Sync="TRUE">Raw Specific Conductance (uS/cm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Specific conductance in microsiemens per centimeter as reported by the data recorder</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 44901).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Specific_Conductance__uS_cm_</attrlabl>
+<attalias Sync="TRUE">Adjusted Specific Conductance (uS/cm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Specific Conductance” corrected for biofouling and instrument drift, with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 44901).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Salinity__ppt_</attrlabl>
+<attalias Sync="TRUE">Raw Salinity (ppt)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Salinity in parts per thousand as calculated from “Raw Specific Conductance”.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999 (i.e., 29.06).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Salinity__ppt_</attrlabl>
+<attalias Sync="TRUE">Adjusted Salinity (ppt)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Salinity in parts per thousand as calculated from “Adjusted Specific Conductance”, with erroneous data removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 29.1).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Water_Level__ft_</attrlabl>
+<attalias Sync="TRUE">Raw Water Level (ft)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Water level as recorded in feet relative to the instrument sensor. This variable is not comparable through time at any given station nor is it comparable between or among other stations. Use “Adjusted Water Elevation to Datum” for water elevation comparisons.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 1.47).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Water_Level__ft_</attrlabl>
+<attalias Sync="TRUE">Adjusted Water Level (ft)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Water Level” corrected for biofouling and instrument drift, with erroneous data removed. This variable is not comparable through time at any given station nor is it comparable between or among other stations. Use “Adjusted Water Elevation to Datum” for water elevation comparisons.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999 (i.e., 1.47).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Water_Elevation_to_Marsh__ft_</attrlabl>
+<attalias Sync="TRUE">Raw Water Elevation to Marsh (ft)</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">Double</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Water Elevation to Datum” shifted relative to average marsh elevation in the immediate vicinity of the data recorder.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Water_Elevation_to_Marsh__ft_</attrlabl>
+<attalias Sync="TRUE">Adjusted Water Elevation to Marsh (ft)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Adjusted Water Elevation to Datum” shifted relative to average marsh elevation in the immediate vicinity of the data recorder. Used for evaluating marsh flooding.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Water_Elevation_to_Datum__ft_</attrlabl>
+<attalias Sync="TRUE">Raw Water Elevation to Datum (ft)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Water Level” converted to the North American Vertical Datum 1988 (NAVD88).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Water_Elevation_to_Datum__ft_</attrlabl>
+<attalias Sync="TRUE">Adjusted Water Elevation to Datum (ft)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Adjusted Water Level” converted to the North American Vertical Datum 1988 (NAVD88).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Marsh_Mat_Elevation__ft_</attrlabl>
+<attalias Sync="TRUE">Raw Marsh Mat Elevation (ft)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Marsh Mat Elevation relative to North American Vertical Datum 1988 (NAVD 1988).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Marsh_Mat_Elevation_to_Datum__ft_</attrlabl>
+<attalias Sync="TRUE">Adjusted Marsh Mat Elevation to Datum (ft)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Marsh Mat Elevation” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Geoid</attrlabl>
+<attalias Sync="TRUE">Geoid</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Geoid model used to survey/calculate "Adjusted Water Elevation to Datum" (e.g., Geoid99, Geoid12A).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>GEOID99, GEOID12A, GEOID12B, GEOID18.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Battery__V_</attrlabl>
+<attalias Sync="TRUE">Raw Battery (V)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Battery voltage as reported by the data recorder.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Battery__V_</attrlabl>
+<attalias Sync="TRUE">Adjusted Battery (V)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Battery” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Wind_Speed__mph_</attrlabl>
+<attalias Sync="TRUE">Raw Wind Speed (mph)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Wind speed in miles per hour as reported by anemometer.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Wind_Speed__mph_</attrlabl>
+<attalias Sync="TRUE">Adjusted Wind Speed (mph)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Wind Speed” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Wind_Direction__degrees_</attrlabl>
+<attalias Sync="TRUE">Raw Wind Direction (degrees)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Wind direction in radian degrees as reported by anemometer.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Wind_Direction__degrees_</attrlabl>
+<attalias Sync="TRUE">Adjusted Wind Direction (degrees)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Wind Direction” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Velocity__ft_sec_</attrlabl>
+<attalias Sync="TRUE">Raw Velocity (ft/sec)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Water current velocity in feet per second as reported by the data recorder.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Velocity__ft_sec_</attrlabl>
+<attalias Sync="TRUE">Adjusted Velocity (ft/sec)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Velocity” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Precipitation__tips_hour_</attrlabl>
+<attalias Sync="TRUE">Raw Precipitation (tips/hour)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Cumulative number of tips of “tipping bucket” type rain gauge.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Precipitation__inches_</attrlabl>
+<attalias Sync="TRUE">Adjusted Precipitation (inches)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Calculated precipitation in inches, with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Air_Pressure__mm_of_Hg_</attrlabl>
+<attalias Sync="TRUE">Raw Air Pressure (mm of Hg)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Air pressure in millimeters of mercury as reported by barometer.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Air_Pressure__mm_of_Hg_</attrlabl>
+<attalias Sync="TRUE">Adjusted Air Pressure (mm of Hg)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>"Raw Air Pressure" with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Total_Chlorophyll__micrograms_L_</attrlabl>
+<attalias Sync="TRUE">Raw Total Chlorophyll (micrograms/L)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Total chlorophyll in micrograms per liter as recorded by the data recorder.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Total_Chlorophyll__micrograms_L_</attrlabl>
+<attalias Sync="TRUE">Adjusted Total Chlorophyll (micrograms/L)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Total Chlorophyll” in micrograms per liter with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Dissolved_Oxygen__milligrams_L_</attrlabl>
+<attalias Sync="TRUE">Raw Dissolved Oxygen (milligrams/L)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Dissolved oxygen in milligrams per liter.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Dissolved_Oxygen__milligrams_L_</attrlabl>
+<attalias Sync="TRUE">Adjusted Dissolved Oxygen (milligrams/L)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Dissolved Oxygen” in milligrams per liter with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_pH__pH_units_</attrlabl>
+<attalias Sync="TRUE">Raw pH (pH units)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>pH in pH units.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.99999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_pH__pH_units_</attrlabl>
+<attalias Sync="TRUE">Adjusted pH (pH units)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw pH” with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Turbidity__FNU_</attrlabl>
+<attalias Sync="TRUE">Raw Turbidity (FNU)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Turbidity in Formazin Nephelometric Turbidity Units.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Turbidity__FNU_</attrlabl>
+<attalias Sync="TRUE">Adjusted Turbidity (FNU)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Turbidity” in Formazin Nephelometric Turbidity Units with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Raw_Discharge__cubic_ft_sec_</attrlabl>
+<attalias Sync="TRUE">Raw Discharge (cubic ft/sec)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Discharge in cubic feet per second.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Adjusted_Discharge__cubic_ft_sec_</attrlabl>
+<attalias Sync="TRUE">Adjusted Discharge (cubic ft/sec)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>“Raw Discharge” in cubic feet per second, with erroneous data values removed.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Numeral between 0 and  999999999999999.999.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Organization_Name</attrlabl>
+<attalias Sync="TRUE">Organization Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Agency that collected the data.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Agency that collected the data (i.e., COASTAL ESTUARY SERVICES LLC).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Comments</attrlabl>
+<attalias Sync="TRUE">Comments</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Additional comments regarding Continuous Hydrographic and DCP Data.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Free text, as needed.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Latitude</attrlabl>
+<attalias Sync="TRUE">Latitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Latitude recorded in decimal degrees.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>Y value in decimal degrees (i.e., 29.14135922).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Longitude</attrlabl>
+<attalias Sync="TRUE">Longitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Longitude recorded in decimal degrees.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdomv>
+<udom>X value in decimal degrees (i.e., -90.22865476).</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20240517</mdDateSt>
+<mdChar>
+<CharSetCd value="004">
+</CharSetCd>
+</mdChar>
+<mdContact>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</mdContact>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="001">
+</MaintFreqCd>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<LegConsts>
+<othConsts>It is strongly recommended that this data is directly acquired from the originator described above and or from another Coastal Protection and Restoration Authority of Louisiana (CPRA) server and not indirectly through other sources which may have changed the data in some way. The originator makes no claims as to the data's suitability for other purposes.</othConsts>
+</LegConsts>
+</mdConst>
+<mdConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Coastal Protection and Restoration Authority of Louisiana (CPRA) Disclaimer: The information in this database has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</mdConst>
+</metadata>

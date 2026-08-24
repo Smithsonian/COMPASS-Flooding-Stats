@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Camille L. Stagg</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Jena A. Moon</origin>
+        <origin>Laura C. Feher</origin>
+        <origin>Claudia Laurenzano</origin>
+        <origin>Tiffany C. Lane</origin>
+        <origin>William R. Jones</origin>
+        <origin>Stephen B. Hartley</origin>
+        <pubdate>20210922</pubdate>
+        <title>Coastal wetland vegetation and elevation data characterizing a Sudden Vegetation Dieback event in San Bernard National Wildlife Refuge in 2019</title>
+        <geoform>tabular digital data</geoform>
+        <onlink>https://doi.org/10.5066/P92UF8MK</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Camille LaFosse Stagg</origin>
+            <origin>Michael J. Osland</origin>
+            <origin>Jena A. Moon</origin>
+            <origin>Laura C. Feher</origin>
+            <origin>Claudia Laurenzano</origin>
+            <origin>Tiffany C. Lane</origin>
+            <origin>William R. Jones</origin>
+            <origin>Stephen B. Hartley</origin>
+            <pubdate>20210905</pubdate>
+            <title>Extreme Precipitation and Flooding Contribute to Sudden Vegetation Dieback in a Coastal Salt Marsh</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Plants</sername>
+              <issue>vol. 10, issue 9</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>MDPI AG</publish>
+            </pubinfo>
+            <othercit>ppg. 1841</othercit>
+            <onlink>https://doi.org/10.3390/plants10091841</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Climatic extremes are becoming more frequent with climate change and have the potential to cause major ecological shifts and ecosystem collapse. Along the northern Gulf of Mexico, a coastal wetland in the San Bernard National Wildlife Refuge in Texas suffered significant and acute vegetation dieback following Hurricane Harvey in 2017. We identified plant zonal boundaries along an elevation gradient with drought-tolerant plant species, including succulents and graminoids, at higher elevations and flood-tolerant species, including Spartina alterniflora, at lower elevations. We measured mean canopy height for each species. Soil surface elevation was measured using Real-Time Kinematic (RTK) methods.</abstract>
+      <purpose>The objective of this research was to quantify the relationship between extreme abiotic conditions with large-scale plant mortality in coastal wetlands to provide an indicator of ecosystem vulnerability to climate extremes.</purpose>
+      <supplinf>Author ORCIDs: Stagg, C.L.(0000-0002-1125-7253);Osland, M.J.(0000-0001-9902-8692);Feher, L.C.(0000-0002-5983-6190);Laurenzano, C.(0000-0003-1406-8658);Jones, W.R.(0000-0002-5493-4138);Hartley, S.B.(0000-0003-1380-2769)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20190903</begdate>
+          <enddate>20191004</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-95.54622017</westbc>
+        <eastbc>-95.50160678</eastbc>
+        <northbc>28.86874084</northbc>
+        <southbc>28.84193387</southbc>
+      </bounding>
+      <descgeog>San Bernard National Wildlife Refuge, Cowtrap Lake</descgeog>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Extreme climatic events</themekey>
+        <themekey>Extreme precipitation</themekey>
+        <themekey>Tropical cyclones</themekey>
+        <themekey>Coastal wetlands</themekey>
+        <themekey>Ecosystem collapse</themekey>
+        <themekey>Regime shift</themekey>
+        <themekey>Ecological thresholds</themekey>
+        <themekey>Hurricane Harvey</themekey>
+        <themekey>Sudden Vegetation Dieback</themekey>
+        <themekey>Precipitation (atmospheric)</themekey>
+        <themekey>Salt marsh</themekey>
+        <themekey>Wetlands</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:60be4753d34e86b93891135a</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>Gulf of Mexico</placekey>
+        <placekey>Texas</placekey>
+        <placekey>San Bernard National Wildlife Refuge</placekey>
+        <placekey>San Bernard River</placekey>
+        <placekey>Brazos River</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Camille L Stagg</cntper>
+          <cntorg>U.S. Geological Survey, Southeast Region</cntorg>
+        </cntperp>
+        <cntpos>Research Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-266-8537</cntvoice>
+        <cntfax>337-266-8586</cntfax>
+        <cntemail>staggc@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This work was supported by the U.S. Geological Survey/U.S. Fish and Wildlife Service Science Support Partnership Program, the U.S. Geological Survey Ecosystems Program, and the National Wildlife Refuge System. The authors would like to thank the staff at San Bernard National Wildlife Refuge for access and logistical support, and the Texas Chenier Plain National Wildlife Refuge for logistical support. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Y. Gao</origin>
+        <origin>K. Chen</origin>
+        <origin>A. Wojciechowski</origin>
+        <pubdate>2005</pubdate>
+        <title>Point real-time kinematic positioning</title>
+        <geoform>publication</geoform>
+        <onlink>https://link.springer.com/chapter/10.1007/3-540-27432-4_14</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Xiaoming, Chen</origin>
+        <origin>Timo, Allison</origin>
+        <origin>Wei, Cao</origin>
+        <origin>Kendall, Ferguson</origin>
+        <origin>Simon, Grünig</origin>
+        <origin>Victor, Gomez</origin>
+        <origin>Adrian, Kipka</origin>
+        <origin>Jan, Köhler</origin>
+        <origin>Herbert, Landau</origin>
+        <origin>Rodrigo, Leandro</origin>
+        <origin>Gang, Lu</origin>
+        <origin>Ralf, Stolz</origin>
+        <origin>Nick, Talbot</origin>
+        <pubdate>2011</pubdate>
+        <title>Trimble RTX, an Innovative New Approach for
+Network RTK.</title>
+        <geoform>publication</geoform>
+        <onlink>https://positioningservices.trimble.com/wp-content/uploads/2019/02/Trimble_WhitePaper_Trimble-RTX-a-New-Approach-for-Network-RTK.pdf</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted apart from standard Quality Assurance/Quality Control (QAQC) protocols.</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted apart from standard QAQC protocols.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Study Location and Experimental Design
+
+The study was conducted in September/October 2019 in the San Bernard National Wildlife Refuge (NWR), which is located along the northern Gulf of Mexico, in the mid-coast region of Texas. San Bernard NWR extends across 22,000 hectares, containing habitats ranging from bottomland forests along the Brazos River and San Bernard River seaward to tidal fresh marshes and salt marshes bordering the Gulf of Mexico. This study focused on the salt marsh habitat, where large areas of Spartina alterniflora dieback were observed following Hurricane Harvey in 2017. In addition to S. alterniflora dieback, the salt marshes contained large areas of surviving healthy S. alterniflora, as well as other graminoid plants, including Distichlis spicata, and several succulent plant species, including Batis maritima, Lycium carolinianum, Monanthochloe littoralis, Borrichia frutescens, and Salicornia depressa. Eight study sites with prominent occurrence of S. alterniflora dieback were selected within the salt marsh habitat. Within each site, cover categories were defined to characterize dominant plant communities, S. alterniflora dieback zones, and areas of open water. Common to all sites, four cover categories were defined, which included “Open Water”, “Spartina Dieback”, “Spartina” and “Distichlis and Succulents”. Open water was defined as an area of open water at least 4 meters squared. The Spartina Dieback cover category was devoid of live vegetation, containing standing dead S. alterniflora, or “stubble”, which is a term used in the salt marsh dieback literature. The Spartina category contained healthy live S. alterniflora, and the “Distichlis and Succulents” category was heterogeneous, characterized by distinct patches of D. spicata monocultures, a mixture of D. spicata and multiple succulent species, and succulent-only species. Except for the “Distichlis and Succulents” category, five plots were established for data collection within each cover category. Because the “Distichlis and Succulents” category was not homogenous, five plots were established in each distinct patch, for a total of 15 plots per site for this cover category. In total, 225 plots were established among the eight sites. Plot location was determined by walking in the direction of a randomly-selected azimuth for at least 15 meters and until the first encounter of a patch within the target cover category. This ensured that all plots within each cover category were at least 15 meters apart.</procdesc>
+        <procdate>20190903</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Field Data Collection
+
+Within each 0.25 square meter plot (i.e. 0.5 meter x 0.5 meter), vegetation canopy cover, canopy height, and surface elevation were measured. Canopy cover for each species was visually estimated along a continuous scale from 0-100 percent cover (i.e. cover categories were not used), and visual estimation was performed by the same two researchers (C. Stagg and M. Osland) for consistency across all plots. Mean canopy height was visually estimated for each species and did not account for the relative cover of bare ground. Bare ground was calculated as the difference between 100 percent and the sum of percent cover of all species within the plot. Soil surface elevation was measured using Real-Time Kinematic (RTK) surveying (Gao et al., 2005) with a Trimble R10 GNSS System (Trimble Navigation Limited, USA; Chen et al., 2011) in combination with a real-time Continuously Operating Reference Station (CORS) network developed by the Texas Department of Transportation, which provides surface elevation data rectified to the North American Vertical Datum of 1988 (NAVD 88). Upon initiation and completion of the survey, the GNSS equipment was calibrated with established elevation monuments, and data was post-processed using Trimble Business Center 2.5 software (Trimble Navigation Limited, USA). GNSS elevation data points were derived from 3-minute observations in each plot for a total of 225 3-minute elevation data points.</procdesc>
+        <procdate>20191004</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Sudden_Vegetation_Dieback_SB_NWR_data.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing elevation data, as well as canopy height and cover data.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>site</attrlabl>
+        <attrdef>Site name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Site name.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>category</attrlabl>
+        <attrdef>Numeric label representing plant cover category.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Open water</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Healthy Spartina alterniflora</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Dieback Spartina alterniflora</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>Distichlis spicata</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Distichlis spicata with succulents</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Succulents</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>replicate</attrlabl>
+        <attrdef>Plot replicate within site.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Plot 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Plot 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Plot 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Plot 4</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Plot 5</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>northing</attrlabl>
+        <attrdef>Northing coordinate in WGS84.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>28.84193387</rdommin>
+            <rdommax>28.86874084</rdommax>
+            <attrunit>Decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>easting</attrlabl>
+        <attrdef>Easting coordinate in WGS84.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>95.50160678</rdommin>
+            <rdommax>95.54622017</rdommax>
+            <attrunit>Decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>elevation</attrlabl>
+        <attrdef>Soil elevation above surface.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.201</rdommin>
+            <rdommax>0.445</rdommax>
+            <attrunit>meters NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>vt_precision</attrlabl>
+        <attrdef>Vertical precision of the soil elevation measurement.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.009</rdommin>
+            <rdommax>0.036</rdommax>
+            <attrunit>meters NAVD88</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>max_canopy_ht</attrlabl>
+        <attrdef>Maximum canopy height; 0 was used for plots without any live vegetation (i.e., open water or dieback Spartina alterniflora categories).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>222</rdommax>
+            <attrunit>centimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>mean_canopy_ht</attrlabl>
+        <attrdef>Mean canopy height; 0 was used for plots without any live vegetation (i.e., open water or dieback Spartina alterniflora categories).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>180</rdommax>
+            <attrunit>centimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>open_water</attrlabl>
+        <attrdef>Percent cover of open water in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>disp</attrlabl>
+        <attrdef>Percent cover of Distichlis spicata in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>bama</attrlabl>
+        <attrdef>Percent cover of Batis maritima in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>55.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>lyca</attrlabl>
+        <attrdef>Percent cover of Lycium carolinianum in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>25.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>moli</attrlabl>
+        <attrdef>Percent cover of Monanthochloe littoralis in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>90</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>bofr</attrlabl>
+        <attrdef>Percent cover of Borrichia frutescens in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>35</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>sade</attrlabl>
+        <attrdef>Percent cover of Salicornia depressa in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>10.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>spal</attrlabl>
+        <attrdef>Percent cover of live Spartina alterniflora in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>90</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>spal_stubble</attrlabl>
+        <attrdef>Percent cover of dead Spartina alterniflora stubble in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>40.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>bare</attrlabl>
+        <attrdef>Percent cover of bare ground in 0.25-m2 plot.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>95.0</rdommax>
+            <attrunit>Percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P92UF8MK</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210922</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Camille L Stagg</cntper>
+          <cntorg>U.S. Geological Survey, Southeast Region</cntorg>
+        </cntperp>
+        <cntpos>Research Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-266-8537</cntvoice>
+        <cntfax>337-266-8586</cntfax>
+        <cntemail>staggc@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

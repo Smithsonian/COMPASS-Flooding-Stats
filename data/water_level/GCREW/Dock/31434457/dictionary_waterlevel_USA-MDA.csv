@@ -1,0 +1,12 @@
+type,value,definition
+parameter,instrument_id,Instrument ID
+parameter,timestamp,Timestamp EST
+parameter,level_m_cbs,water level detected by the bubbler (m)
+parameter,pressure_mbar_cbs,bubble pressure detected by the bubbler (mbar)
+parameter,temperature_cbs,water temperature detected by the bubbler (degrees C)
+parameter,status_cbs,functional status of the bubbler. 0= working normally. 1 = flagged
+parameter,current_stage,water_height- radar face height in meters (m)
+parameter,current_distance,radar face height - water height in meters (m)
+parameter,wdistance,water_height-radar face height in milli meters. (m)
+parameter,voltage_cs475a2,power level to the radar gauge (volts)
+parameter,error_code_cs475a2,error code from the radar gauge

@@ -1,0 +1,5 @@
+instrument_id,timestamp,parameter,code_type,code
+USA-MDA_water-level_SERC-dock,2022-08-24 11:18:00,barometric_pressure_mbar_avg,main,GQR
+USA-MDA_water-level_SERC-dock,2022-08-24 11:18:00,level_m_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2022-08-24 11:18:00,status_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2022-08-24 11:18:00,temperature_cbs_c,main,GQR

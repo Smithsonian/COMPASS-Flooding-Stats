@@ -1,0 +1,22 @@
+Subject: [Send2NCEI] data submission confirmation for Reference ID: W04F0L
+From: ncei.archive@noaa.gov
+To: gmariotti@lsu.edu
+
+Dear Giulio Maritoti,
+
+Thank you for submitting your data collection, titled "Survey of marsh soil and vegetation properties in Barataria Basin (Louisiana, USA) from 20180501 to 20230727", to the NOAA National Centers for Environmental Information (NCEI). Your submission package has been assigned Reference ID: W04F0L. After reviewing your data and metadata, NCEI will update you about the archival status of your submission package.
+
+You will be notified if NCEI creates an archival information package (accession) of your data, including the unique identifier for that archival information package (the NCEI Accession number).  When your data are archived, NCEI keeps an exact copy of the data and metadata you sent and will develop necessary tracking and discovery metadata. In addition, NCEI may create additional versions to ensure your data are preserved for long-term access. 
+
+Upon completion of these archival ingest actions, NCEI will publish your data online (including a copy of your original files). You will receive another email once your submission package (Reference ID: W04F0L) is published for global access. In addition, NCEI may include all or part of your data into one or more product databases, such as the World Ocean Database.
+
+No additional action is required from you at this time: This is a system-generated email notification to complete the Send2NCEI submission tracking process. If you have any questions about NCEI archival processes, please contact ncei.archive@noaa.gov. Also, if at any time you wish to update your submission package, please send an e-mail to ncei.archive@noaa.gov with your request. Please remember to include your submission package Reference ID.  
+
+Thank you again for choosing to archive your data with the National Centers for Environmental Information (NCEI).
+
+NCEI Data Officer Team
+NOAA National Centers for Environmental Information
+NOAA/NESDIS
+1315 East-West Highway
+Silver Spring, MD 20910
+USA

@@ -1,0 +1,43 @@
+*****************************************************************
+Journal for accession number:  0292959
+Created on:                    2024-05-21 19:15:30 UTC
+By:                            National Centers for Environmental Information
+
+Source: Giulio Maritoti, Louisiana State University (LSU), submitted data
+and metadata to NCEI in submission package W04F0L via Send2NCEI (S2N).
+
+Actions: An automated procedure copied the files from the submission package
+into this accession. A metadata record in ISO 19115-2 XML format was also
+generated from the information provided by the submitter and was copied into
+this accession.
+
+Files:
+
+about/ 
+This directory contains files created by NCEI staff and processing, including
+'negotiable' information between NCEI staff and the data provider.
+
+0292959_lonlat.txt - 
+  Contains sample locations for these data.  Each row contains the geographical
+  position where these data were collected (longitude in the left column and
+  latitude in the right column, both in degrees).
+
+0292959_map.jpg - 
+  Sample location map for these data.
+
+0-email.txt - 
+  Email correspondance between submitter and NCEI to check if data is appropriate
+  to archive and to confirm changes to metadata.
+
+0292959_preview.jpg -
+  Copy of the data producer's JPEG file submitted via email to NCEI from the 
+  submitter to use as a browse graphic. 
+
+W04F0L-confirmation_email.txt -
+  Email from the Send2NCEI web application to Giulio Maritoti, Louisiana
+  State University (LSU), confirming that NCEI has received the submission
+  information package.
+
+data/0-data/
+This directory contains files in their original format as downloaded to NCEI.
+

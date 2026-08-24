@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Laura C. Feher</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Gordon H. Anderson</origin>
+        <pubdate>2019</pubdate>
+        <title>Everglades NP SET-MH Operators (ver 2.0, July 2019)</title>
+        <geoform>Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Lafayette, LA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7348HNP</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/58f65df4e4b0bd52222f7818</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set represents the operator identification codes for the various individuals that took the SET pin height measurements for each SET reading date. It is preferable for the same operator to take measurements for a number of years in row since there tends to be operator-specific bias in the determination of the sediment surface, the placement of the pins on the surface, and reading the ruler. As such, the use of different operators over time may unintentionally introduce measurement error in the SET pin height measurements. However, given the extended time period over which this data collection effort took place, it was not always possible to utilize the same operators for subsequent measurements over the entire length of the study.</abstract>
+      <purpose>Sediment Elevation Tables or SETs are used to measure rates of surface sediment elevation change due to soil accretion or erosion in the coastal mangrove, and marshes of the Everglades. Soil surface elevation is an important response variable in wetland environments.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2019</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.18429</westbc>
+        <eastbc>-80.84822</eastbc>
+        <northbc>25.61225</northbc>
+        <southbc>25.26616</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>field inventory and monitoring</themekey>
+        <themekey>ecosystem monitoring</themekey>
+        <themekey>long-term ecological monitoring</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Everglades National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Each SET consists of a mechanical arm with a measurement plate at the end, which is pivoted out from the fixed reference point and leveled. The cantilevered mechanical arm radiates out from the fixed reference point in a circle to a determined bearing (typically the reference SET point is measured at four bearings) where a sediment measurement can be sampled. The measurement plate (or bar) has a series of machined holes (typically nine) through the plate, allowing fiberglass rods (also referred to as pins) to be inserted and lower through the plate to the ground surface. Each fiberglass rod is gently lowered through the plate hole until the rod tip touches the ground surface. The height of each rod above the measurement plate is measured to the nearest millimeter.</procdesc>
+        <procdate>19980728</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Version History for Everglades National Park sediment elevation and marker horizon data release.&#xD;
+&#xD;
+Feher, L.C., Osland, M.J., and Anderson, G.H., 2019, Everglades National Park sediment elevation and marker horizon data release (ver 2.0, July 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7348HNP.&#xD;
+&#xD;
+________________________________________________________&#xD;
+&#xD;
+Original posted online August 10, 2017&#xD;
+________________________________________________________&#xD;
+&#xD;
+Version 2.0 revised and reposted online July 2019&#xD;
+&#xD;
+Changes in version 2.0&#xD;
+&#xD;
+1. Added several additional columns of sediment elevation and marker horizon data from sampling events from the period between September 2014 and April 2019.&#xD;
+2. Revised the SET pin height values collected prior to April 2019 to reflect the length of new fiberglass pins. Note that in some instances this conversion resulted in negative pin height values.&#xD;
+3. Added data from new marker horizon plots that were installed during the May 2017 or December 2018 sampling events.&#xD;
+________________________________________________________</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Attribute table for Everglades NP SET-MH Operators (ver 2.0, July 2019).csv</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Site name</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BSC Forest</edomv>
+            <edomvd>Big Sable Creek forest</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>BSC Mud</edomv>
+            <edomvd>Big Sable Creek mud</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO1</edomv>
+            <edomvd>Lostmans Island 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO2</edomv>
+            <edomvd>Lostmans Island 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>LO3</edomv>
+            <edomvd>Lostmans Island 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH1</edomv>
+            <edomvd>Shark River 1</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH2</edomv>
+            <edomvd>Shark River 2</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH3</edomv>
+            <edomvd>Shark River 3</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH4</edomv>
+            <edomvd>Shark River 4</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH5</edomv>
+            <edomvd>Shark River 5</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Type</attrlabl>
+        <attrdef>SET type</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Original</edomv>
+            <edomvd>Original type SET</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Deep</edomv>
+            <edomvd>Deep type RSET</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Shallow</edomv>
+            <edomvd>Shallow type SET</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>SET measurement date.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>07/28/1998</rdommin>
+            <rdommax>12/12/2018</rdommax>
+            <attrunit>date</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Operator_ID</attrlabl>
+        <attrdef>Operator ID code used to identify individual SET operators (i.e., the individual taking the measurements).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>17</rdommax>
+            <attrunit>na</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Nr</edomv>
+            <edomvd>No reading - designated when the SET was not measured on a specific date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+          <edom>
+            <edomv>Nl</edomv>
+            <edomvd>Not listed - designed when the SET reader was not recorded.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>sciencebase@usgs.gov</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20190619</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Laura C Feher</cntper>
+          <cntorg>Wetland and Aquatic Research Center, Wetland and Forested Ecosystems Branch</cntorg>
+        </cntperp>
+        <cntpos>Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>337-266-8582</cntvoice>
+        <cntemail>lfeher@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
+

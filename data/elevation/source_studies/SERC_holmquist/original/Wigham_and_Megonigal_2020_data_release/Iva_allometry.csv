@@ -1,0 +1,225 @@
+year,month,day,transect,plot,species_code,area,bush,hgt,live_count,dead_count,diam_1,diam_1_flag,diam_2,diam_2_flag,diam_3,diam_3_flag,diam_4,diam_4_flag,diam_5,diam_5_flag,crown_1,crown_2,bush_health,total_biomass
+2015,10,22,G1,1,IVFR,1,1,67,0,17,9.2,dead,7.2,dead,6.3,dead,8.1,dead,4.7,dead,75,36,dead,0
+2015,10,22,G1,1,IVFR,1,2,100,0,5,5.4,dead,7.8,dead,4.2,dead,3.7,dead,3.1,dead,40,13,dead,0
+2015,10,22,G1,1,IVFR,1,3,97,0,1,6,dead,NA,NA,NA,NA,NA,NA,NA,NA,59,15,dead,0
+2015,10,22,G1,2,IVFR,1,1,100,0,4,5.4,dead,7,dead,3.4,dead,6.5,dead,NA,NA,32,19,dead,159.95511854513646
+2015,10,22,G1,2,IVFR,1,2,103,1,3,6.1,dead,4,dead,4.3,dead,3.9,alive,NA,NA,17,14,"half alive, half dead",159.95511854513646
+2015,10,22,G1,2,IVFR,1,3,93,1,1,7.5,dead,8,alive,NA,NA,NA,NA,NA,NA,30,12,"half alive, half dead",159.95511854513646
+2015,10,22,G1,2,IVFR,1,4,80,3,3,4.3,dead,7,dead,3.3,alive,5.7,alive,4.3,alive,21,14,"half alive, half dead",159.95511854513646
+2015,10,22,G1,2,IVFR,1,5,96,3,3,6.3,dead,6.2,dead,4.3,alive,2.6,alive,3.2,alive,30,22,"half alive, half dead",159.95511854513646
+2015,10,22,G1,2,IVFR,1,6,76,3,23,6,dead,5.4,dead,3.3,dead,3.6,alive,2.6,alive,35,17,"half alive, half dead",159.95511854513646
+2015,10,22,G1,5,IVFR,1,1,72,0,6,9.8,dead,6.8,dead,5.8,dead,4.3,dead,4.2,dead,20,38,dead,0
+2015,10,22,G1,7,IVFR,1,1,149,6,13,8.9,dead,8,dead,6.1,dead,5.1,alive,1.8,alive,85,68,"half alive, half dead",339.7452024935337
+2015,10,22,G1,8,IVFR,1,1,81,3,1,7.9,dead,3.5,alive,8.5,alive,5.8,alive,NA,NA,33,35,"half alive, half dead",57.76025881431085
+2015,10,22,G1,8,IVFR,1,2,80,1,0,5.3,alive,NA,NA,NA,NA,NA,NA,NA,NA,9,11,alive,57.76025881431085
+2015,10,22,G1,11,IVFR,1,1,120,1,0,11.1,alive,NA,NA,NA,NA,NA,NA,NA,NA,40,38,alive,502.30929281354804
+2015,10,22,G1,11,IVFR,1,2,83,7,0,6.8,alive,3.8,alive,2.7,alive,3.4,alive,3.4,alive,48,35,alive,502.30929281354804
+2015,10,22,G1,11,IVFR,1,3,151,4,1,6.4,dead,11.6,dead,9.8,dead,6.5,dead,12.2,alive,58,46,"half alive, half dead",502.30929281354804
+2015,10,22,G1,12,IVFR,1,1,111,0,2,12.2,dead,11.3,dead,NA,NA,NA,NA,NA,NA,35,29,dead,43.53442298036883
+2015,10,22,G1,12,IVFR,1,2,137,1,5,6,dead,4,dead,9.2,dead,4.6,dead,4.1,alive,36,37,"half alive, half dead",43.53442298036883
+2015,10,22,G1,13,IVFR,1,1,165,12,14,13.8,dead,10.1,dead,14.2,dead,10.4,alive,7.2,alive,111,113,"half alive, half dead",1647.4546619319237
+2015,10,22,G1,14,IVFR,1,1,154,5,9,6.5,dead,6.5,dead,8.8,dead,6.7,alive,1,alive,89,70,"half alive, half dead",490.06952746400276
+2015,10,22,G1,14,IVFR,1,2,143,4,1,6,dead,5.5,alive,2.8,alive,5.5,alive,7.7,alive,50,26,"half alive, half dead",490.06952746400276
+2015,10,22,G1,15,IVFR,1,1,155,2,7,9.4,dead,6.3,dead,5.8,dead,6.6,alive,2.7,alive,65,40,"half alive, half dead",125.8252992667426
+2015,10,22,G1,16,IVFR,1,1,133,0,6,13.4,dead,6.9,dead,8.7,dead,10.4,dead,8,dead,58,39,dead,0
+2015,10,23,G2,5,IVFR,1,1,170,0,14,11.5,dead,7.3,dead,8.5,dead,15.1,dead,12.8,dead,60,40,dead,0
+2015,10,23,G2,6,IVFR,1,1,165,0,21,8.1,dead,6.5,dead,12.7,dead,6.9,dead,7,dead,71,55,dead,191.73304731179877
+2015,10,23,G2,6,IVFR,1,2,177,2,9,5.6,dead,8.5,dead,10.4,dead,7,alive,3.1,alive,67,68,dead,191.73304731179877
+2015,10,23,G2,7,IVFR,1,1,141,5,7,7.4,dead,7.5,dead,11.9,dead,8.4,alive,7.6,alive,94,40,"half alive, half dead",672.9402503021593
+2015,10,23,G2,7,IVFR,1,2,120,9,4,7.3,dead,7.3,dead,4.1,alive,3.2,alive,9.1,alive,59,41,"half alive, half dead",672.9402503021593
+2015,10,23,G2,8,IVFR,1,1,118,5,5,5.4,dead,8.9,dead,3.8,alive,6,alive,4.6,alive,80,53,"half alive, half dead",221.8803702982983
+2015,10,23,G2,8,IVFR,1,2,78,5,3,7,dead,7.2,dead,4,alive,4.9,alive,2.3,alive,59,36,"half alive, half dead",221.8803702982983
+2015,10,21,G3,1,IVFR,1,1,133,8,16,5.3,dead,7.7,dead,4.1,dead,8,alive,5.5,alive,65,43,"half alive, half dead",457.18412243859467
+2015,10,21,G3,1,IVFR,1,2,151,2,5,5.6,dead,8.9,dead,1,dead,4.2,alive,7.3,alive,44,44,"half alive, half dead",457.18412243859467
+2015,10,21,G3,3,IVFR,1,1,170,8,20,14.2,dead,10.5,dead,4.3,dead,5.6,alive,3.9,alive,70,67,"half alive, half dead",1592.4909681850986
+2015,10,21,G3,3,IVFR,1,2,168,5,5,11.1,dead,9,dead,4.1,alive,5.7,alive,7.7,alive,73,65,"half alive, half dead",1592.4909681850986
+2015,10,21,G3,3,IVFR,1,3,172,3,8,8.8,dead,10.8,dead,9.1,dead,5.9,alive,6.6,alive,78,49,"half alive, half dead",1592.4909681850986
+2015,10,15,R1,2,IVFR,1,1,130,2,11,11.6,dead,8.9,dead,9.7,dead,9,alive,5.2,alive,84,85,"half alive, half dead",123.1713296541559
+2015,10,15,R1,3,IVFR,1,1,182,2,13,12.2,dead,8.2,dead,5.2,dead,7,alive,6,alive,70,100,"half alive, half dead",227.12969709877416
+2015,10,15,R1,4,IVFR,1,1,130,8,10,12.5,dead,15,dead,6.2,dead,9.4,alive,4.8,alive,113,130,alive,568.352938593601
+2015,10,15,R2,2,IVFR,1,1,162,0,7,8.7,dead,10.1,dead,10.1,dead,7.6,alive,7.5,alive,59,32,"half alive, half dead",0
+2015,10,15,R3,1,IVFR,1,1,111,8,0,7.5,alive,4.9,alive,5.6,alive,7.7,alive,4,alive,44,54,alive,229.5418642569059
+2015,10,26,S1,1,IVFR,1,1,89,1,0,NA,NA,10,dead,NA,NA,NA,NA,NA,NA,42,37,alive,74.97531999723961
+2015,10,26,S1,1,IVFR,1,2,74,1,0,NA,NA,7.1,dead,NA,NA,NA,NA,NA,NA,50,25,alive,74.97531999723961
+2015,10,26,S1,1,IVFR,1,3,110,1,0,NA,NA,11,dead,NA,NA,NA,NA,NA,NA,62,64,alive,74.97531999723961
+2015,10,26,S1,1,IVFR,1,4,62,1,0,NA,NA,4.1,dead,NA,NA,NA,NA,NA,NA,54,19,alive,74.97531999723961
+2015,10,26,S1,3,IVFR,1,1,120,22,19,5.6,dead,11,dead,4.3,alive,2.4,alive,6.6,alive,73,80,"half alive, half dead",892.0101266952847
+2015,10,26,S1,3,IVFR,1,2,94,2,3,2.4,dead,4.7,dead,3,dead,3.7,alive,7.4,alive,30,22,"half alive, half dead",892.0101266952847
+2015,10,26,S1,3,IVFR,1,3,96,4,2,4.4,dead,3.3,dead,6.4,alive,4.8,alive,6.6,alive,40,29,alive,892.0101266952847
+2015,10,26,S1,4,IVFR,1,1,109,4,8,3,dead,2.8,dead,4,dead,4,alive,3.5,alive,41,31,"half alive, half dead",265.5091907462463
+2015,10,26,S1,4,IVFR,1,2,132,6,9,6.1,dead,6.4,dead,3.5,dead,3.5,alive,1.7,alive,51,48,"half alive, half dead",265.5091907462463
+2015,10,26,S1,5,BAHA,1,2,175,3,0,33,alive,14.2,alive,16.1,alive,NA,NA,NA,NA,82,89,"other species, health unspecified",NA
+2015,10,26,S1,5,IVFR,1,1,174,3,9,12.9,dead,12,dead,10,dead,6.3,alive,8.2,alive,80,50,alive,399.5350266664547
+2015,10,26,S1,5,JUVI,1,3,185,1,0,10.8,alive,NA,NA,NA,NA,NA,NA,NA,NA,78,30,"other species, health unspecified",NA
+2015,10,16,S2,1,IVFR,1,1,185,1,6,10,dead,11.9,dead,7.5,dead,9.8,alive,12.7,alive,69,69,"half alive, half dead",1051.8082032587936
+2015,10,16,S2,1,IVFR,1,2,145,2,4,10.7,dead,6,dead,4.9,dead,8.5,alive,5.9,alive,51,49,"half alive, half dead",1051.8082032587936
+2015,10,16,S2,1,IVFR,1,3,173,4,6,11.5,dead,9.5,dead,13,dead,7.3,alive,9.3,alive,70,65,"half alive, half dead",1051.8082032587936
+2015,10,16,S2,1,IVFR,1,4,171,2,6,8.8,dead,8.1,dead,7.4,dead,6.9,alive,13.7,alive,72,58,"half alive, half dead",1051.8082032587936
+2015,10,16,S2,2,IVFR,1,1,189,7,11,8.5,dead,9.5,dead,9.4,dead,6.9,alive,5.9,alive,93,71,"half alive, half dead",1832.3882969788149
+2015,10,16,S2,2,IVFR,1,2,145,5,7,5.1,dead,7.5,dead,6.2,dead,5,alive,6.8,alive,53,34,"half alive, half dead",1832.3882969788149
+2015,10,16,S2,2,IVFR,1,3,118,3,4,4,dead,3.5,dead,7,dead,2.4,alive,2.3,alive,21,18,"half alive, half dead",1832.3882969788149
+2015,10,16,S2,2,IVFR,1,4,175,6,16,8,dead,8.2,dead,9.3,dead,5.9,alive,7.9,alive,73,88,"half alive, half dead",1832.3882969788149
+2015,10,16,S2,3,IVFR,1,1,142,7,8,5.8,dead,5.8,dead,8.6,dead,5.6,alive,5.2,alive,73,71,"half alive, half dead",1626.9149032069786
+2015,10,16,S2,3,IVFR,1,2,163,5,6,11.5,dead,7.7,dead,14.2,dead,7.5,alive,5,alive,80,79,"half alive, half dead",1626.9149032069786
+2015,10,16,S2,3,IVFR,1,3,147,12,8,12.5,dead,5.8,dead,3.4,alive,4.2,alive,6.5,alive,80,86,"half alive, half dead",1626.9149032069786
+2015,10,16,S2,4,IVFR,1,1,110,3,0,5.3,dead,4.3,dead,4.6,alive,NA,NA,NA,NA,40,16,alive,86.3767127901703
+2015,10,16,S2,5,IVFR,1,1,155,11,13,10,dead,8.9,dead,12.5,dead,5.9,alive,6.8,alive,81,67,"half alive, half dead",1442.1347967440079
+2015,10,16,S2,5,IVFR,1,2,131,0,5,10.2,dead,4.2,dead,10,dead,2.4,dead,4.8,dead,35,64,dead,1442.1347967440079
+2015,10,16,S2,5,IVFR,1,3,134,7,13,11.5,dead,7,dead,13.3,dead,5.5,alive,4.6,alive,83,57,"half alive, half dead",1442.1347967440079
+2015,10,16,S3,1,IVFR,1,1,153,2,7,16.5,dead,11,dead,9.2,dead,10.1,alive,10.9,alive,89,76,"half alive, half dead",972.9817834268015
+2015,10,16,S3,1,IVFR,1,2,148,8,6,11.4,dead,9.3,dead,10,alive,8.6,alive,10.3,alive,76,57,"half alive, half dead",972.9817834268015
+2015,10,16,S3,2,IVFR,1,1,173,0,23,13.6,dead,6,dead,9.2,dead,11.5,dead,6.7,dead,72,75,"half alive, half dead",591.9129093698182
+2015,10,16,S3,2,IVFR,1,2,166,3,4,12.7,dead,7.2,dead,9.7,dead,4.3,alive,4,alive,52,59,"half alive, half dead",591.9129093698182
+2015,10,16,S3,2,IVFR,1,3,151,2,15,10.8,dead,9.4,dead,10.7,dead,8.3,alive,7.2,alive,85,45,"half alive, half dead",591.9129093698182
+2015,10,16,S3,2,IVFR,1,4,171,2,5,8.5,dead,3.6,dead,2.7,dead,5.3,alive,5.8,alive,36,51,"half alive, half dead",591.9129093698182
+2015,10,16,S3,3,IVFR,1,1,110,0,7,8.1,dead,6.6,dead,4.5,dead,7.6,alive,8.4,alive,34,20,dead,344.7947319519001
+2015,10,16,S3,3,IVFR,1,1,110,0,7,8.1,dead,6.6,dead,4.5,dead,7.6,alive,8.4,alive,34,20,dead,31
+2015,10,16,S3,3,IVFR,1,2,170,3,5,8.1,dead,12.2,dead,9.7,dead,7.9,alive,8.2,alive,70,52,"half alive, half dead",344.7947319519001
+2015,10,16,S3,3,IVFR,1,2,170,3,5,8.1,dead,12.2,dead,9.7,dead,7.9,alive,8.2,alive,70,52,"half alive, half dead",31
+2015,10,16,S3,4,IVFR,1,1,178,12,27,9.1,dead,7.3,dead,4.1,dead,7.2,alive,6.6,alive,95,70,"half alive, half dead",1737.6445894816702
+2015,10,16,S3,4,IVFR,1,2,174,6,16,9,dead,9.7,dead,8.3,dead,5.5,alive,6.4,alive,49,55,"half alive, half dead",1737.6445894816702
+2016,8,9,G1,2,IVFR,1,1,89,4,1,8.1,alive,4.3,alive,4.6,alive,5.2,alive,7,alive,49,39,alive,433.4151680043439
+2016,8,9,G1,2,IVFR,1,2,92,5,4,5.2,alive,3.6,alive,4.3,dead,6,dead,3.1,dead,30,18,alive,433.4151680043439
+2016,8,9,G1,2,IVFR,1,3,70,6,1,3,alive,4.1,alive,3.1,alive,3.2,alive,5.4,dead,26,33,alive,433.4151680043439
+2016,8,9,G1,2,IVFR,1,4,99,7,3,4.7,alive,7.3,alive,6.1,alive,6,dead,4.7,dead,43,39,alive,433.4151680043439
+2016,8,9,G1,2,IVFR,1,5,108,4,5,3.7,alive,5.1,alive,7,dead,4.5,dead,2.8,dead,38,27,dead,433.4151680043439
+2016,8,9,G1,7,IVFR,1,1,108,10,10,4.5,alive,7.4,alive,7.5,alive,7,dead,8.7,dead,80,90,"half alive, half dead",318.553273812572
+2016,8,9,G1,8,IVFR,1,1,93,3,1,6.9,alive,7,alive,7.3,alive,5.2,dead,NA,NA,51,47,alive,137.55717925783122
+2016,8,9,G1,8,IVFR,1,2,90,4,1,2.7,alive,5,alive,3,alive,4,alive,3.9,dead,34,32,alive,137.55717925783122
+2016,8,9,G1,8,IVFR,1,3,75,3,3,2.6,alive,3,alive,4.2,alive,2.6,dead,4,dead,21,23,"half alive, half dead",137.55717925783122
+2016,8,9,G1,11,IVFR,1,1,140,1,0,7.8,alive,NA,NA,NA,NA,NA,NA,NA,NA,40,30,alive,1130.287589226421
+2016,8,9,G1,11,IVFR,1,2,190,5,3,13,alive,12.6,alive,14.8,alive,11,dead,7.5,dead,92,91,alive,1130.287589226421
+2016,8,9,G1,13,IVFR,1,1,151,9,14,16.6,alive,5.7,alive,9.4,dead,12.7,dead,10.7,dead,118,138,dead,1032.463526549289
+2016,8,9,G1,14,IVFR,1,1,115,8,17,5.2,alive,3.7,alive,5.9,dead,7.3,dead,5,dead,105,50,dead,226.82578489045198
+2016,8,9,G1,15,IVFR,1,1,93,2,12,4,alive,6,alive,11.8,dead,8.3,dead,7.7,dead,58,37,dead,53.05635118107591
+2016,8,12,G2,6,IVFR,1,1,115,2,0,8.2,alive,6.2,alive,NA,NA,NA,NA,NA,NA,30,30,alive,85.80043548121738
+2016,8,12,G2,7,IVFR,1,1,90,2,4,4.5,alive,4.8,alive,4,dead,6.2,dead,7,dead,151,40,dead,618.1657733923165
+2016,8,12,G2,7,IVFR,1,2,143,11,8,5.3,alive,6.7,alive,5.5,alive,7.2,dead,7.5,dead,90,40,alive,618.1657733923165
+2016,8,12,G2,8,IVFR,1,1,109,5,7,8.7,alive,6.6,alive,9.8,dead,8.2,dead,6,dead,60,45,dead,438.7701064252693
+2016,8,12,G2,8,IVFR,1,2,97,10,5,7.1,alive,4.8,alive,6.9,alive,9,dead,7.2,dead,70,53,alive,438.7701064252693
+2016,8,12,G3,1,IVFR,1,1,173,1,6,10.1,alive,8.2,alive,8.9,dead,6.5,dead,6.7,dead,40,15,dead,103.1982612609625
+2016,8,12,G3,3,IVFR,1,1,152,9,4,10.5,alive,3.4,alive,6.8,alive,7.2,dead,9.7,dead,100,70,alive,1355.7561546524394
+2016,8,12,G3,3,IVFR,1,2,166,7,10,7.5,alive,11.9,alive,7.7,dead,9.4,dead,5.6,dead,100,45,dead,1355.7561546524394
+2016,8,10,R1,4,IVFR,1,1,162,4,12,3.5,alive,4.4,alive,17,dead,9.6,dead,17.3,dead,65,40,dead,545.4928506364575
+2016,8,10,R2,3,IVFR,1,1,155,7,4,7,alive,6,alive,5.1,alive,8.5,dead,9.8,dead,70,30,alive,508.73255772950745
+2016,8,10,S1,3,IVFR,1,1,100,6,4,1.9,alive,7.3,alive,3.5,alive,5.1,dead,7.2,dead,45,30,alive,6762.992707793294
+2016,8,10,S1,3,IVFR,1,2,99,3,3,3.7,alive,3,alive,5,alive,4.8,dead,3,dead,40,23,"half alive, half dead",6762.992707793294
+2016,8,10,S1,3,IVFR,1,3,148,25,16,5.5,alive,11.2,alive,8.6,alive,8.2,dead,40,dead,66,68,alive,6762.992707793294
+2016,8,10,S1,4,IVFR,1,1,109,8,5,5.3,alive,2.3,alive,4.2,alive,4,dead,3.6,dead,38,34,alive,464.56128048612857
+2016,8,10,S1,4,IVFR,1,2,119,9,8,5.3,alive,5.8,alive,5,alive,9,dead,5.6,dead,30,52,alive,464.56128048612857
+2016,8,10,S1,5,BAHA,1,2,220,3,8,17.6,alive,9.8,alive,12.5,dead,12.5,dead,7.9,dead,100,100,"other species, health unspecified",NA
+2016,8,10,S1,5,IVFR,1,1,192,1,4,12.6,alive,12.6,dead,10.6,dead,10.2,dead,10.3,dead,60,55,dead,191.46668651795716
+2016,8,10,S1,5,JUVI,1,3,129,1,NA,17.4,alive,NA,NA,13.5,alive,NA,NA,NA,NA,70,53,"other species, health unspecified",NA
+2016,8,10,S2,1,IVFR,1,1,160,6,3,11.5,alive,8,alive,9.2,alive,7.7,dead,6,dead,50,50,alive,1081.8220928841965
+2016,8,10,S2,1,IVFR,1,2,180,3,7,15.8,alive,7,alive,8.2,dead,14,dead,12.6,dead,65,100,dead,1081.8220928841965
+2016,8,10,S2,2,IVFR,1,1,175,7,7,8.9,alive,5.2,alive,8.5,alive,6.9,dead,8.9,dead,115,105,"half alive, half dead",2226.4981646165297
+2016,8,10,S2,2,IVFR,1,2,147,8,5,6.8,alive,6,alive,6.4,alive,6,dead,9,dead,25,47,alive,2226.4981646165297
+2016,8,10,S2,2,IVFR,1,3,185,8,9,11,alive,10.6,alive,8,dead,8.6,dead,4.5,dead,58,85,dead,2226.4981646165297
+2016,8,10,S2,3,IVFR,1,1,171,19,14,8.2,alive,7.7,alive,6,alive,10.4,dead,13.8,dead,77,100,alive,2265.278111568331
+2016,8,10,S2,4,IVFR,1,1,139,8,1,7,alive,8.4,alive,10.6,alive,7.1,alive,12.2,dead,57,71,alive,581.6306046153411
+2016,8,10,S2,5,IVFR,1,1,152,12,11,11.3,alive,6.6,alive,7.8,alive,7.3,dead,8.2,dead,87,61,alive,1713.1762461855578
+2016,8,10,S2,5,IVFR,1,2,129,15,9,4.9,alive,5.9,alive,10.2,alive,9,dead,8.1,dead,68,68,alive,1713.1762461855578
+2016,8,10,S3,1,IVFR,1,1,154,7,11,5.8,alive,10.9,alive,9.5,dead,16.2,dead,12.5,dead,64,60,dead,829.2991287311827
+2016,8,10,S3,2,IVFR,1,1,157,8,3,8.4,alive,1.6,alive,5,alive,9.8,dead,4.8,dead,57,50,alive,719.8892195062152
+2016,8,10,S3,2,IVFR,1,1,159,8,4,10.4,alive,10.8,alive,4.6,alive,11,dead,6.8,dead,90,57,alive,719.8892195062152
+2016,8,10,S3,2,IVFR,1,2,110,2,17,4.8,alive,8.1,alive,6.9,dead,12.2,dead,10.4,dead,38,25,dead,719.8892195062152
+2016,8,10,S3,3,IVFR,1,1,174,9,12,9.4,alive,9.7,alive,7.8,dead,12.2,dead,5.9,dead,90,82,dead,1162.517272308419
+2016,8,10,S3,3,IVFR,1,2,109,3,4,6.2,alive,5.7,alive,8,dead,6.9,dead,6.6,dead,36,25,dead,1162.517272308419
+2016,8,10,S3,4,IVFR,1,1,191,15,11,9.8,alive,12.5,alive,7.6,alive,8.5,dead,6.8,dead,75,61,alive,4006.245500627395
+2016,8,10,S3,4,IVFR,1,2,185,15,14,10,alive,6.9,alive,7,alive,7.8,dead,8.3,dead,75,67,alive,4006.245500627395
+2017,9,19,G1,2,IVFR,1,1,111,1,4,4.5,alive,6.7,dead,5.7,dead,6.9,dead,8.5,dead,53,37,dead,450.48694357872523
+2017,9,19,G1,2,IVFR,1,2,91,4,1,6.5,alive,4.3,alive,6.8,alive,2.6,alive,4,dead,35,23,alive,450.48694357872523
+2017,9,19,G1,2,IVFR,1,3,108,2,2,4,alive,5.5,alive,5.8,dead,6.9,dead,NA,NA,58,25,"half alive, half dead",450.48694357872523
+2017,9,19,G1,2,IVFR,1,4,128,3,2,6.5,alive,6,alive,7.2,alive,7.7,dead,4,dead,43,25,"half alive, half dead",450.48694357872523
+2017,9,19,G1,2,IVFR,1,5,110,6,4,7.6,alive,7.9,alive,5.5,alive,6.7,dead,3.8,dead,75,57,"half alive, half dead",450.48694357872523
+2017,9,19,G1,7,IVFR,1,1,124,6,5,7.5,alive,8.8,alive,10.3,dead,6.4,dead,7.2,dead,63,115,"half alive, half dead",294.7946423023049
+2017,9,19,G1,8,IVFR,1,1,92,1,0,4.8,alive,NA,NA,NA,NA,NA,NA,NA,NA,32,25,alive,45.04532610811895
+2017,9,19,G1,8,IVFR,1,2,102,1,0,6.5,alive,NA,NA,NA,NA,NA,NA,NA,NA,48,33,"half alive, half dead",45.04532610811895
+2017,9,19,G1,8,IVFR,1,3,80,0,2,4.5,dead,5.2,dead,NA,NA,NA,NA,NA,NA,NA,NA,dead,45.04532610811895
+2017,9,19,G1,8,IVFR,1,4,32,1,0,1.2,alive,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,alive,45.04532610811895
+2017,9,19,G1,11,IVFR,1,1,163,2,3,13.1,alive,15.8,alive,7.1,dead,15.1,dead,10.3,dead,103,84,"half alive, half dead",307.50806877726427
+2017,9,19,G1,13,IVFR,1,1,183,7,5,11.8,alive,9.6,alive,11.8,alive,14.2,dead,12.2,dead,134,106,"half alive, half dead",1296.9346356405852
+2017,9,19,G1,14,IVFR,1,1,81,13,3,5.2,alive,5.4,alive,4.6,dead,2.6,dead,6.6,dead,77,37,alive,164.7951429305717
+2017,9,19,G2,7,IVFR,1,1,139,2,1,8.9,alive,5.8,alive,8.5,dead,NA,NA,NA,NA,80,28,"half alive, half dead",443.42211946158625
+2017,9,19,G2,7,IVFR,1,2,156,4,4,6,alive,4.5,alive,10.3,alive,5.5,dead,6.1,dead,90,60,"half alive, half dead",443.42211946158625
+2017,9,19,G2,8,IVFR,1,1,148,4,3,6.2,alive,9.6,alive,7.7,alive,4.7,dead,7.7,dead,88,65,"half alive, half dead",558.5648764383916
+2017,9,19,G2,8,IVFR,1,2,109,8,3,6.6,alive,9.6,alive,7,alive,9.6,dead,7.4,dead,73,70,dead,558.5648764383916
+2017,9,17,G3,1,IVFR,1,1,148,3,8,5.7,alive,6.6,alive,7.1,dead,5.7,dead,4.4,dead,40,65,dead,159.42132589827145
+2017,9,17,G3,3,IVFR,1,1,180,13,5,6.3,alive,6.8,alive,6,alive,9.8,dead,10.2,dead,82,108,alive,5223.31316814974
+2017,9,17,G3,3,IVFR,1,2,180,9,5,11,alive,7.4,alive,15,alive,6.2,dead,10.2,dead,120,95,alive,5223.31316814974
+2017,9,17,G3,3,IVFR,1,3,201,2,0,17.8,alive,8,alive,NA,NA,NA,NA,NA,NA,60,60,alive,5223.31316814974
+2017,9,21,R1,4,IVFR,1,1,162,6,7,14.5,dead,9.2,dead,8.3,dead,6.9,alive,11.4,alive,130,113,"half alive, half dead",699.8169182563502
+2017,9,20,S1,3,IVFR,1,1,104,9,6,5.4,alive,5.3,alive,6.7,alive,5.8,dead,6.4,dead,60,63,"half alive, half dead",1099.3684044552901
+2017,9,20,S1,3,IVFR,1,2,120,3,3,7.2,alive,5.9,alive,2.1,alive,4.5,dead,2.8,dead,35,35,"half alive, half dead",1099.3684044552901
+2017,9,20,S1,3,IVFR,1,3,114,9,7,7.4,alive,2.7,alive,8.2,alive,3.8,dead,6.8,dead,57,40,"half alive, half dead",1099.3684044552901
+2017,9,20,S1,3,IVFR,1,4,137,9,9,7.7,alive,9.7,alive,4.8,alive,8.8,dead,7.4,dead,75,48,"half alive, half dead",1099.3684044552901
+2017,9,20,S1,4,IVFR,1,1,107,9,7,4.8,alive,9.2,alive,9.5,alive,4.5,dead,3.3,dead,73,65,"half alive, half dead",1.3940227051852716
+2017,9,20,S1,4,IVFR,1,1,107,9,7,4.8,alive,9.2,alive,9.5,alive,4.5,dead,3.3,dead,73,65,"half alive, half dead",565.3098211970055
+2017,9,20,S1,4,IVFR,1,2,129,7,5,7.6,alive,4.4,alive,7.7,alive,8.6,dead,4.3,dead,67,78,"half alive, half dead",1.3940227051852716
+2017,9,20,S1,4,IVFR,1,2,129,7,5,7.6,alive,4.4,alive,7.7,alive,8.6,dead,4.3,dead,67,78,"half alive, half dead",565.3098211970055
+2017,9,20,S1,5,IVFR,1,1,255,7,7,10.4,alive,34.5,alive,26.5,alive,8.3,dead,2.1,dead,110,133,"half alive, half dead",6179.013397938161
+2017,9,20,S2,1,IVFR,1,1,159,7,5,9.2,alive,9.5,alive,11.5,alive,6.3,dead,6.2,dead,110,115,"half alive, half dead",640.1934845870237
+2017,9,20,S2,2,IVFR,1,1,195,5,8,11.8,alive,13.9,alive,10.9,dead,12.8,dead,7.7,dead,100,75,dead,3026.171855739305
+2017,9,20,S2,2,IVFR,1,2,146,2,2,5.8,alive,8,alive,3.6,dead,4.7,dead,NA,NA,64,45,"half alive, half dead",3026.171855739305
+2017,9,20,S2,2,IVFR,1,3,210,7,5,6.8,alive,13,alive,13.5,alive,5.4,dead,9.5,dead,120,110,"half alive, half dead",3026.171855739305
+2017,9,20,S2,2,IVFR,1,4,151,6,7,7.8,alive,7.7,alive,7.5,dead,8.6,dead,6.3,dead,70,75,"half alive, half dead",3026.171855739305
+2017,9,20,S2,3,IVFR,1,1,166,17,13,12.1,alive,6,alive,10.5,alive,10.6,dead,15,dead,114,102,"half alive, half dead",2303.321151851263
+2017,9,20,S2,4,IVFR,1,1,139,4,2,12.4,alive,10,alive,8.8,alive,4.5,dead,2.5,dead,77,42,alive,254.51606576517875
+2017,9,20,S2,5,IVFR,1,1,133,8,8,6.1,alive,5.9,alive,7.2,alive,5.4,dead,8.4,dead,90,100,"half alive, half dead",1217.6587076204237
+2017,9,20,S2,5,IVFR,1,2,155,11,4,8,alive,7.3,alive,7.1,alive,8.4,dead,8.3,dead,100,95,alive,1217.6587076204237
+2017,9,20,S3,1,IVFR,1,1,145,8,7,8.8,alive,7.8,alive,6.8,alive,8.3,dead,5.4,dead,64,62,"half alive, half dead",718.418935458362
+2017,9,20,S3,1,IVFR,1,2,159,3,6,7.3,alive,5.7,alive,7.2,dead,9.1,dead,4.1,dead,75,70,dead,718.418935458362
+2017,9,20,S3,2,IVFR,1,1,135,3,0,11.6,alive,7.8,alive,4.8,alive,NA,NA,NA,NA,62,45,alive,434.5175681799821
+2017,9,20,S3,2,IVFR,1,2,118,1,2,9.9,alive,8.3,dead,9.1,dead,NA,NA,NA,NA,35,35,"half alive, half dead",434.5175681799821
+2017,9,20,S3,2,IVFR,1,2,101,1,0,6.2,alive,NA,NA,NA,NA,NA,NA,NA,NA,38.38,38,alive,434.5175681799821
+2017,9,20,S3,2,IVFR,1,3,132,3,6,8,alive,7.1,alive,6.3,dead,8.4,dead,7.3,dead,50,60,dead,434.5175681799821
+2017,9,20,S3,3,IVFR,1,1,149,6,10,13.4,alive,4.6,alive,9.2,dead,2.5,dead,9.2,dead,81,77,"half alive, half dead",456.9365119215429
+2017,9,20,S3,4,IVFR,1,1,165,5,9,12.7,alive,8.8,alive,9.6,dead,10.2,dead,7.3,dead,120,77,"half alive, half dead",1395.541384292922
+2017,9,20,S3,4,IVFR,1,2,167,9,11,11.1,alive,6.9,alive,10.2,dead,5,dead,4.5,dead,77,70,"half alive, half dead",1395.541384292922
+2018,10,2,G1,2,IVFR,1,1,105,6,1,7,alive,5,alive,5.4,alive,4.5,alive,4.5,dead,45,80,alive,373.2815784759173
+2018,10,2,G1,2,IVFR,1,2,83,0,4,6.5,dead,4.5,dead,5,dead,6.2,dead,NA,NA,25,20,dead,373.2815784759173
+2018,10,2,G1,2,IVFR,1,3,104,0,6,7.9,dead,5.5,dead,8,dead,7.5,dead,6.4,dead,40,35,dead,373.2815784759173
+2018,10,2,G1,2,IVFR,1,4,116,4,6,7.5,alive,8.7,alive,3.8,dead,5.3,dead,4.1,dead,50,33,dead,373.2815784759173
+2018,10,2,G1,2,IVFR,1,5,117,3,3,7,alive,6.5,alive,8,alive,6.5,dead,6.7,dead,54,42,"half alive, half dead",373.2815784759173
+2018,10,2,G1,7,IVFR,1,1,117,3,6,3.9,alive,2,alive,7,dead,6.5,dead,8.7,dead,60,90,dead,9.582751594976397
+2018,10,2,G1,7,IVFR,1,1,117,3,6,3.9,alive,2,alive,7,dead,6.5,dead,8.7,dead,60,90,dead,274.77991067680665
+2018,10,2,G1,7,IVFR,1,2,136,0,2,10.4,dead,12.5,dead,NA,NA,NA,NA,NA,NA,70,30,dead,9.582751594976397
+2018,10,2,G1,7,IVFR,1,2,136,0,2,10.4,dead,12.5,dead,NA,NA,NA,NA,NA,NA,70,30,dead,274.77991067680665
+2018,10,2,G1,7,IVFR,1,3,154,1,1,8.9,alive,7.1,NA,NA,NA,NA,NA,NA,NA,43,25,"half alive, half dead",9.582751594976397
+2018,10,2,G1,7,IVFR,1,3,154,1,1,8.9,alive,7.1,NA,NA,NA,NA,NA,NA,NA,43,25,"half alive, half dead",274.77991067680665
+2018,10,2,G1,8,IVFR,1,1,133,2,1,8.6,alive,5.9,alive,3.5,dead,NA,NA,NA,NA,45,20,alive,181.2109683857533
+2018,10,2,G1,8,IVFR,1,2,102,2,2,5,alive,7.3,alive,5.8,dead,5.1,dead,NA,NA,45,40,"half alive, half dead",181.2109683857533
+2018,10,1,G1,13,IVFR,1,1,160,5,10,13.2,alive,8.1,alive,13.9,dead,9.2,dead,7.9,dead,100,80,dead,593.1737965619303
+2018,10,1,G2,6,IVFR,1,1,198,2,5,5.9,alive,5.4,alive,8,dead,6.2,dead,5.9,dead,64,89,dead,222.36230686193417
+2018,10,1,G2,7,IVFR,1,1,135,2,8,7,alive,5.9,alive,7.6,dead,6.3,dead,5.4,dead,70,50,dead,93.3913733602672
+2018,10,1,G2,8,IVFR,1,1,121,4,7,3.6,alive,4.1,alive,6.7,dead,8.3,dead,5.4,dead,74,86,dead,156.93908550458414
+2018,10,1,G2,8,IVFR,1,2,99,1,2,6.7,alive,3.8,dead,9.1,dead,NA,NA,NA,NA,120,95,dead,156.93908550458414
+2018,10,1,G3,3,IVFR,1,1,188,0,27,7.9,dead,6.1,dead,3.4,dead,17.8,dead,11.1,dead,90,75,dead,5.212127730242569
+2018,10,1,G3,3,IVFR,1,1,188,0,27,7.9,dead,6.1,dead,3.4,dead,17.8,dead,11.1,dead,90,75,dead,141.48286228151136
+2018,10,1,G3,3,IVFR,1,2,175,0,175,5,alive,6,alive,8.9,dead,11.3,dead,4.9,dead,90,70,dead,5.212127730242569
+2018,10,1,G3,3,IVFR,1,2,175,0,175,5,alive,6,alive,8.9,dead,11.3,dead,4.9,dead,90,70,dead,141.48286228151136
+2018,10,1,G3,3,IVFR,1,3,153,2,12,5.2,alive,6.1,alive,12.9,dead,4.3,dead,6.4,dead,80,65,dead,5.212127730242569
+2018,10,1,G3,3,IVFR,1,3,153,2,12,5.2,alive,6.1,alive,12.9,dead,4.3,dead,6.4,dead,80,65,dead,141.48286228151136
+2018,10,4,R1,4,IVFR,1,1,158,3,8,1.6,alive,11.4,alive,14.6,dead,7.8,dead,10.2,dead,130,113,dead,312.19183387067335
+2018,10,3,S1,3,IVFR,1,1,103,6,12,5.6,alive,2.7,alive,6.3,dead,7.8,dead,4.3,dead,56,50,dead,329.27026916032
+2018,10,3,S1,3,IVFR,1,2,128,4,13,5,alive,4.8,alive,6,dead,5.2,dead,13.8,dead,75,70,dead,329.27026916032
+2018,10,3,S1,3,IVFR,1,3,107,0,4,5.7,dead,4.5,dead,4.8,dead,2.3,dead,NA,NA,18,35,dead,329.27026916032
+2018,10,3,S1,4,IVFR,1,1,114,4,4,5.6,alive,4.6,alive,3.7,alive,7.5,dead,6.6,dead,55,10,"half alive, half dead",1.7271369579732059
+2018,10,3,S1,4,IVFR,1,1,114,4,4,5.6,alive,4.6,alive,3.7,alive,7.5,dead,6.6,dead,55,10,"half alive, half dead",114.94275100690322
+2018,10,3,S2,1,IVFR,1,1,176,10,12,8.2,alive,7.9,alive,6.8,dead,8.8,dead,7.9,dead,83,70,dead,1491.1850392957474
+2018,10,3,S2,1,IVFR,1,2,171,5,5,4.2,alive,3.7,alive,10.7,alive,7.3,dead,8.9,dead,120,132,"half alive, half dead",1491.1850392957474
+2018,10,3,S2,2,IVFR,1,1,130,4,3,6.2,alive,6.7,alive,3.7,alive,7.2,dead,4.5,dead,85,45,alive,2116.9341848494005
+2018,10,3,S2,2,IVFR,1,2,230,5,10,10,alive,7.8,alive,6.1,dead,7.6,dead,7.6,dead,110,110,dead,2116.9341848494005
+2018,10,3,S2,2,IVFR,1,3,187,8,10,6.8,alive,6.2,alive,10.6,dead,7.7,dead,8.6,dead,120,110,dead,2116.9341848494005
+2018,10,3,S2,3,IVFR,1,1,167,0,13,14.2,dead,8,dead,9.6,dead,10.1,dead,10.9,dead,99,76,dead,657.0604562684005
+2018,10,3,S2,3,IVFR,1,2,148,13,14,5,alive,3.8,alive,7.3,dead,4.3,dead,7.1,dead,110,100,dead,657.0604562684005
+2018,10,3,S2,5,IVFR,1,1,98,6,10,6.7,alive,4.5,alive,3.8,dead,9.6,dead,5.7,dead,63,52,dead,311.80289029562806
+2018,10,3,S2,5,IVFR,1,2,171,2,20,6.6,alive,4.8,alive,6.3,dead,9.8,dead,7.2,dead,90,105,dead,311.80289029562806
+2018,10,3,S3,1,IVFR,1,1,163,7,11,3.2,alive,5,alive,6.6,dead,11.7,dead,8.8,dead,70,66,dead,574.3740681249043
+2018,10,3,S3,2,IVFR,1,1,161,5,5,2.5,alive,6.8,alive,6.1,alive,12.2,dead,6.2,dead,45,37,"half alive, half dead",682.335915901805
+2018,10,3,S3,2,IVFR,1,2,129,5,5,6.2,alive,5.5,alive,14.8,alive,9.5,dead,5.6,dead,64,40,"half alive, half dead",682.335915901805
+2018,10,3,S3,3,IVFR,1,1,122,5,2,5.5,alive,5.2,alive,6.6,alive,7,dead,5.4,dead,35,40,alive,757.4293249073675
+2018,10,3,S3,3,IVFR,1,2,84,4,2,3.1,alive,3.8,alive,3.8,alive,2.6,dead,5.2,dead,25,30,alive,757.4293249073675
+2018,10,3,S3,3,IVFR,1,3,142,8,11,6.2,alive,4.8,alive,8.3,dead,11.2,dead,9.9,dead,55,74,dead,757.4293249073675
+2018,10,3,S3,4,IVFR,1,1,169,5,10,6.6,alive,4.6,alive,10.3,dead,6.9,dead,10.1,dead,67,64,dead,809.9650103636203
+2018,10,3,S3,4,IVFR,1,2,169,3,19,12.4,alive,8.1,alive,11.1,dead,6.4,dead,7.1,dead,80,87,dead,809.9650103636203

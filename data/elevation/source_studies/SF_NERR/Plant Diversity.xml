@@ -1,0 +1,4002 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Rankin, L.L.</origin>
+        <origin>Jones, S.F.</origin>
+        <origin>Janousek, C.N.</origin>
+        <origin>Buffington, K.J</origin>
+        <origin>Takekawa, J.Y.</origin>
+        <origin>Thorne, K.M.</origin>
+        <pubdate>20240416</pubdate>
+        <title>Marsh vegetation surveys across the San Francisco Bay Estuary, 2008-2018</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>n/a</pubplace>
+          <publish>U.S. Geological Survey data release</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P94F802H</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Lyndsay L. Rankin</origin>
+            <origin>Scott F. Jones</origin>
+            <origin>Christopher N. Janousek</origin>
+            <origin>Kevin J. Buffington</origin>
+            <origin>John Y. Takekawa</origin>
+            <origin>Karen M. Thorne</origin>
+            <pubdate>20231121</pubdate>
+            <title>Stress gradients structure spatial variability in coastal tidal marsh plant composition and diversity in a major Pacific coast estuary</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Frontiers in Ecology and Evolution</sername>
+              <issue>vol. 11</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Frontiers Media SA</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3389/fevo.2023.1215964</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Fifty-one tidal marsh sites across five regions (sub-embayments) were surveyed in the Delta, Suisun Bay, San Pablo Bay, central San Francisco Bay, and South San Francisco Bay. Vegetation surveys spanned ten years, from July 2008 to January 2018. A total of 5,112 plots were surveyed. Plots were positioned on transects along an elevation gradient and evenly distributed across each site, where possible, to capture spatial variability along elevation and distance gradients. At each plot, percent cover of all plant species, bare ground, and litter as well as average height was visually assessed within a 0.25 m2 quadrat. Total plant cover in a plot could exceed 100 percent due to vegetation layering. Bare ground and litter cover was estimated as total area visible through the vegetation from above the plot. Vascular plant nomenclature followed Baldwin et al. (2012). Average plant height (in meters) was recorded at most sites. Geographic position (in UTM) and elevation (North American Vertical Datum of 1988, NAVD88) were recorded at each plot. Channel salinity was calculated at the site or multi-site scale (in PSU) with data from locally deployed water sensors or from San Francisco Bay National Estuarine Research Reserve (NERR) sites (Takekawa et al. 2013a, Thorne et al. 2019). All salinity values represent marsh channel or creek conditions, and not soil porewater salinity. A survey-grade Real Time Kinematic (RTK) global positioning systems (GPS) rover was used to measure location and elevation (plus or minus 1 cm horizontal, plus or minus 2 cm vertical manufacturer-stated accuracy; Leica Geosystems Inc., Norcross, Georgia). Rover positions were received in real time from the Leica Smartnet system using a CDMA modem (http://www.leica-geosystems.us/en/index.htm). The WGS 84 ellipsoid model was used for horizontal positioning and NAVD88 for vertical positioning. Rover accuracy and precision were evaluated by measuring positions at local National Geodetic Survey benchmarks; all errors were within the stated rover error. Elevation data was converted to z*, a unitless measure of elevation relative to the local tidal frame which accounts for variation in tidal range and allows for direct comparison across sites (Swanson et al. 2014). Local tidal datums were calculated from multiple sources including NOAA tide stations (https://tidesandcurrents.noaa.gov/), deployed water level loggers, and NOAA’s VDATUM model (Parker et al. 2003). Distance to channel was calculated as the distance (in meters) between each plot and the digitalized boundaries of all nearby channels and bays. Channels were digitized based on 2020 NAIP imagery supplemented with LiDAR when necessary. The centerline was digitized on small channels (appox. 1 - 2.5 m wide), while both edges were digitized on large channels (greater than 2.5 m), bays, and rivers.
+
+References
+Baldwin B. G., Goldman D. H., Keil D. J., Patterson R., Rosatti T. J. (2012). The Jepson manual: vascular plants of California. (Berkeley: University of California Press).
+
+Parker B., Milbert D., Hess K., Gill S. (2003). National VDatum–The implementation of a national vertical datum transformation database. Silver Spring: National Oceanic and Atmospheric Administration, National Ocean Service. 9.
+
+Swanson K. M., Drexler J. Z., Schoellhamer D. H., Thorne K. M., Casazza M. L., Overton C. T., et al. (2014). Wetland accretion rate model of ecosystem resilience (WARMER) and its application to habitat sustainability for endangered species in the San Francisco estuary. Estuaries Coasts 37, 476–492. doi: 10.1007/s12237-013-9694-0
+
+Takekawa J. Y., Thorne K. M., Buffington K. J., Freeman C. M., Powelson K. W., Block G. (2013). Assessing marsh response from sea-level rise applying local site conditions: Humboldt Bay National Wildlife Refuge. Unpubl. Data Summary Report (Vallejo, CA: USGS Western Ecological Research Center). 44pp + Appendices.
+
+Thorne K. M., Backe K. E., Freeman C. M., Buffington K. J., Forstner T. M., Goodman A. C. (2019). Don Edwards National Wildlife Refuge Vegetation, Elevation, Inundation Inventory to Inform Sea-level Rise Vulnerability. Unpubl. Data Summary Report (Davis, CA: USGS Western Ecological Research Center). 112pp.</abstract>
+      <purpose>Understanding the drivers of variability in plant diversity from local to landscape spatial scales is a challenge in ecological systems. Environmental gradients exist at several spatial scales and can be nested hierarchically, influencing patterns of plant diversity in complex ways. As plant community dynamics influence ecosystem function, understanding the drivers of plant community variability across space is paramount for predicting potential shifts in ecosystem function from global change. Determining the scales at which stress gradients influence vegetation composition is crucial to inform management and restoration of tidal marshes for specific functions.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20080708</begdate>
+          <enddate>20180114</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>San Francisco Bay Delta</descgeog>
+      <bounding>
+        <westbc>-122.5862</westbc>
+        <eastbc>-121.6808</eastbc>
+        <northbc>38.2427</northbc>
+        <southbc>37.4292</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>biogeography</themekey>
+        <themekey>plants (organisms)</themekey>
+        <themekey>vegetation</themekey>
+        <themekey>species diversity</themekey>
+        <themekey>biodiversity</themekey>
+        <themekey>community ecology</themekey>
+        <themekey>salinity</themekey>
+        <themekey>wetland ecosystems</themekey>
+      </theme>
+      <theme>
+        <themekt>Coastal and Marine Ecological Classification Standard</themekt>
+        <themekey>Freshwater and Brackish Tidal Aquatic Vegetation</themekey>
+        <themekey>Salinity</themekey>
+        <themekey>Emergent Tidal Marsh</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>wetland</themekey>
+        <themekey>wetlands</themekey>
+        <themekey>estuary</themekey>
+      </theme>
+      <theme>
+        <themekt>Alexandria Digital Library Feature Type Thesaurus</themekt>
+        <themekey>bays</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:660b32efd34e4df16bd58cd4</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>San Francisco Bay</placekey>
+        <placekey>San Joaquin Delta</placekey>
+        <placekey>Suisun Bay</placekey>
+        <placekey>San Pablo Bay</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>Integrated Taxonomic Information System (ITIS)</taxonkt>
+        <taxonkey>Acer negundo</taxonkey>
+        <taxonkey>Achillea millefolium</taxonkey>
+        <taxonkey>Agrostis stolonifera</taxonkey>
+        <taxonkey>Anemopsis californica</taxonkey>
+        <taxonkey>Apium graveolens</taxonkey>
+        <taxonkey>Artemisia douglasiana</taxonkey>
+        <taxonkey>Atriplex prostrata</taxonkey>
+        <taxonkey>Atriplex semibaccata</taxonkey>
+        <taxonkey>Azolla filiculoides</taxonkey>
+        <taxonkey>Baccharis pilularis</taxonkey>
+        <taxonkey>Baccharis salicifolia</taxonkey>
+        <taxonkey>Bistorta bistortoides</taxonkey>
+        <taxonkey>Bolboschoenus maritimus</taxonkey>
+        <taxonkey>Brassica nigra</taxonkey>
+        <taxonkey>Bromus hordeaceus</taxonkey>
+        <taxonkey>Bromus maritimus</taxonkey>
+        <taxonkey>Calystegia sepium</taxonkey>
+        <taxonkey>Carduus pycnocephalus</taxonkey>
+        <taxonkey>Carex nebrascensis</taxonkey>
+        <taxonkey>Cephalanthus occidentalis</taxonkey>
+        <taxonkey>Ceratophyllum demersum</taxonkey>
+        <taxonkey>Conyza canadensis</taxonkey>
+        <taxonkey>Cornus sericea</taxonkey>
+        <taxonkey>Cotula coronopifolia</taxonkey>
+        <taxonkey>Cressa truxillensis</taxonkey>
+        <taxonkey>Cuscuta salina</taxonkey>
+        <taxonkey>Distichlis spicata</taxonkey>
+        <taxonkey>Eichhornia crassipes</taxonkey>
+        <taxonkey>Eleocharis parvula</taxonkey>
+        <taxonkey>Epilobium ciliatum</taxonkey>
+        <taxonkey>Euthamia occidentalis</taxonkey>
+        <taxonkey>Festuca microstachys</taxonkey>
+        <taxonkey>Lolium multiflorum</taxonkey>
+        <taxonkey>Foeniculum vulgare</taxonkey>
+        <taxonkey>Frankenia salina</taxonkey>
+        <taxonkey>Galium trifidum</taxonkey>
+        <taxonkey>Grindelia stricta</taxonkey>
+        <taxonkey>Hordeum brachyantherum</taxonkey>
+        <taxonkey>Hordeum depressum</taxonkey>
+        <taxonkey>Iris pseudacorus</taxonkey>
+        <taxonkey>Isolepis cernua</taxonkey>
+        <taxonkey>Jaumea carnosa</taxonkey>
+        <taxonkey>Juncus balticus</taxonkey>
+        <taxonkey>Juncus effusus</taxonkey>
+        <taxonkey>Lathyrus jepsonii</taxonkey>
+        <taxonkey>Lepidium latifolium</taxonkey>
+        <taxonkey>Limonium californicum</taxonkey>
+        <taxonkey>Lotus corniculatus</taxonkey>
+        <taxonkey>Ludwigia peploides</taxonkey>
+        <taxonkey>Lycopus asper</taxonkey>
+        <taxonkey>Lysimachia maritima</taxonkey>
+        <taxonkey>Melilotus indicus</taxonkey>
+        <taxonkey>Mesembryanthemum nodiflorum</taxonkey>
+        <taxonkey>Mimulus guttatus</taxonkey>
+        <taxonkey>Myriophyllum aquaticum</taxonkey>
+        <taxonkey>Paspalum distichum</taxonkey>
+        <taxonkey>Phoenix canariensis</taxonkey>
+        <taxonkey>Phragmites australis</taxonkey>
+        <taxonkey>Pluchea odorata</taxonkey>
+        <taxonkey>Polygonum aviculare</taxonkey>
+        <taxonkey>Polygonum hydropiperoides</taxonkey>
+        <taxonkey>Polypogon monspeliensis</taxonkey>
+        <taxonkey>Potentilla anserina</taxonkey>
+        <taxonkey>Rosa californica</taxonkey>
+        <taxonkey>Rubus armeniacus</taxonkey>
+        <taxonkey>Rubus leucodermis</taxonkey>
+        <taxonkey>Salicornia pacifica</taxonkey>
+        <taxonkey>Salix exigua</taxonkey>
+        <taxonkey>Salix lasiolepis</taxonkey>
+        <taxonkey>Schoenoplectus acutus</taxonkey>
+        <taxonkey>Schoenoplectus californicus</taxonkey>
+        <taxonkey>Schoenoplectus americanus</taxonkey>
+        <taxonkey>Sesbania punicea</taxonkey>
+        <taxonkey>Solanum americanum</taxonkey>
+        <taxonkey>Sparganium eurycarpum</taxonkey>
+        <taxonkey>Spartina foliosa</taxonkey>
+        <taxonkey>Symphyotrichum lentum</taxonkey>
+        <taxonkey>Trifolium macraei</taxonkey>
+        <taxonkey>Typha</taxonkey>
+        <taxonkey>Urtica dioica</taxonkey>
+        <taxonkey>Zantedeschia aethiopica</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>U.S. Geological Survey</origin>
+              <origin>Smithsonian Institution</origin>
+              <pubdate>2013</pubdate>
+              <title>Integrated Taxonomic Information System (ITIS)</title>
+              <geoform>dataset</geoform>
+              <pubinfo>
+                <pubplace>n/a</pubplace>
+                <publish>U.S. Geological Survey</publish>
+              </pubinfo>
+              <onlink>http://itis.gov</onlink>
+              <onlink>https://doi.org/10.5066/F7KH0KBK</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>expert identifier</taxonpro>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Plantae</taxonrv>
+        <common>plants</common>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Viridiplantae</taxonrv>
+          <common>green plants</common>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Streptophyta</taxonrv>
+            <common>land plants</common>
+            <taxoncl>
+              <taxonrn>Superdivision</taxonrn>
+              <taxonrv>Embryophyta</taxonrv>
+              <taxoncl>
+                <taxonrn>Division</taxonrn>
+                <taxonrv>Tracheophyta</taxonrv>
+                <common>vascular plants</common>
+                <common>tracheophytes</common>
+                <taxoncl>
+                  <taxonrn>Subdivision</taxonrn>
+                  <taxonrv>Spermatophytina</taxonrv>
+                  <common>spermatophytes</common>
+                  <common>seed plants</common>
+                  <taxoncl>
+                    <taxonrn>Class</taxonrn>
+                    <taxonrv>Magnoliopsida</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Rosanae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Sapindales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Sapindaceae</taxonrv>
+                          <common>soapberries</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Acer</taxonrv>
+                            <common>maples</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Acer negundo</taxonrv>
+                              <common>ashleaf maple</common>
+                              <common>boxelder</common>
+                              <common>boxelder maple</common>
+                              <common>California boxelder</common>
+                              <common>Manitoba maple</common>
+                              <common>western boxelder</common>
+                              <common>box elder</common>
+                              <common>three-leaf maple</common>
+                              <common>ash-leaf maple</common>
+                              <common>TSN: 28749</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Brassicales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Brassicaceae</taxonrv>
+                          <common>mustards</common>
+                          <common>crucifers</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Brassica</taxonrv>
+                            <common>mustard</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Brassica nigra</taxonrv>
+                              <common>black mustard</common>
+                              <common>TSN: 23061</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lepidium</taxonrv>
+                            <common>pepperweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lepidium latifolium</taxonrv>
+                              <common>perennial pepperweed</common>
+                              <common>broadleaved peppergrass</common>
+                              <common>tall whitetop</common>
+                              <common>Virginia pepperweed</common>
+                              <common>broadleaf pepperweed</common>
+                              <common>perennial peppercress</common>
+                              <common>peppergrass mustard</common>
+                              <common>broadleaved pepperweed</common>
+                              <common>TSN: 503379</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Myrtales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Onagraceae</taxonrv>
+                          <common>evening primroses</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Epilobium</taxonrv>
+                            <common>willow weed</common>
+                            <common>willowweed</common>
+                            <common>willowherb</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Epilobium ciliatum</taxonrv>
+                              <common>fringed willowherb</common>
+                              <common>TSN: 27293</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Ludwigia</taxonrv>
+                            <common>seedbox</common>
+                            <common>primrose-willow</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Ludwigia peploides</taxonrv>
+                              <common>floating primrose</common>
+                              <common>creeping waterprimrose</common>
+                              <common>floating primrosewillow</common>
+                              <common>floating primrose-willow</common>
+                              <common>TSN: 27355</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Fabales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Fabaceae</taxonrv>
+                          <common>peas</common>
+                          <common>legumes</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lathyrus</taxonrv>
+                            <common>sweet pea</common>
+                            <common>vetchling</common>
+                            <common>peavine</common>
+                            <common>pea</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lathyrus jepsonii</taxonrv>
+                              <common>Delta tule pea</common>
+                              <common>Jepson's sweet pea</common>
+                              <common>TSN: 25848</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lotus</taxonrv>
+                            <common>trefoil</common>
+                            <common>deervetch</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lotus corniculatus</taxonrv>
+                              <common>bird's-foot trefoil</common>
+                              <common>birdsfoot trefoil</common>
+                              <common>garden bird's-foot-trefoil</common>
+                              <common>garden birdsfoot trefoil</common>
+                              <common>bloomfell</common>
+                              <common>cat's clover</common>
+                              <common>crowtoes</common>
+                              <common>ground honeysuckle</common>
+                              <common>birdfoot deervetch</common>
+                              <common>TSN: 26362</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Melilotus</taxonrv>
+                            <common>sweetclover</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Melilotus indicus</taxonrv>
+                              <common>annual yellow sweetclover</common>
+                              <common>TSN: 503741</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Sesbania</taxonrv>
+                            <common>riverhemp</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Sesbania punicea</taxonrv>
+                              <common>rattlebox</common>
+                              <common>TSN: 26954</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Trifolium</taxonrv>
+                            <common>clover</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Trifolium macraei</taxonrv>
+                              <common>Chilean clover</common>
+                              <common>TSN: 26283</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Rosales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Rosaceae</taxonrv>
+                          <common>roses</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Potentilla</taxonrv>
+                            <common>cinquefoil</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Potentilla anserina</taxonrv>
+                              <common>silverweed cinquefoil</common>
+                              <common>TSN: 24687</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Rosa</taxonrv>
+                            <common>wildrose</common>
+                            <common>rose</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Rosa californica</taxonrv>
+                              <common>California wildrose</common>
+                              <common>TSN: 24818</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Rubus</taxonrv>
+                            <common>brambles</common>
+                            <common>blackberry</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Rubus bifrons</taxonrv>
+                              <common>Himalayan berry</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Rubus leucodermis</taxonrv>
+                              <common>western raspberry</common>
+                              <common>whitebark raspberry</common>
+                              <common>TSN: 24968</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Urticaceae</taxonrv>
+                          <common>nettles</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Urtica</taxonrv>
+                            <common>nettle</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Urtica dioica</taxonrv>
+                              <common>California nettle</common>
+                              <common>slender nettle</common>
+                              <common>tall nettle</common>
+                              <common>stinging nettle</common>
+                              <common>TSN: 19152</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Malpighiales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Salicaceae</taxonrv>
+                          <common>willows</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Salix</taxonrv>
+                            <common>willow</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Salix exigua</taxonrv>
+                              <common>desert willow</common>
+                              <common>sandbar willow</common>
+                              <common>coyote willow</common>
+                              <common>narrowleaf willow</common>
+                              <common>TSN: 22529</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Salix lasiolepis</taxonrv>
+                              <common>arroyo willow</common>
+                              <common>TSN: 22551</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Asteranae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Asterales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Asteraceae</taxonrv>
+                          <common>sunflowers</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Achillea</taxonrv>
+                            <common>yarrow</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Achillea millefolium</taxonrv>
+                              <common>common yarrow</common>
+                              <common>milenrama</common>
+                              <common>milfoil</common>
+                              <common>western yarrow</common>
+                              <common>bloodwort</common>
+                              <common>carpenter's weed</common>
+                              <common>yarrow</common>
+                              <common>TSN: 35423</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Artemisia</taxonrv>
+                            <common>sagebrush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Artemisia douglasiana</taxonrv>
+                              <common>Douglas' sagewort</common>
+                              <common>TSN: 35460</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Baccharis</taxonrv>
+                            <common>baccharis</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Baccharis pilularis</taxonrv>
+                              <common>coyotebrush</common>
+                              <common>TSN: 35693</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Baccharis salicifolia</taxonrv>
+                              <common>mule's fat</common>
+                              <common>seep willow</common>
+                              <common>seepwillow</common>
+                              <common>seepwillow baccharis</common>
+                              <common>mule-fat</common>
+                              <common>TSN: 183763</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Carduus</taxonrv>
+                            <common>plumeless thistle</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Carduus pycnocephalus</taxonrv>
+                              <common>Italian plumeless thistle</common>
+                              <common>TSN: 35788</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Conyza</taxonrv>
+                            <common>horseweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Conyza canadensis</taxonrv>
+                              <common>Canadian horseweed</common>
+                              <common>horseweed</common>
+                              <common>horseweed fleabane</common>
+                              <common>mares tail</common>
+                              <common>Canada horseweed</common>
+                              <common>marestail</common>
+                              <common>TSN: 37113</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Cotula</taxonrv>
+                            <common>waterbuttons</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Cotula coronopifolia</taxonrv>
+                              <common>common brassbuttons</common>
+                              <common>TSN: 35799</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Euthamia</taxonrv>
+                            <common>goldentop</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Euthamia occidentalis</taxonrv>
+                              <common>western goldentop</common>
+                              <common>TSN: 37356</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Grindelia</taxonrv>
+                            <common>gumweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Grindelia hirsutula</taxonrv>
+                              <common>hairy gumweed</common>
+                              <common>sharpleaf gumweed</common>
+                              <common>bract gumweed</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Jaumea</taxonrv>
+                            <common>jaumea</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Jaumea carnosa</taxonrv>
+                              <common>marsh jaumea</common>
+                              <common>TSN: 37167</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Pluchea</taxonrv>
+                            <common>camphorweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Pluchea carolinensis</taxonrv>
+                              <common>cure for all</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Symphyotrichum</taxonrv>
+                            <common>aster</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Symphyotrichum lentum</taxonrv>
+                              <common>Suisun Marsh aster</common>
+                              <common>TSN: 522222</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Apiales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Apiaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Apium</taxonrv>
+                            <common>wild celery</common>
+                            <common>celery</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Apium graveolens</taxonrv>
+                              <common>wild celery</common>
+                              <common>TSN: 29592</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Foeniculum</taxonrv>
+                            <common>fennel</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Foeniculum vulgare</taxonrv>
+                              <common>sweet fennel</common>
+                              <common>TSN: 29509</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Solanales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Convolvulaceae</taxonrv>
+                          <common>morningglories</common>
+                          <common>morning-glories</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Calystegia</taxonrv>
+                            <common>false bindweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Calystegia sepium</taxonrv>
+                              <common>large bindweed</common>
+                              <common>bearbind</common>
+                              <common>devil's guts</common>
+                              <common>hedge bindweed</common>
+                              <common>hedgebell</common>
+                              <common>old man's night cap</common>
+                              <common>wild morningglory</common>
+                              <common>hedge false bindweed</common>
+                              <common>TSN: 30650</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Cressa</taxonrv>
+                            <common>alkaliweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Cressa truxillensis</taxonrv>
+                              <common>spreading alkaliweed</common>
+                              <common>TSN: 30832</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Cuscuta</taxonrv>
+                            <common>dodder</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Cuscuta salina</taxonrv>
+                              <common>saltmarsh dodder</common>
+                              <common>TSN: 30750</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Solanaceae</taxonrv>
+                          <common>nightshades</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Solanum</taxonrv>
+                            <common>nightshade</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Solanum ptychanthum</taxonrv>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Gentianales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Rubiaceae</taxonrv>
+                          <common>madders</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Cephalanthus</taxonrv>
+                            <common>buttonbush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Cephalanthus occidentalis</taxonrv>
+                              <common>buttonbush</common>
+                              <common>common buttonbush</common>
+                              <common>TSN: 34786</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Galium</taxonrv>
+                            <common>bedstraw</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Galium trifidum</taxonrv>
+                              <common>three-petal bedstraw</common>
+                              <common>small bedstraw</common>
+                              <common>threepetal bedstraw</common>
+                              <common>TSN: 34806</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Cornales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Cornaceae</taxonrv>
+                          <common>dogwoods</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Cornus</taxonrv>
+                            <common>dogwood</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Cornus sericea</taxonrv>
+                              <common>redosier</common>
+                              <common>redosier dogwood</common>
+                              <common>TSN: 501637</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Lamiales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Lamiaceae</taxonrv>
+                          <common>mints</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lycopus</taxonrv>
+                            <common>waterhorehound</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lycopus asper</taxonrv>
+                              <common>rough water-horehound</common>
+                              <common>rough bugleweed</common>
+                              <common>TSN: 32256</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Phrymaceae</taxonrv>
+                          <common>phrymas</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Mimulus</taxonrv>
+                            <common>monkey-flower</common>
+                            <common>monkeyflower</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Mimulus guttatus</taxonrv>
+                              <common>seep monkeyflower</common>
+                              <common>TSN: 33236</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Ericales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Primulaceae</taxonrv>
+                          <common>primroses</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lysimachia</taxonrv>
+                            <common>loosestrife</common>
+                            <common>yellow loosestrife</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lysimachia maritima</taxonrv>
+                              <common>sea milkwort</common>
+                              <common>TSN: 836177</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Lilianae</taxonrv>
+                      <common>monocots</common>
+                      <common>monocotyledons</common>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Poales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Poaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Agrostis</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Agrostis stolonifera</taxonrv>
+                              <common>TSN: 40400</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Bromus</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Bromus hordeaceus</taxonrv>
+                              <common>TSN: 501070</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Bromus maritimus</taxonrv>
+                              <common>TSN: 501075</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Distichlis</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Distichlis spicata</taxonrv>
+                              <common>TSN: 40662</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Vulpia</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Vulpia microstachys</taxonrv>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lolium</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lolium multiflorum</taxonrv>
+                              <common>TSN: 40892</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Hordeum</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Hordeum brachyantherum</taxonrv>
+                              <common>TSN: 40875</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Hordeum depressum</taxonrv>
+                              <common>TSN: 40868</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Paspalum</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Paspalum distichum</taxonrv>
+                              <common>TSN: 41005</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Phragmites</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Phragmites australis</taxonrv>
+                              <common>TSN: 41072</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Polypogon</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Polypogon monspeliensis</taxonrv>
+                              <common>TSN: 41171</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Spartina</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Spartina foliosa</taxonrv>
+                              <common>TSN: 41275</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Cyperaceae</taxonrv>
+                          <common>sedges</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Bolboschoenus</taxonrv>
+                            <common>tuberous bulrush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Bolboschoenus maritimus</taxonrv>
+                              <common>cosmopolitan bulrush</common>
+                              <common>TSN: 508145</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Carex</taxonrv>
+                            <common>sedge species</common>
+                            <common>sedges</common>
+                            <common>sedge</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Carex nebrascensis</taxonrv>
+                              <common>Nebraska sedge</common>
+                              <common>TSN: 39711</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Eleocharis</taxonrv>
+                            <common>spikerush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Eleocharis parvula</taxonrv>
+                              <common>dwarf spikesedge</common>
+                              <common>little-head spike-rush</common>
+                              <common>little-head spikerush</common>
+                              <common>dwarf spikerush</common>
+                              <common>TSN: 40020</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Isolepis</taxonrv>
+                            <common>bulrush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Isolepis cernua</taxonrv>
+                              <common>low bulrush</common>
+                              <common>TSN: 507777</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Schoenoplectus</taxonrv>
+                            <common>bulrush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Schoenoplectus acutus</taxonrv>
+                              <common>hardstem bulrush</common>
+                              <common>TSN: 507785</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Schoenoplectus californicus</taxonrv>
+                              <common>California bulrush</common>
+                              <common>TSN: 508142</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Schoenoplectus americanus</taxonrv>
+                              <common>chairmaker's bulrush</common>
+                              <common>American bulrush</common>
+                              <common>Olney bulrush</common>
+                              <common>TSN: 508141</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Juncaceae</taxonrv>
+                          <common>rushes</common>
+                          <common>Rush Family</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Juncus</taxonrv>
+                            <common>rush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Juncus balticus</taxonrv>
+                              <common>Baltic rush</common>
+                              <common>TSN: 39223</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Juncus effusus</taxonrv>
+                              <common>lamp rush</common>
+                              <common>common rush</common>
+                              <common>TSN: 39232</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Typhaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Sparganium</taxonrv>
+                            <common>burreed</common>
+                            <common>bur-reed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Sparganium eurycarpum</taxonrv>
+                              <common>broad-fruit burr-reed</common>
+                              <common>broadfruit burreed</common>
+                              <common>giant burreed</common>
+                              <common>broadfruit bur-reed</common>
+                              <common>TSN: 42316</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Typha</taxonrv>
+                            <common>cattail</common>
+                            <common>TSN: 42324</common>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Commelinales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Pontederiaceae</taxonrv>
+                          <common>pickerel-weed</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Eichhornia</taxonrv>
+                            <common>water hyacinth</common>
+                            <common>water-hyacinth</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Eichhornia crassipes</taxonrv>
+                              <common>common water-hyacinth</common>
+                              <common>water hyacinth</common>
+                              <common>floating waterhyacinth</common>
+                              <common>floating water hyacinth</common>
+                              <common>common water hyacinth</common>
+                              <common>TSN: 42623</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Asparagales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Iridaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Iris</taxonrv>
+                            <common>iris</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Iris pseudacorus</taxonrv>
+                              <common>paleyellow iris</common>
+                              <common>TSN: 43194</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Arecales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Arecaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Phoenix</taxonrv>
+                            <common>date palm</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Phoenix canariensis</taxonrv>
+                              <common>Canary Island date palm</common>
+                              <common>TSN: 504333</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Alismatales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Araceae</taxonrv>
+                          <common>Arums</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Zantedeschia</taxonrv>
+                            <common>calla lily</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Zantedeschia aethiopica</taxonrv>
+                              <common>calla lily</common>
+                              <common>TSN: 42555</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Magnolianae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Piperales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Saururaceae</taxonrv>
+                          <common>lizard tails</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Anemopsis</taxonrv>
+                            <common>yerba mansa</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Anemopsis californica</taxonrv>
+                              <common>yerba-mansa</common>
+                              <common>yerba mansa</common>
+                              <common>TSN: 18223</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Caryophyllanae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Caryophyllales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Amaranthaceae</taxonrv>
+                          <common>pigweed</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Atriplex</taxonrv>
+                            <common>saltbush</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Atriplex prostrata</taxonrv>
+                              <common>triangle orache</common>
+                              <common>TSN: 192279</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Atriplex semibaccata</taxonrv>
+                              <common>Australian saltbush</common>
+                              <common>TSN: 20565</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Sarcocornia</taxonrv>
+                            <common>swampfire</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Sarcocornia pacifica</taxonrv>
+                              <common>Pacific swampfire</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Polygonaceae</taxonrv>
+                          <common>knotweed</common>
+                          <common>buckwheat</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Bistorta</taxonrv>
+                            <common>bistort</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Bistorta bistortoides</taxonrv>
+                              <common>American bistort</common>
+                              <common>TSN: 509552</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Polygonum</taxonrv>
+                            <common>knotweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Polygonum aviculare</taxonrv>
+                              <common>prostrate knotweed</common>
+                              <common>TSN: 20876</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Persicaria</taxonrv>
+                            <common>smartweed</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Persicaria hydropiperoides</taxonrv>
+                              <common>swamp smartweed</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Frankeniaceae</taxonrv>
+                          <common>frankenias</common>
+                          <common>seaheath</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Frankenia</taxonrv>
+                            <common>seaheath</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Frankenia salina</taxonrv>
+                              <common>alkali-heath</common>
+                              <common>alkali seaheath</common>
+                              <common>TSN: 502648</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Plumbaginaceae</taxonrv>
+                          <common>leadwort</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Limonium</taxonrv>
+                            <common>marsh rosemary</common>
+                            <common>statice</common>
+                            <common>sea lavender</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Limonium californicum</taxonrv>
+                              <common>California sealavender</common>
+                              <common>California sea lavender</common>
+                              <common>marsh rosemary</common>
+                              <common>TSN: 21332</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Aizoaceae</taxonrv>
+                          <common>ice plants</common>
+                          <common>fig-marigold</common>
+                          <common>iceplants</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Mesembryanthemum</taxonrv>
+                            <common>iceplant</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Mesembryanthemum nodiflorum</taxonrv>
+                              <common>slender-leaf iceplant</common>
+                              <common>slenderleaf iceplant</common>
+                              <common>TSN: 503819</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Ceratophyllanae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Ceratophyllales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Ceratophyllaceae</taxonrv>
+                          <common>hornwort</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Ceratophyllum</taxonrv>
+                            <common>hornwort</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Ceratophyllum demersum</taxonrv>
+                              <common>coon's-tail</common>
+                              <common>coontail</common>
+                              <common>hornwort</common>
+                              <common>common hornwort</common>
+                              <common>coon's tail</common>
+                              <common>TSN: 18403</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Superorder</taxonrn>
+                      <taxonrv>Saxifraganae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Saxifragales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Haloragaceae</taxonrv>
+                          <common>water milfoil</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Myriophyllum</taxonrv>
+                            <common>water milfoil</common>
+                            <common>watermilfoil</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Myriophyllum aquaticum</taxonrv>
+                              <common>parrot feather</common>
+                              <common>Brazilian watermilfoil</common>
+                              <common>parrot's-feather</common>
+                              <common>parrot feather watermilfoil</common>
+                              <common>TSN: 503904</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+                <taxoncl>
+                  <taxonrn>Subdivision</taxonrn>
+                  <taxonrv>Polypodiophytina</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Class</taxonrn>
+                    <taxonrv>Polypodiopsida</taxonrv>
+                    <common>leptosporangiate ferns</common>
+                    <taxoncl>
+                      <taxonrn>Subclass</taxonrn>
+                      <taxonrv>Polypodiidae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Salviniales</taxonrv>
+                        <common>water ferns</common>
+                        <common>heterosporous ferns</common>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Salviniaceae</taxonrv>
+                          <common>water ferns</common>
+                          <common>floating ferns</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Azolla</taxonrv>
+                            <common>mosquito ferns</common>
+                            <common>water ferns</common>
+                            <common>mosquitoferns</common>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Azolla filiculoides</taxonrv>
+                              <common>fern azolla</common>
+                              <common>Pacific azolla</common>
+                              <common>Pacific mosquitofern</common>
+                              <common>TSN: 18007</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see Distribution Info for details.</accconst>
+    <useconst>Questions pertaining to appropriate use or assistance with understanding limitations or interpretation of the data are to be directed to the individuals/organization listed in the Point of Contact section.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Manager</cntper>
+          <cntorg>U.S. Geological Survey, Western Ecological Research Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>3020 State University Drive, Modoc Hall, Suite 4004</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95819</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>279-782-0904</cntvoice>
+        <cntemail>gs-b-werc_data_management@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>U.S. Geological Survey National Climate Adaptation Science Centers; National Oceanic and Atmospheric Administration (grant NA15NOS4780171); USGS Western Ecological Research Center</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Original data from field notebooks were scanned and entered into excel spreadsheets. These data were then reviewed by a second person to ensure accuracy between hand written values and digital values.</attraccr>
+    </attracc>
+    <logic>All data match details provided. All vegetation cover, vegetation height, tidal position, channel distance, and salinity values fall within expected ranges for each embayment. Spatially, all plot locations fall within designated marsh sites. Data have been checked for duplication and omission.</logic>
+    <complete>The dataset represents 51 marsh sites surveyed between 2008 and 2018 within the San Francisco Bay Delta. These sites were selected based on access, spatial extent, history, and geomorphic setting.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>0.01 meter accuracy from the Leica Geosystems Real Time Kinematic (RTK) global positioning system (GPS) using Leica Smartnet with a CDMA modem</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>0.02 meter accuracy from the Leica Geosystems Real Time Kinematic (RTK) global positioning system (GPS) using Leica Smartnet with a CDMA modem</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NOAA</origin>
+            <pubdate>20020101</pubdate>
+            <title>Nationwide vertical elevation data</title>
+            <edition>4.6</edition>
+            <geoform>application/service</geoform>
+            <onlink>https://vdatum.noaa.gov/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20020101</begdate>
+              <enddate>20230101</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>observed</srccurr>
+        </srctime>
+        <srccitea>NOAA Vdatum</srccitea>
+        <srccontr>NOAA Vdatum calculations of mean higher high water and mean tide level were used to calculate z* at sites without locally deployed water level loggers.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NOAA</origin>
+            <pubdate>20230101</pubdate>
+            <title>Nationwide tide data from NOAA water level stations</title>
+            <geoform>application/service</geoform>
+            <onlink>https://tidesandcurrents.noaa.gov/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19830101</begdate>
+              <enddate>20230101</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>NOAA Tides</srccitea>
+        <srccontr>Tide charts from NOAA tide gauges of mean higher high water and mean tide level were used to calculate z* at sites without locally deployed water level loggers.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>USDA</origin>
+            <pubdate>20210119</pubdate>
+            <title>2020 NAIP Imagery of San Francisco Bay</title>
+            <geoform>remote-sensing image</geoform>
+            <onlink>https://naip-image-dates-usdaonline.hub.arcgis.com/datasets/3c550e2869cb40f1b12244666b0f7c5d_0/about</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20200415</begdate>
+              <enddate>20200805</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>observed</srccurr>
+        </srctime>
+        <srccitea>NAIP</srccitea>
+        <srccontr>2020 NAIP imagery (60 cm resolution) was used to identify and manually digitize channels throughout marsh sites to calculate accurate plot distance to water.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>1) Plot locations were assigned along transects distributed throughout each marsh site and uploaded to GPS units.
+2) A 0.25 m2 quadrat was placed at each plot location and all vegetation species were identified. Each species' percent cover and average height was recorded. 
+3) An RTK GPS unit was used to measure sub-meter horizontal and vertical position at each plot.
+4) Elevation data was converted to z* (z* = [elevation in NAVD88 − Mean tide level]/[Mean higher high water – Mean tide level]), a unitless measure of elevation relative to the local tidal frame which accounts for variation in tidal range and allows for direct comparison across sites. Local tidal datums were calculated from multiple sources including NOAA tide stations, deployed water level loggers, and NOAA’s VDATUM model.
+5) Channel salinity was calculated at the site or multi-site scale (in PSU) with data from locally deployed water sensors or from San Francisco Bay National Estuarine Research Reserve (NERR) sites. Salinity dataloggers (Solinst and Odyssey) were programmed to record specific conductivity (in µS/cm) at 12-minute (Solinst) or 30-minute (Odyssey) intervals and were deployed for a minimum of one year. Annual mean salinity was calculated across the deployment period and converted to PSU. 
+6) Distance to channel was calculated as the distance (in meters) between each plot and the digitalized boundaries of all nearby channels and bays. Channels were digitized based on 2020 NAIP imagery supplemented with LiDAR when necessary. The centerline was digitized on small channels (approx. 1 - 2.5 m wide), while both edges were digitized on large channels (greater than 2.5 m), bays, and rivers.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.001</latres>
+        <longres>0.0001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>North American Vertical Datum of 1988</altdatum>
+        <altres>0.02</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>baydelta_plants_cover_height.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>Marsh site name</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Marsh site name</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region</attrlabl>
+        <attrdef>Geographic region within the San Francisco Bay Delta</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>South SF Bay</edomv>
+            <edomvd>South San Francisco Bay, the bay region south of the San Francisco-Oakland Bay Bridge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>San Pablo Bay</edomv>
+            <edomvd>San Pablo Bay</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Delta</edomv>
+            <edomvd>Sacramento-San Joaquin Delta</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central SF Bay</edomv>
+            <edomvd>Central San Francisco Bay, the bay region south of San Pablo Bay and north of the San Francisco-Oakland Bay Bridge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Suisun Bay</edomv>
+            <edomvd>Suisun Bay</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Survey date</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Survey date recorded as MM/DD/YYYY</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>Latitude in UTM Zone 10N</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4143305.437</rdommin>
+            <rdommax>4232829.749</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>Longitude in UTM Zone 10N</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>536206.5397</rdommin>
+            <rdommax>616719.844</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.0001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Elevation</attrlabl>
+        <attrdef>Vertical position in NAVD88</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.557</rdommin>
+            <rdommax>3.95</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MHHW</attrlabl>
+        <attrdef>Mean higher high water</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.81</rdommin>
+            <rdommax>2.25</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MTL</attrlabl>
+        <attrdef>Mean tide level</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.99</rdommin>
+            <rdommax>1.4</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Zstar</attrlabl>
+        <attrdef>A unitless measure of elevation relative to the local tidal frame which accounts for variation in tidal range and allows for direct comparison across sites (z* = [elevation in NAVD88 − MTL]/[MHHW – MTL])</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-2.032</rdommin>
+            <rdommax>3.284</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Channel Salinity</attrlabl>
+        <attrdef>Annual salinity value from the nearest channel with a locally deployed water sensor or from a San Francisco Bay National Estuarine Research Reserve (NERR) site</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.81</rdommin>
+            <rdommax>20.82</rdommax>
+            <attrunit>PSU</attrunit>
+            <attrmres>0.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Channel Distance</attrlabl>
+        <attrdef>Distance between each plot and nearest channel, river, or bay</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>1247.557</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>0.001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total Cover</attrlabl>
+        <attrdef>Combined value of all species' and litter percent cover within the sample plot</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>253.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bare Ground Cover</attrlabl>
+        <attrdef>Percent cover of bare ground visible from above the plot</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Litter Cover</attrlabl>
+        <attrdef>Percent cover of plant litter visible from above the plot</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Acer negundo Cover</attrlabl>
+        <attrdef>Percent cover of Acer negundo</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>20</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Acer negundo Height</attrlabl>
+        <attrdef>Average height of Acer negundo</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Achillea millefolium Cover</attrlabl>
+        <attrdef>Percent cover of Achillea millefolium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Achillea millefolium Height</attrlabl>
+        <attrdef>Average height of Achillea millefolium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>10</rdommin>
+            <rdommax>95</rdommax>
+            <attrunit>centimeter</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Agrostis stolonifera Cover</attrlabl>
+        <attrdef>Percent cover of Agrostis stolonifera</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>95</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Agrostis stolonifera Height</attrlabl>
+        <attrdef>Average height of Agrostis stolonifera</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Anemopsis californica Cover</attrlabl>
+        <attrdef>Percent cover of Anemopsis californica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Anemopsis californica Height</attrlabl>
+        <attrdef>Average height of Anemopsis californica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Apium graveolens Cover</attrlabl>
+        <attrdef>Percent cover of Apium graveolens</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Apium graveolens Height</attrlabl>
+        <attrdef>Average height of Apium graveolens</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>22</rdommin>
+            <rdommax>22</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Artemisia douglasiana Cover</attrlabl>
+        <attrdef>Percent cover of Artemisia douglasiana</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Artemisia douglasiana Height</attrlabl>
+        <attrdef>Average height of Artemisia douglasiana</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Atriplex prostrata Cover</attrlabl>
+        <attrdef>Percent cover of Atriplex prostrata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>99.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Atriplex prostrata Height</attrlabl>
+        <attrdef>Average height of Atriplex prostrata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>5</rdommin>
+            <rdommax>130</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Atriplex semibaccata Cover</attrlabl>
+        <attrdef>Percent cover of Atriplex semibaccata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Atriplex semibaccata Height</attrlabl>
+        <attrdef>Average height of Atriplex semibaccata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>32</rdommin>
+            <rdommax>34</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Azolla filiculoides Cover</attrlabl>
+        <attrdef>Percent cover of Azolla filiculoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Azolla filiculoides Height</attrlabl>
+        <attrdef>Average height of Azolla filiculoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Baccharis pilularis Cover</attrlabl>
+        <attrdef>Percent cover of Baccharis pilularis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Baccharis pilularis Height</attrlabl>
+        <attrdef>Average height of Baccharis pilularis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>20</rdommin>
+            <rdommax>150</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Baccharis salicifolia Cover</attrlabl>
+        <attrdef>Percent cover of Baccharis salicifolia</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>75</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Baccharis salicifolia Height</attrlabl>
+        <attrdef>Average height of Baccharis salicifolia</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>65</rdommin>
+            <rdommax>85</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bistorta bistortoides Cover</attrlabl>
+        <attrdef>Percent cover of Bistorta bistortoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>65</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bistorta bistortoides Height</attrlabl>
+        <attrdef>Average height of Bistorta bistortoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bolboschoenus maritimus Cover</attrlabl>
+        <attrdef>Percent cover of Bolboschoenus maritimus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>99.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bolboschoenus maritimus Height</attrlabl>
+        <attrdef>Average height of Bolboschoenus maritimus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>15</rdommin>
+            <rdommax>280</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Brassica nigra Cover</attrlabl>
+        <attrdef>Percent cover of Brassica nigra</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Brassica nigra Height</attrlabl>
+        <attrdef>Average height of Brassica nigra</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>6</rdommin>
+            <rdommax>191</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bromus hordeaceus Cover</attrlabl>
+        <attrdef>Percent cover of Bromus hordeaceus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bromus hordeaceus Height</attrlabl>
+        <attrdef>Average height of Bromus hordeaceus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bromus maritimus Cover</attrlabl>
+        <attrdef>Percent cover of Bromus maritimus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>85</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bromus maritimus Height</attrlabl>
+        <attrdef>Average height of Bromus maritimus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>34</rdommin>
+            <rdommax>60</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Calystegia sepium Cover</attrlabl>
+        <attrdef>Percent cover of Calystegia sepium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>20.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Calystegia sepium Height</attrlabl>
+        <attrdef>Average height of Calystegia sepium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Carduus pycnocephalus Cover</attrlabl>
+        <attrdef>Percent cover of Carduus pycnocephalus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>50</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Carduus pycnocephalus Height</attrlabl>
+        <attrdef>Average height of Carduus pycnocephalus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>13</rdommin>
+            <rdommax>78</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Carex nebrascensis Cover</attrlabl>
+        <attrdef>Percent cover of Carex nebrascensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Carex nebrascensis Height</attrlabl>
+        <attrdef>Average height of Carex nebrascensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cephalanthus occidentalis Cover</attrlabl>
+        <attrdef>Percent cover of Cephalanthus occidentalis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cephalanthus occidentalis Height</attrlabl>
+        <attrdef>Average height of Cephalanthus occidentalis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ceratophyllum demersum Cover</attrlabl>
+        <attrdef>Percent cover of Ceratophyllum demersum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ceratophyllum demersum Height</attrlabl>
+        <attrdef>AVerage height of Ceratophyllum demersum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conyza canadensis Cover</attrlabl>
+        <attrdef>Percent cover of Conyza canadensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conyza canadensis Height</attrlabl>
+        <attrdef>Average height of Conyza canadensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cornus sericea Cover</attrlabl>
+        <attrdef>Percent cover of Cornus sericea</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>90</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cornus sericea Height</attrlabl>
+        <attrdef>Average height of Cornus sericea</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cotula coronopifolia Cover</attrlabl>
+        <attrdef>Percent cover of Cotula coronopifolia</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>60</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cotula coronopifolia Height</attrlabl>
+        <attrdef>Average height of Cotula coronopifolia</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>25</rdommin>
+            <rdommax>25</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cressa truxillensis Cover</attrlabl>
+        <attrdef>Percent cover of Cressa truxillensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cressa truxillensis Height</attrlabl>
+        <attrdef>Average height of Cressa truxillensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cuscuta salina Cover</attrlabl>
+        <attrdef>Percent cover of Cuscuta salina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>99.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cuscuta salina Height</attrlabl>
+        <attrdef>Average height of Cuscuta salina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>9</rdommin>
+            <rdommax>37</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Distichlis spicata Cover</attrlabl>
+        <attrdef>Percent cover of Distichlis spicata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Distichlis spicata Height</attrlabl>
+        <attrdef>Average height of Distichlis spicata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3</rdommin>
+            <rdommax>49</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eichhornia crassipes Cover</attrlabl>
+        <attrdef>Percent cover of Eichhornia crassipes</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eichhornia crassipes Height</attrlabl>
+        <attrdef>Average height of Eichhornia crassipes</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eleocharis parvula Cover</attrlabl>
+        <attrdef>Percent cover of Eleocharis parvula</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eleocharis parvula Height</attrlabl>
+        <attrdef>Average height of Eleocharis parvula</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Epilobium ciliatum Cover</attrlabl>
+        <attrdef>Percent cover of Epilobium ciliatum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>25.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Epilobium ciliatum Height</attrlabl>
+        <attrdef>Average height of Epilobium ciliatum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Euthamia occidentalis Cover</attrlabl>
+        <attrdef>Percent cover of Euthamia occidentalis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Euthamia occidentalis Height</attrlabl>
+        <attrdef>Average height of Euthamia occidentalis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Festuca microstachys Cover</attrlabl>
+        <attrdef>Percent cover of Festuca microstachys</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>50</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Festuca microstachys Height</attrlabl>
+        <attrdef>Average height of Festuca microstachys</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>9</rdommin>
+            <rdommax>50</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Festuca perennis Cover</attrlabl>
+        <attrdef>Percent cover of Festuca perennis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>0.2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Festuca perennis Height</attrlabl>
+        <attrdef>Average height of Festuca perennis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Foeniculum vulgare Cover</attrlabl>
+        <attrdef>Percent cover of Foeniculum vulgare</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Foeniculum vulgare Height</attrlabl>
+        <attrdef>Average height of Foeniculum vulgare</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>33</rdommin>
+            <rdommax>33</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Frankenia salina Cover</attrlabl>
+        <attrdef>Percent cover of Frankenia salina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Frankenia salina Height</attrlabl>
+        <attrdef>Average height of Frankenia salina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>54</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Galium trifidum Cover</attrlabl>
+        <attrdef>Percent cover of Galium trifidum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>20</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Galium trifidum Height</attrlabl>
+        <attrdef>Average height of Galium trifidum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>grass Cover</attrlabl>
+        <attrdef>Percent cover of unknown grass species</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>grass Height</attrlabl>
+        <attrdef>Average height of unknown grass species</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Grindelia stricta Cover</attrlabl>
+        <attrdef>Percent cover of Grindelia stricta</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Grindelia stricta Height</attrlabl>
+        <attrdef>Average height of Grindelia stricta</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>13</rdommin>
+            <rdommax>135</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hordeum brachyantherum Cover</attrlabl>
+        <attrdef>Percent cover of Hordeum brachyantherum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hordeum brachyantherum Height</attrlabl>
+        <attrdef>Average cover of Hordeum brachyantherum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hordeum depressum Cover</attrlabl>
+        <attrdef>Percent cover of Hordeum depressum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>95</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hordeum depressum Height</attrlabl>
+        <attrdef>Average height of Hordeum depressum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>14</rdommin>
+            <rdommax>43</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Iris pseudacorus Cover</attrlabl>
+        <attrdef>Percent cover of Iris pseudacorus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Iris pseudacorus Height</attrlabl>
+        <attrdef>Average height of Iris pseudacorus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Isolepis cernua Cover</attrlabl>
+        <attrdef>Percent cover of Isolepis cernua</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Isolepis cernua Height</attrlabl>
+        <attrdef>Average height of Isolepis cernua</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jaumea carnosa Cover</attrlabl>
+        <attrdef>Percent cover of Jaumea carnosa</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>107</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jaumea carnosa Height</attrlabl>
+        <attrdef>Average height of Jaumea carnosa</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>49</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Juncus balticus Cover</attrlabl>
+        <attrdef>Percent cover of Juncus balticus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Juncus balticus Height</attrlabl>
+        <attrdef>Average height of Juncus balticus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>20</rdommin>
+            <rdommax>84</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Juncus effusus Cover</attrlabl>
+        <attrdef>Percent cover of Juncus effusus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Juncus effusus Height</attrlabl>
+        <attrdef>Average height of Juncus effusus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lathyrus jepsonii Cover</attrlabl>
+        <attrdef>Percent cover of Lathyrus jepsonii</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lathyrus jepsonii Height</attrlabl>
+        <attrdef>Average height of Lathyrus jepsonii</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lepidium latifolium Cover</attrlabl>
+        <attrdef>Percent cover of Lepidium latifolium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lepidium latifolium Height</attrlabl>
+        <attrdef>Average height of Lepidium latifolium</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>10</rdommin>
+            <rdommax>140</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Limonium californicum Cover</attrlabl>
+        <attrdef>Percent cover of Limonium californicum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Limonium californicum Height</attrlabl>
+        <attrdef>Average height of Limonium californicum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>12</rdommin>
+            <rdommax>82</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lotus corniculatus Cover</attrlabl>
+        <attrdef>Percent cover of Lotus corniculatus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lotus corniculatus Height</attrlabl>
+        <attrdef>Average height of Lotus corniculatus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ludwigia peploides Cover</attrlabl>
+        <attrdef>Percent cover of Ludwigia peploides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>97</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ludwigia peploides Height</attrlabl>
+        <attrdef>Average height of Ludwigia peploides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lycopus asper Cover</attrlabl>
+        <attrdef>Percent cover of Lycopus asper</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lycopus asper Height</attrlabl>
+        <attrdef>Average height of Lycopus asper</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lysimachia maritima Cover</attrlabl>
+        <attrdef>Percent cover of Lysimachia maritima</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lysimachia maritima Height</attrlabl>
+        <attrdef>Average height of Lysimachia maritima</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Melilotus indicus Cover</attrlabl>
+        <attrdef>Percent cover of Melilotus indicus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>30</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Melilotus indicus Height</attrlabl>
+        <attrdef>Average height of Melilotus indicus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>6</rdommin>
+            <rdommax>22</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mesembryanthemum nodiflorum Cover</attrlabl>
+        <attrdef>Percent cover of Mesembryanthemum nodiflorum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mesembryanthemum nodiflorum Height</attrlabl>
+        <attrdef>Average height of Mesembryanthemum nodiflorum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>3</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mimulus guttatus Cover</attrlabl>
+        <attrdef>Percent cover of Mimulus guttatus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mimulus guttatus Height</attrlabl>
+        <attrdef>Average height of Mimulus guttatus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Myriophyllum aquaticum Cover</attrlabl>
+        <attrdef>Percent cover of Myriophyllum aquaticum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Myriophyllum aquaticum Height</attrlabl>
+        <attrdef>Average height of Myriophyllum aquaticum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Paspalum distichum Cover</attrlabl>
+        <attrdef>Percent cover of Paspalum distichum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Paspalum distichum Height</attrlabl>
+        <attrdef>Average height of Paspalum distichum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Phoenix canariensis Cover</attrlabl>
+        <attrdef>Percent cover of Phoenix canariensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Phoenix canariensis Height</attrlabl>
+        <attrdef>Average height of Phoenix canariensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Phragmites australis Cover</attrlabl>
+        <attrdef>Percent cover of Phragmites australis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Phragmites australis Height</attrlabl>
+        <attrdef>Average height of Phragmites australis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pluchea odorata Cover</attrlabl>
+        <attrdef>Percent cover of Pluchea odorata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>20.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pluchea odorata Height</attrlabl>
+        <attrdef>Average height of Pluchea odorata</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polygonum aviculare Cover</attrlabl>
+        <attrdef>Percent cover of Polygonum aviculare</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polygonum aviculare Height</attrlabl>
+        <attrdef>Average height of Polygonum aviculare</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polygonum hydropiperoides Cover</attrlabl>
+        <attrdef>Percent cover of Polygonum hydropiperoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>30</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polygonum hydropiperoides Height</attrlabl>
+        <attrdef>Average height of Polygonum hydropiperoides</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polypogon monspeliensis Cover</attrlabl>
+        <attrdef>Percent cover of Polypogon monspeliensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>4.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Polypogon monspeliensis Height</attrlabl>
+        <attrdef>Average height of Polypogon monspeliensis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Potentilla anserina Cover</attrlabl>
+        <attrdef>Percent cover of Potentilla anserina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>60</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Potentilla anserina Height</attrlabl>
+        <attrdef>Average height of Potentilla anserina</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>11</rdommin>
+            <rdommax>42</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rosa californica Cover</attrlabl>
+        <attrdef>Percent cover of Rosa californica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rosa californica Height</attrlabl>
+        <attrdef>Average height of Rosa californica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rubus armeniacus Cover</attrlabl>
+        <attrdef>Percent cover of Rubus armeniacus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rubus armeniacus Height</attrlabl>
+        <attrdef>Average height of Rubus armeniacus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rubus leucodermis Cover</attrlabl>
+        <attrdef>Percent cover of Rubus leucodermis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rubus leucodermis Height</attrlabl>
+        <attrdef>Average height of Rubus leucodermis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salicornia pacifica Cover</attrlabl>
+        <attrdef>Percent cover of Salicornia pacifica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>125.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salicornia pacifica Height</attrlabl>
+        <attrdef>Average height of Salicornia pacifica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>280</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salix exigua Cover</attrlabl>
+        <attrdef>Percent cover of Salix exigua</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>65</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salix exigua Height</attrlabl>
+        <attrdef>Average height of Salix exigua</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salix lasiolepis Cover</attrlabl>
+        <attrdef>Percent cover of Salix lasiolepis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Salix lasiolepis Height</attrlabl>
+        <attrdef>Average height of Salix lasiolepis</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Schoenoplectus acutus or californicus Cover</attrlabl>
+        <attrdef>Percent cover of Schoenoplectus acutus or californicus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>105.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Schoenoplectus acutus or californicus Height</attrlabl>
+        <attrdef>Average height of Schoenoplectus acutus or californicus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>30</rdommin>
+            <rdommax>260</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Schoenoplectus americanus Cover</attrlabl>
+        <attrdef>Percent cover of Schoenoplectus americanus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Schoenoplectus americanus Height</attrlabl>
+        <attrdef>Average height of Schoenoplectus americanus</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>5</rdommin>
+            <rdommax>162</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sesbania punicea Cover</attrlabl>
+        <attrdef>Percent cover of Sesbania punicea</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>30</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sesbania punicea Height</attrlabl>
+        <attrdef>Average height of Sesbania punicea</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Solanum americanum Cover</attrlabl>
+        <attrdef>Percent cover of Solanum americanum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>60</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Solanum americanum Height</attrlabl>
+        <attrdef>Average height of Solanum americanum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sparganium eurycarpum Cover</attrlabl>
+        <attrdef>Percent cover of Sparganium eurycarpum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sparganium eurycarpum Height</attrlabl>
+        <attrdef>Average height of Sparganium eurycarpum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Spartina foliosa Cover</attrlabl>
+        <attrdef>Percent cover of Spartina foliosa</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>115.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Spartina foliosa Height</attrlabl>
+        <attrdef>Average height of Spartina foliosa</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>8</rdommin>
+            <rdommax>138</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Symphyotrichum lentum Cover</attrlabl>
+        <attrdef>Percent cover of Symphyotrichum lentum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Symphyotrichum lentum Height</attrlabl>
+        <attrdef>Average height of Symphyotrichum lentum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trifolium macraei Cover</attrlabl>
+        <attrdef>Percent cover of Trifolium macraei</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trifolium macraei Height</attrlabl>
+        <attrdef>Average height of Trifolium macraei</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>28</rdommin>
+            <rdommax>136</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Typha sp Cover</attrlabl>
+        <attrdef>Percent cover of Typha species</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>99.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Typha sp Height</attrlabl>
+        <attrdef>Average height of Typha species</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>52</rdommin>
+            <rdommax>142</rdommax>
+            <attrunit>centimeters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Urtica dioica Cover</attrlabl>
+        <attrdef>Percent cover of Urtica dioica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Urtica dioica Height</attrlabl>
+        <attrdef>Average height of Urtica dioica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Zantedeschia aethiopica Cover</attrlabl>
+        <attrdef>Percent cover of Zantedeschia aethiopica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Zantedeschia aethiopica Height</attrlabl>
+        <attrdef>Average height of Zantedeschia aethiopica</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P94F802H</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20240416</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Lyndsay L. Rankin</cntper>
+          <cntorg>U.S. Geological Survey, Western Ecological Research Center</cntorg>
+        </cntperp>
+        <cntpos>Bioloigst</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>One Shields Ave</address>
+          <city>Davis</city>
+          <state>CA</state>
+          <postal>95616</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>707-567-0115</cntvoice>
+        <cntemail>lrankin@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

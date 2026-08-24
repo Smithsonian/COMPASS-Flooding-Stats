@@ -1,0 +1,33 @@
+species_code,family,genus,species,authority
+AMCA,NA,Amaranthus,cannabinus,(L.) Sauer
+ATPA,NA,Atriplex,patula,L.
+BAHA,NA,Baccharis,halimifolia,L.
+DISP,NA,Distichlis,spicata,(L.) Greene
+HIMO,NA,Hibiscus,moscheutos,L.
+HYUM,NA,Hydrocotyle,umbellata,L.
+IVFR,NA,Iva,frutescens,L.
+JUCO,NA,Juniper,communis,L.
+JUVI,NA,﻿Juniperus,virginiana,NA
+KOVI,NA,Kosteletzkya ,virginica,(L.) C. Presl ex A. Gray 
+LICA,NA,Limonium,carolinianum,(Walter) Britton 
+MOCE,NA,Morella,cerifera,(L.) Small
+PADI,NA,Panicum,dichotomoflorum,Michx.
+PAVI,NA,Panicum,virgatum,NA
+PEVI,NA,Peltandra,virginica,(L.) Schott 
+PHAU,NA,Phragmites,australis,(Cav.) Trin. ex Steud. 
+PLOD,NA,Pluchea,odorata,(L.) Cass.
+POHY,NA,Polygonum,hydropiperoides,Michx.
+RHRA,NA,Rhynchospora,rariflora,NA
+SALA,NA,Sagittaria,latifolia,Willd.
+SAVAP,NA,Samolus,valerandi,ssp. parviflorus
+SCAM,NA,Schoenoplectus,americanus,(Pers.) Volkart ex Schinz & R. Keller 
+SCRO,NA,Schoenoplectus,robustus,(Pursh) M.T. Strong
+SMRO,NA,Smilax,rotundifolia,L.
+SOSE,NA,Solidago,sempervirens,L.
+SPAL,NA,Spartina,alterniflora,Loisel.
+SPCY,NA,Spartina,cynosuroides,(L.) Roth.
+SPPA,NA,Spartina,patens,(Aiton) Muhl.
+SYLA,NA,Symphyotrichum,lanceolatum,(Willd.) G.L. Nesom 
+SYTE,NA,Symphyotrichum,tenuifolium,(L.) G.L. Nesom 
+TYAN,NA,Typha,angustifolia,L.
+UNKGRASS,Poaceae,NA,NA,NA

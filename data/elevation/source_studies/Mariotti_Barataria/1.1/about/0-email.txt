@@ -1,0 +1,120 @@
+from:	Giulio Mariotti <giulio.mariotti@gmail.com>
+to:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+date:	Jun 4, 2024, 12:00 PM
+subject:	Re: Data submission for NCEI
+
+here it is
+I only modified the sheet named "Soil"
+
+Every missing value means that the measurement was not taken
+-------------------------------------------------------------------------------
+from:	Giulio Mariotti <giulio.mariotti@gmail.com>
+to:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+date:	Jun 4, 2024, 10:13 AM
+subject:	Re: Data submission for NCEI
+
+Courtney
+The blank cells are the same as the 0 value
+(to be more precise, the zero values should probably be substituted with a blank cell or a NaN value). Do you want me to send a revised file with this change?
+-------------------------------------------------------------------------------
+from:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+to:	Giulio Mariotti <giulio.mariotti@gmail.com>
+date:	Jun 4, 2024, 8:45 AM
+subject:	Re: Data submission for NCEI
+
+Thank you Giulio!
+
+I have one more question: in the tab for Soil and Topography there are a few blank cells under LOI and the bulk densities. Can you give me an explanation for those that I can add to the readme? I assumed for topography it was okay because the field notes have descriptions for each site and that in the soils tab there just wasn't a measurement. But the second reviewer said that we should document that. 
+
+thank you! Almost wrapped up!
+
+-Courtney
+-------------------------------------------------------------------------------
+from:	Giulio Mariotti <giulio.mariotti@gmail.com>
+to:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+date:	May 27, 2024, 4:25 PM
+subject:	Re: Data submission for NCEI
+
+2. Under the Soil tab you have under notes "void" or "void?"for a few samples. Can I also have a brief description so that I can add that to the metadata so future users know what to do with that particular data?
+
+The whole column name "notes" can be removed. Those were internal comments during the sample analysis.
+The only thing to add in the metadate is "a value for LOI and bulk density equal to zero means that the measurement was not taken"
+-------------------------------------------------------------------------------
+from:	Giulio Mariotti <giulio.mariotti@gmail.com>
+to:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+date:	May 27, 2024, 3:30 PM
+subject:	Re: Data submission for NCEI
+
+On Tue, May 21, 2024 at 9:42 AM Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov> wrote:
+Hi Giulio,
+
+My sincerest apologies for not replying sooner. I have been absolutely inundated with taking care of some backlogs from some recent changes we've had in staffing and this email slipped through the cracks.
+
+I see you submitted a dataset and I've assigned it to myself to work on and it is my top priority now. The dataset from my first glance looks really nice and clean, so thank you for submitting. 
+
+I just have a few questions before finishing up though:
+
+1. under the Raw_RTK tab there are some missing values such as site 6 interior replicate 1 but you have corresponding soil and kPa samples for that site. Would you give me a brief explanation that I can add in the supplementary section or to the ReadMe tab you've created?
+
+When the elevation value is missing it means that the RTK instrument did not work. In that case, a standard GPS was used to measure the location coordinates. 
+
+ 
+2. Under the Soil tab you have under notes "void" or "void?"for a few samples. Can I also have a brief description so that I can add that to the metadata so future users know what to do with that particular data?
+
+I asked the student. I will let you know soon
+ 
+3. I see you left out the fetch tab in the original email from the submission. Did you take it out for a specific reason? If you'd like to include it we would take it, we would just need you to provide us with a new xlsx file or let me know if the one in this email is the preferred file to archive. 
+
+I want to remove it from the database.
+The fetch calculation was a somehow arbitrary, and should not be considered primary field data.
+Please remove any mention of it
+ 
+4. are the CRMS sites under the "info" tab related to this website (https://www.lacoast.gov/crms/#)? If so I will add the website as a cross reference to the dataset. Do I have your permission to add to the READ_ME tab the long name of CRMS in column C?
+yes
+ 
+5. You'd like a DOI for this dataset, correct?
+yes 
+If so, sometimes people submit a browse graphic for the landing page if you'd like to submit one (see attached). Otherwise we'll just use the map we generate of the station locations. 
+
+Would this photo from the field adequate
+If so, let me know. I will need to ask permission from my the people in the photo to share it
+6. I just need your permission before changing the title of a submission. But I would like to change the date to a different format. 
+So the new title would be: "Survey of marsh soil and vegetation properties in Barataria Basin (Louisiana, USA) from 2018-05-01 to 2023-07-27"
+ok 
+-------------------------------------------------------------------------------
+from:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+to:	Giulio Mariotti <giulio.mariotti@gmail.com>
+date:	May 21, 2024, 9:42 AM
+subject:	Re: Data submission for NCEI
+
+Hi Giulio,
+
+My sincerest apologies for not replying sooner. I have been absolutely inundated with taking care of some backlogs from some recent changes we've had in staffing and this email slipped through the cracks.
+
+I see you submitted a dataset and I've assigned it to myself to work on and it is my top priority now. The dataset from my first glance looks really nice and clean, so thank you for submitting. 
+
+I just have a few questions before finishing up though:
+
+1. under the Raw_RTK tab there are some missing values such as site 6 interior replicate 1 but you have corresponding soil and kPa samples for that site. Would you give me a brief explanation that I can add in the supplementary section or to the ReadMe tab you've created?
+2. Under the Soil tab you have under notes "void" or "void?"for a few samples. Can I also have a brief description so that I can add that to the metadata so future users know what to do with that particular data?
+3. I see you left out the fetch tab in the original email from the submission. Did you take it out for a specific reason? If you'd like to include it we would take it, we would just need you to provide us with a new xlsx file or let me know if the one in this email is the preferred file to archive. 
+4. are the CRMS sites under the "info" tab related to this website (https://www.lacoast.gov/crms/#)? If so I will add the website as a cross reference to the dataset. Do I have your permission to add to the READ_ME tab the long name of CRMS in column C?
+5. You'd like a DOI for this dataset, correct? If so, sometimes people submit a browse graphic for the landing page if you'd like to submit one (see attached). Otherwise we'll just use the map we generate of the station locations. 
+6. I just need your permission before changing the title of a submission. But I would like to change the date to a different format. So the new title would be: "Survey of marsh soil and vegetation properties in Barataria Basin (Louisiana, USA) from 2018-05-01 to 2023-07-27"
+
+I'll go ahead and start working on the metadata and getting the landing page set up, please let me know if you have any questions. I really appreciate your patience on this dataset and hopefully we'll finish this up soon!
+
+thank you,
+Courtney
+-------------------------------------------------------------------------------
+from:	Giulio Mariotti <giulio.mariotti@gmail.com>
+to:	Courtney Bouchard - NOAA Federal <courtney.bouchard@noaa.gov>
+date:	Apr 18, 2024, 9:22 AM
+subject:	Re: Data submission for NCEI
+
+Courtney,
+This is the master file.
+
+My main question is whether to upload all the information (including the field notes, fetch calculation, etc.)
+
+Also, any other general information to add?

@@ -1,0 +1,17 @@
+instrument_id,timestamp,parameter,code_type,code
+USA-MDA_water-level_SERC-dock,2020-07-22 11:48:00,barometric_pressure_mbar_avg,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 11:48:00,level_m_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 11:48:00,status_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 11:48:00,temperature_cbs_c,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 12:00:00,barometric_pressure_mbar_avg,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 12:00:00,level_m_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 12:00:00,status_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 12:00:00,temperature_cbs_c,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:00:00,barometric_pressure_mbar_avg,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:00:00,level_m_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:00:00,status_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:00:00,temperature_cbs_c,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:06:00,barometric_pressure_mbar_avg,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:06:00,level_m_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:06:00,status_cbs,main,GQR
+USA-MDA_water-level_SERC-dock,2020-07-22 13:06:00,temperature_cbs_c,main,GQR

@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="aa059a97-0abf-4937-a04e-00344f29d113" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <dataset>
+    <title>Fluxes of carbon dioxide, methane, and nitrous oxide and associated environmental data from estuarine wetlands in the Pacific Northwest, USA</title>
+    <creator>
+      <individualName>
+        <givenName>Christopher</givenName>
+        <surName>Janousek</surName>
+      </individualName>
+      <organizationName>Oregon State University, Corvallis, OR</organizationName>
+      <electronicMailAddress>christopher.janousek@oregonstate.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Trevor</givenName>
+        <surName>Williams</surName>
+      </individualName>
+      <organizationName>Oregon State University, Corvallis, OR</organizationName>
+      <electronicMailAddress>trevor.williams@oregonstate.edu</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Maggie</givenName>
+        <surName>McKeon</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Scott</givenName>
+        <surName>Bridgeham</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Craig</givenName>
+        <surName>Cornu</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Heida</givenName>
+        <surName>Diefenderfer</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Amy</givenName>
+        <surName>Borde</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Matthew</givenName>
+        <surName>Norwood</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Jude</givenName>
+        <surName>Apple</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Laura</givenName>
+        <surName>Brophy</surName>
+      </individualName>
+      <role>Affiliated researcher</role>
+    </associatedParty>
+    <pubDate>2025</pubDate>
+    <abstract>In this dataset we provide fluxes of carbon dioxide, methane, and nitrous oxide as well as associated environmental data for 34 sites from five types of tidal and non-tidal wetlands in five estuaries in the Pacific Northwest. Wetland types included least-disturbed emergent marshes, restored marshes, least-disturbed tidal swamps, and wet and dry non-tidal agricultural areas, most of which were former tidal wetlands. Sampled estuaries were Coos Bay, Columbia River Estuary, Grays Harbor Estuary, Skagit River Estuary, and Padilla Bay. To measure greenhouse gas fluxes, we conducted light and dark flux measurements in six replicate chambers per site about eight times over the course of a year (spring 2021-spring 2022). At the time of flux measurements, we measured soil and air temperature and plant species composition and height inside chambers (to develop a biomass index), and groundwater salinity, pH and water level below the wetland surface in a small groundwater well for each pair of chambers. We measured wetland surface elevation at each flux chamber with RTK-GNSS or by leveling. Additionally, at a single station per site near the chambers, we obtained timeseries of soil temperature, groundwater level, groundwater temperature, and groundwater salinity. The data in this study underlie analyses of methane and nitrous oxide fluxes by Williams et al. (2024) and carbon dioxide fluxes (manuscript in preparation) and can also be used in support of other modeling and blue carbon data applications.</abstract>
+    <keywordSet>
+      <keyword>methane</keyword>
+      <keyword>greenhouse gases</keyword>
+      <keyword>synthesis</keyword>
+      <keyword>tidal wetlands</keyword>
+      <keyword>flux chamber</keyword>
+      <keyword>open data</keyword>
+      <keyword>United States</keyword>
+    </keywordSet>
+    <intellectualRights>This dataset is listed under a Creative Commons BY 4.0 and can be used with attribution. https://creativecommons.org/licenses/by/4.0/</intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>ALD-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.6833402312</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.6831597308</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.31458910399</northBoundingCoordinate>
+          <southBoundingCoordinate>46.31431366331</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>BIS-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.47323808249</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.47292804341</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.45399943393</northBoundingCoordinate>
+          <southBoundingCoordinate>48.45379682317</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>DAN-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.32367109863</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.32329791507</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.28333482579</northBoundingCoordinate>
+          <southBoundingCoordinate>43.28327691631</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>FIR-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.4150656464</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.4149025628</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.33342988366</northBoundingCoordinate>
+          <southBoundingCoordinate>48.33317338894</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>FRE-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.32060562726</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.32019357774</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.27493191865</northBoundingCoordinate>
+          <southBoundingCoordinate>43.27486061645</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>FRR-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.41098084065</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.41026057005</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.3352719996</northBoundingCoordinate>
+          <southBoundingCoordinate>48.3351582432</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>FSM-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.31923176359</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.31883919091</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.27240129592</northBoundingCoordinate>
+          <southBoundingCoordinate>43.27226939408</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRD-N-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.98842030446</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.98808150534</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.89867311298</northBoundingCoordinate>
+          <southBoundingCoordinate>46.89860867802</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRM-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.98752338127</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.98717771203</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.89166962709</northBoundingCoordinate>
+          <southBoundingCoordinate>46.89150381001</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRO-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.9647961172</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.9644638408</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.88354170502</northBoundingCoordinate>
+          <southBoundingCoordinate>46.88334648038</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRP-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.99245609413</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.99243231577</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.90093146574</northBoundingCoordinate>
+          <southBoundingCoordinate>46.90068246886</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRR-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.99103453546</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.99057695314</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.90517175438</northBoundingCoordinate>
+          <southBoundingCoordinate>46.90505287302</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRS-TS</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.96581</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.96569</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.883011</northBoundingCoordinate>
+          <southBoundingCoordinate>46.882879</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>JRW-S-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.98859555123</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.98823370767</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.89342343519</northBoundingCoordinate>
+          <southBoundingCoordinate>46.89338897251</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>KAN-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.65411959557</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.65380149633</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.32622599477</northBoundingCoordinate>
+          <southBoundingCoordinate>46.32604150713</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>KZH-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.31930806346</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.31881200914</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.28059756168</northBoundingCoordinate>
+          <southBoundingCoordinate>43.28057477752</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>KZL-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.3199061093</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.3195610685</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.28180949372</northBoundingCoordinate>
+          <southBoundingCoordinate>43.28146365108</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MET-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.32845669307</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.32825514863</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.3354528435</northBoundingCoordinate>
+          <southBoundingCoordinate>43.3352008171</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MIL-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.18539314307</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.18522001463</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.36828467608</northBoundingCoordinate>
+          <southBoundingCoordinate>43.36802397632</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MIL-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.18509065884</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.18501236916</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.36745863278</northBoundingCoordinate>
+          <southBoundingCoordinate>43.36719121902</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MIO-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.36010987597</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.35969077513</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.30152664121</northBoundingCoordinate>
+          <southBoundingCoordinate>48.30136126549</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MIR-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.34863131048</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.34831335152</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.31733434382</northBoundingCoordinate>
+          <southBoundingCoordinate>48.31729670678</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MIS-TS</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.34742</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.34718</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.31741</northBoundingCoordinate>
+          <southBoundingCoordinate>48.31729</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>MLC-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.86171227818</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.86128413762</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.15770817109</northBoundingCoordinate>
+          <southBoundingCoordinate>46.15764055961</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>PBD-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.46975854694</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.46932759286</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.46372323772</northBoundingCoordinate>
+          <southBoundingCoordinate>48.46362465028</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>PBW-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.46971015893</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.46952973977</eastBoundingCoordinate>
+          <northBoundingCoordinate>48.45716897564</northBoundingCoordinate>
+          <southBoundingCoordinate>48.45690734996</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>SAU-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.18422964031</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.18384957019</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.368381178</northBoundingCoordinate>
+          <southBoundingCoordinate>43.3683688876</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>SCS-RM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.87936106332</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.87925705548</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.12929422254</northBoundingCoordinate>
+          <southBoundingCoordinate>46.12898514286</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>SEC-EM</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.69240069661</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.69230108209</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.30516359189</northBoundingCoordinate>
+          <southBoundingCoordinate>46.30478429601</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>SEC-TS</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.69024</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.68976</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.30791</northBoundingCoordinate>
+          <southBoundingCoordinate>46.30779</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>SES-TS</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.66027411519</westBoundingCoordinate>
+          <eastBoundingCoordinate>-123.65964780771</eastBoundingCoordinate>
+          <northBoundingCoordinate>46.32672</northBoundingCoordinate>
+          <southBoundingCoordinate>46.32648</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>WAS-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.32410438778</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.32387038922</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.27189186954</northBoundingCoordinate>
+          <southBoundingCoordinate>43.27164501226</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>WAS2-PA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-124.32180430342</westBoundingCoordinate>
+          <eastBoundingCoordinate>-124.32170057038</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.27088155398</northBoundingCoordinate>
+          <southBoundingCoordinate>43.27060076502</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2020</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2022</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Carex obnupta</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Phalaris arundinacea</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Unattached plant matter</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Agrostis stolonifera</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Carex lyngbyei</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Triglochin maritima</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Cuscuta pacifica</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Juncus balticus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Grindelia stricta</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Potentilla anserina</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Angelica lucida</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Symphyotrichum subspicatum</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Veronica americana</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Rumex occidentalis</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Bare ground</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Scirpus microcarpus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Sagittaria latifolia</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Typha angustifolia</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Atriplex prostrata</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Distichlis spicata</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Jaumea carnosa</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Salicornia pacifica</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Eleocharis palustris</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Schoenoplectus tabernaemontanii</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Holcus lanatus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Lotus corniculatus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Oenanthe sarmentosa</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Unidentified moss(es)</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Unidentified fern(s)</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Lysichiton americanus</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Equisetum palustre</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Festuca arundinacea</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Ranunculus repens</taxonRankValue>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Species</taxonRankName>
+          <taxonRankValue>Anthoxanthum odoratum</taxonRankValue>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <contact>
+      <individualName>
+        <givenName>Christopher</givenName>
+        <surName>Janousek</surName>
+      </individualName>
+      <electronicMailAddress>christopher.janousek@oregonstate.edu</electronicMailAddress>
+    </contact>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_site_level</entityName>
+      <entityDescription>site_level information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_site_level.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_elevation</attributeName>
+          <attributeDefinition>Site elevation relative to defined datum.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_elevation_datum</attributeName>
+          <attributeDefinition>The datum relative to which the site elevation was measured against (For a complete list of datum names and aliases please refer to the ISO Geodedic Registry: https://iso.registry.bespire.eu/register/geodetic/VerticalDatum).</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_name</attributeName>
+          <attributeDefinition>Site name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>state</attributeName>
+          <attributeDefinition>State in the United States</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>estuary</attributeName>
+          <attributeDefinition>Estuary name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>wetland_type</attributeName>
+          <attributeDefinition>Estuarine wetland type</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>latitude_NAD83_2011</attributeName>
+          <attributeDefinition>Latitude of the deep groundwater well, NAD83(2011) horizontal datum</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>longitude_NAD83_2011</attributeName>
+          <attributeDefinition>Longitude of the deep groundwater well, NAD83(2011) horizontal datum</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_chamber_level</entityName>
+      <entityDescription>chamber_level information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_chamber_level.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_id</attributeName>
+          <attributeDefinition>Chamber identification code unique to each site.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_longitude</attributeName>
+          <attributeDefinition>Longitude, NAD83(2011) horizontal datum (for RTK data); handheld data with cell phone</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_latitude</attributeName>
+          <attributeDefinition>Latitude, NAD83(2011) horizontal datum (for RTK data); handheld data with cell phone</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_position_method</attributeName>
+          <attributeDefinition>Code indicating how latitude and longitude were determined.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>RTK</code>
+                    <definition>Real-time kinematic global position system (GPS).</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>handheld</code>
+                    <definition>Conventional commercially available hand-held GPS.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>other high resolution</code>
+                    <definition>Any other technique resulting in positional error &lt; 1 meter.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>other moderate resolution</code>
+                    <definition>Any other technique resulting in positional error &lt; 30 meters</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>other low resolution</code>
+                    <definition>Any other technique resulting in positional error &gt; 30 meters.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_elevation</attributeName>
+          <attributeDefinition>Surface elevation of the chamber relative to defined datum.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_elevation_datum</attributeName>
+          <attributeDefinition>The datum relative to which the chamber elevation was measured against (For a complete list of datum names and aliases please refer to the ISO Geodedic Registry https://iso.registry.bespire.eu/register/geodetic/VerticalDatum).</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_elevation_method</attributeName>
+          <attributeDefinition>Code indicating how elevation was determined</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>RTK</code>
+                    <definition>Real-time kinematic global position system (GPS).</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>other high resolution</code>
+                    <definition>Any other technique resulting in positional error &lt; 5 cm of random error.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>LiDAR</code>
+                    <definition>Handheld GPS matched to lidar-based digital elevation model.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>DEM</code>
+                    <definition>Handheld GPS matched to another digital elevation model.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>other low resolution</code>
+                    <definition>Any other technique resulting in positional error &gt; 5 cm of random error.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>state</attributeName>
+          <attributeDefinition>State in the United States</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>estuary</attributeName>
+          <attributeDefinition>Estuary name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>wetland_type</attributeName>
+          <attributeDefinition>Estuarine wetland type</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_elevation_zstar</attributeName>
+          <attributeDefinition>tide-range scaled elevation</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_species</entityName>
+      <entityDescription>species information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_species.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_id</attributeName>
+          <attributeDefinition>Chamber identification code unique to each site.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_year</attributeName>
+          <attributeDefinition>Measurement year of site or chamber-level species attributes.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_month</attributeName>
+          <attributeDefinition>Measurement month of site or chamber-level species attributes.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_day</attributeName>
+          <attributeDefinition>Measurement day of site or chamber-level species attributes.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>species_code</attributeName>
+          <attributeDefinition>Code associated with a species or a vegetation assemblage.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>cover</attributeName>
+          <attributeDefinition>Estimated ground area coverage of species or vegetation type in chamber.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>percent</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_chamber_timeseries</entityName>
+      <entityDescription>chamber_timeseries information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_chamber_timeseries.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_id</attributeName>
+          <attributeDefinition>Chamber identification code unique to each site.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_volume</attributeName>
+          <attributeDefinition>Chamber volume.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>mixing_fan_present</attributeName>
+          <attributeDefinition>Chamber mixing fan present and operating</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>TRUE</code>
+                    <definition>Chamber mixing fan was present and operating.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FALSE</code>
+                    <definition>Chamber mixing fan was not present.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_year</attributeName>
+          <attributeDefinition>Year of the sampling event.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalYear</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_month</attributeName>
+          <attributeDefinition>Month of the sampling event.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_day</attributeName>
+          <attributeDefinition>Day of sampling event.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_eq_time</attributeName>
+          <attributeDefinition>Length of time the chamber equilibrated before measurements were taken.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>minute</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_measurement_length</attributeName>
+          <attributeDefinition>Measurement length</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>minute</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_start_time_hour</attributeName>
+          <attributeDefinition>Start of measurement period, local time, no DST.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>hour</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_start_time_minutes</attributeName>
+          <attributeDefinition>Start of measurement period, local time, no DST.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_start_time_seconds</attributeName>
+          <attributeDefinition>Start of measurement period, local time, no DST. If seconds were not recorded use NA</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>second</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_end_time_hour</attributeName>
+          <attributeDefinition>End of measurement period, local time, no DST</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>hour</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_end_time_minutes</attributeName>
+          <attributeDefinition>End of measurement period, local time, no DST</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nominalMonth</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sample_end_time_seconds</attributeName>
+          <attributeDefinition>End of measurement period, local time, no DST. Use NA if seconds were not recorded</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>second</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>chamber_measurement_mode</attributeName>
+          <attributeDefinition>Measurement mode</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>close flow</code>
+                    <definition>Gas concentrations inside the chamber are measured through a closed loop gas flow connected to an infrared gas analyzer.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>open flow</code>
+                    <definition>Gas concentrtaions are measured at the inlet and the outlet of the chamber by an infrared gas analyzer.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>point measurement</code>
+                    <definition>Gas samples are withdrawn from the chambers using syringes. Gas samples are subsequently analyzed in the laboratory with flame ionization gas chromatography.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>light_treatment</attributeName>
+          <attributeDefinition>Fraction (0-1) describing any light/dark treatment the sampling event was subjected to.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_analyzer</attributeName>
+          <attributeDefinition>model of analyzer(s) used for fluxes</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux</attributeName>
+          <attributeDefinition>Methane flux (CH4) inside chamber. Positive fluxes are net emissions to atmosphere.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux_model</attributeName>
+          <attributeDefinition>Specify model/method used to calculate flux over sampling period.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>linear</code>
+                    <definition>Flux rate is determined by the linear relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>exponential</code>
+                    <definition>Flux rate is determined by the exponential relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>summation</code>
+                    <definition>Flux rate is determined by the summation of piecewsie linear fits between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux_se</attributeName>
+          <attributeDefinition>The standard error of CH4 flux.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux_n</attributeName>
+          <attributeDefinition>Typical number of sampling events within sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux_r2</attributeName>
+          <attributeDefinition>The R^2 value of the model used to calculate flux over sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ch4_flux_pvalue</attributeName>
+          <attributeDefinition>Probability, value or threshold, of the calculated flux rate to be significantly different from zero as set by study_id's authors.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux</attributeName>
+          <attributeDefinition>Carbon dioxide (CO2) flux inside chamber. Positive fluxes are net emissions to atmosphere.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux_model</attributeName>
+          <attributeDefinition>Specify model used to calculate flux over sampling period.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>linear</code>
+                    <definition>Flux rate is determined by the linear relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>exponential</code>
+                    <definition>Flux rate is determined by the exponential relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>summation</code>
+                    <definition>Flux rate is determined by the summation of piecewsie linear fits between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux_se</attributeName>
+          <attributeDefinition>The standard error of CO2 flux.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux_n</attributeName>
+          <attributeDefinition>Number of sampling events within sampling period. It is valid to report a typical number for continuous measurements</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux_r2</attributeName>
+          <attributeDefinition>The R^2 value of the model used to calculate flux over sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>co2_flux_pvalue</attributeName>
+          <attributeDefinition>Probability, value or threshold, of the calculated flux rate to be significantly different from zero as set by study_id's authors.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux</attributeName>
+          <attributeDefinition>The flux of N2O between the chamber and environment over the sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux_model</attributeName>
+          <attributeDefinition>Specify model used to calcuate flux over sampling period.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>linear</code>
+                    <definition>Flux rate is determined by the linear relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>exponential</code>
+                    <definition>Flux rate is determined by the exponential relationship between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>summation</code>
+                    <definition>Flux rate is determined by the summation of piecewsie linear fits between the concentration of gas inside the chamber and the sampling time.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux_se</attributeName>
+          <attributeDefinition>The standard error of N2O flux.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millimolesPerMeterSquaredPerMinute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux_n</attributeName>
+          <attributeDefinition>Typical number of sampling events within sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux_r2</attributeName>
+          <attributeDefinition>The R^2 value of the model used to calculate flux over sampling period.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n2o_flux_pvalue</attributeName>
+          <attributeDefinition>Probability, value or threshold, of the calculated flux rate to be significantly different from zero as set by study_id's authors.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>air_temperature_outside_chamber</attributeName>
+          <attributeDefinition>Air temperature outside chamber measured over the sampling time.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>soil_temperature</attributeName>
+          <attributeDefinition>Soil temperature inside chamber measured over the sampling time.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>soil_temperature_depth</attributeName>
+          <attributeDefinition>Soil temperature probe depth.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>par_inside_chamber</attributeName>
+          <attributeDefinition>Photosynthetically active raditation, incoming, inside the chamber</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>micromolesPhotonPerMeterSquaredPerSecond</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>par_outside_chamber</attributeName>
+          <attributeDefinition>Photosynthetically active raditation, incoming, outside the chamber</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>micromolesPhotonPerMeterSquaredPerSecond</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>salinity</attributeName>
+          <attributeDefinition>Salinity measured during the sampling interval</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>water_table_depth</attributeName>
+          <attributeDefinition>water table depth (negative values belowground surface)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>biomass_index</attributeName>
+          <attributeDefinition>Biomass index.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>groundwater_pH</attributeName>
+          <attributeDefinition>Groundwater pH.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_porewater</entityName>
+      <entityDescription>porewater information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_porewater.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DateTimePST</attributeName>
+          <attributeDefinition>Date and time in Pacific Standard Time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD HH:MM:SS</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DeepT</attributeName>
+          <attributeDefinition>Deep groundwater temperature (typically about 0.9-1.4 m below the surface), in Celsius</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>WLG</attributeName>
+          <attributeDefinition>Water level relative to the ground surface, in meters</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>WLNAVD88</attributeName>
+          <attributeDefinition>Water level relative to NAVD88, in meters</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ImmT</attributeName>
+          <attributeDefinition>Shallow groundwater temperature when the salinity logger was immersed (typically about 0.25 m below the surface), in Celsius</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ImmS</attributeName>
+          <attributeDefinition>Shallow groundwater salinity when the salinity logger was immersed (typically about 0.25 m below the surface), in ppt</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>permil</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>porewater_notes</attributeName>
+          <attributeDefinition>Any submitted notes about porewater during the sampling period.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>Janousek_et_al_2025_soil_temperature</entityName>
+      <entityDescription>soil_temperature information for study</entityDescription>
+      <physical>
+        <objectName>Janousek_et_al_2025_soil_temperature.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>study_id</attributeName>
+          <attributeDefinition>Unique identifier for the study made up of the first author's family name, as well as the second author's or 'et al' if more than three, then publication year seperated by underscores.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeDefinition>Site identification code unique to each study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Free text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DateTimePST</attributeName>
+          <attributeDefinition>Date and time in Pacific Standard Time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD HH:MM:SS</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>SoilTempC</attributeName>
+          <attributeDefinition>Soil temperature.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="micromolesPhotonPerMeterSquaredPerSecond" multiplierToSI="1e-06" name="micromolesPhotonPerMeterSquaredPerSecond" parentSI="molesPerMeterSquaredPerSecond" unitType="amountOfSubstanceConcentrationPerArealMassDensityRate">
+          <description>micromoles photon per meter squared per second</description>
+        </unit>
+        <unit id="nominalMonth" multiplierToSI="2628000" name="nominalMonth" parentSI="second" unitType="time">
+          <description>one month excluding leap seconds and leap days, 2628000 seconds</description>
+        </unit>
+        <unit id="millimolesPerMeterSquaredPerMinute" multiplierToSI="0.001" name="millimolesPerMeterSquaredPerMinute" parentSI="molesPerMeterSquaredPerSecond" unitType="amountOfSubstanceConcentrationPerArealDensityRate">
+          <description>millimoles per meter squared per minute</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

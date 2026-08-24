@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1" packageId="be961c76-14fb-4fca-82d2-099793fbf0d3" system="uuid" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1/ eml.xsd">
+  <dataset>
+    <title>Elevation and Vegetation Data for the Global Change Research Wetland, Summer 2016</title>
+    <creator>
+      <individualName>
+        <givenName>James R</givenName>
+        <givenName>0000-0003-2546-6766</givenName>
+        <surName>Holmquist</surName>
+      </individualName>
+      <electronicMailAddress>HolmquistJ@si.edu</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>James R</givenName>
+        <surName>Holmquist</surName>
+      </individualName>
+      <electronicMailAddress>holmquistj@si.edu</electronicMailAddress>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Jefferson</givenName>
+        <surName>Riera</surName>
+      </individualName>
+      <electronicMailAddress>jriera1@jhu.edu</electronicMailAddress>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Lisa</givenName>
+        <surName>Schile-Beers</surName>
+      </individualName>
+      <electronicMailAddress>lisa.beers@silvestrum.com</electronicMailAddress>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>J Patrick</givenName>
+        <surName>Megonigal</surName>
+      </individualName>
+      <electronicMailAddress>megonigalp@si.edu</electronicMailAddress>
+    </associatedParty>
+    <pubDate>2019</pubDate>
+    <abstract>
+      <para>
+  The Global Change Research Wetland (GCReW) is one of the most
+  intensively studied tidal wetlands systems in the world, with the
+  majority of the previous research spent on two native functional
+  groups of plants (C3 sedges and C4 grasses) and the invasive reed
+  </para>
+      <para>
+        <emphasis>Phragmites australis</emphasis>
+      </para>
+      <para>. These previous studies have
+  been concentrated in clusters of long-term study plots which make up a
+  relatively small and non-representative portion of a larger 22 hectare
+  marsh. So far no studies have documented site-wide trends in
+  elevation, plant species presence, and plant species dominance, which
+  are needed for scaling up models of wetland response to sea-level
+  rise. This data release documents three datasets collected in summer
+  of 2016 in order to better quantify relationships between plant cover
+  and elevation, to contextualize ongoing monitoring and experiments as
+  well as support future planning at GCReW.
+</para>
+      <para>
+  First, we performed 48 hour occupations of four elevation monuments on
+  the Smithsonian Environmental Research Center's campus, using total
+  station GPS. This was done so that we could better reference marsh
+  heights to North American Vertical Datum of 1988. One of these
+  monuments was used as a base station for real-time kinematic GPS
+  surveying. Second, we surveyed the bounds and elevations of long-term
+  vegetation monitoring plots associated with the Tennembaum Marine
+  Observatory Network. Third and finally we performed a 20 by 20 meter
+  real time kinematic GPS elevation survey of the entire marsh,
+  accompanied by Braun-Blaunquet avegetation survey to map the presence
+  and relative dominance of wetland plant communities. These analysis
+  data products provide valuable context to, and further research
+  direction for, the temporally rich but spatially restricted plant and
+  elevation data collected at GCReW over the last three decades.
+</para>
+    </abstract>
+    <keywordSet>
+      <keyword>tidal wetland</keyword>
+      <keyword>brackish marsh</keyword>
+      <keyword>elevation</keyword>
+      <keyword>real-time kinematic gps</keyword>
+      <keyword>braun-blanquet</keyword>
+      <keyword>sea-level rise</keyword>
+    </keywordSet>
+    <intellectualRights>This dataset is listed under a Creative Commons BY 4.0 and can be used with attribution. https://creativecommons.org/licenses/by/4.0/</intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Smithsonian Environmental Research Center, Edgewater, Maryland, United States</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-76.5519</westBoundingCoordinate>
+          <eastBoundingCoordinate>-76.5419</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.8869</northBoundingCoordinate>
+          <southBoundingCoordinate>38.8727</southBoundingCoordinate>
+          <boundingAltitudes>
+            <altitudeMinimum>-0.247</altitudeMinimum>
+            <altitudeMaximum>4.977</altitudeMaximum>
+            <altitudeUnits>meter</altitudeUnits>
+          </boundingAltitudes>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2016-06-06</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2016-08-15</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Amaranthus</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>cannabinus</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Distichlis</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>spicata</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Hibiscus</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>moscheutos</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Iva</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>frutescens</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Kosteletzkya</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>virginica</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Phragmites</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>australis</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Schoenoplectus</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>americanus</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Solidago</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>sempervirens</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Spartina</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>alterniflora</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Spartina</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>cynosuroides</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Spartina</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>patens</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+        <taxonomicClassification>
+          <taxonRankName>Genus</taxonRankName>
+          <taxonRankValue>Typha</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Species</taxonRankName>
+            <taxonRankValue>latifolia</taxonRankValue>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <contact>
+      <individualName>
+        <givenName>James R</givenName>
+        <givenName>0000-0003-2546-6766</givenName>
+        <surName>Holmquist</surName>
+      </individualName>
+      <organizationName>Smithsonian Environmental Research Center</organizationName>
+      <address>
+        <deliveryPoint>347 Contees Wharf Rd.</deliveryPoint>
+        <city>Edgewater</city>
+        <administrativeArea>MD</administrativeArea>
+        <postalCode>21037</postalCode>
+        <country>USA</country>
+      </address>
+      <phone>443-482-2267</phone>
+      <electronicMailAddress>HolmquistJ@si.edu</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <section>
+            <title>Site Description</title>
+            <para>
+    The global change research wetland (GCREW) at the Smithsonian
+    Environmental Research Center in Edgewater, Maryland, USA, is one of
+    the most studied tidal wetlands in the world and is the source of
+    many impactful contributions to our base of knowledge on plant
+    trait, soil response, and global change interactions. GCReW occupies
+    about half of a lager 22 ha marsh complex known locally as
+    Kirkpatrick marsh. GCReW occupies a small tidal subwatershed
+    watershed complex with a flooding footprint feeding into a larger
+    tidal creek emptying into Rhode River, a tributary of the Chesapeake
+    Bay. The site is brackish throughout the year but has seasonal and
+    interannual variance in salinity due to freshwater input from
+    precipitation. The marsh receives mixed semidiurnal tides.
+  </para>
+          </section>
+          <section>
+            <title>Improvements to Geodetic Control Network.</title>
+            <para>
+    We strengthened the geodedic control network property-wide by
+    performing four long occupations of fixed monuments with JAVAD total
+    station GPS units. These included two survey grade monuments on the
+    north side of the Rhode River, one sediment elevation table head
+    (SET17), and one benchmark used as a reference point for marsh organ
+    experiments (Flume) at GCReW. For the two survey grade monuments on
+    the north side of the Rhode River, GPS units were mounted on a 2 m,
+    tripod on a 0.25 m adapter with a 0.025 m attachment. For the Flume
+    the Javad was mounted on a 1.5 m high tripod, with a 0.25 m adapter
+    and a 0.025 m attachment. The equipment was centered on the monument
+    on a pointed tip, and was leveled using a bubble level built into
+    the tripod. For SET17, the GPS unit was mounted on a 2 m survey grad
+    pole, and a 0.025 m attachment. Instead of being centered on a
+    monument point, it was screwed into an SET receiver using a
+    customized 0.339 m adapter. The unit was supported by 2 bipods and
+    was levelled using a bubble level stuck to the top of the adapter
+    with adhesive. All elevation measurements were made relative to
+    GEOID12a and reported in meters NAVD88. All occupations occured over
+    approximately 48 hours.
+  </para>
+          </section>
+          <section>
+            <title>Real Time Kinematic GPS Survey</title>
+            <para>
+    Two Trimble real-time kinematic GPS sensors were used for elevation
+    surveys of the marsh. The first was base station which consistently
+    for the marsh wide survey and the measured elevation from the total
+    station occupation was used as a known point to correct errors from
+    the roving GPS. The base station was attached to SET17 head by a
+    customized mount of known height (0.339 m), a 2 m long survey grade
+    pole extension rod. It was stabilized by two clipped on bipods, and
+    a leveled with a bubble-level pasted to the SET head attachment.
+  </para>
+            <para>
+    The rover was mounted on a 2 m long survey grad pole and outfitted
+    with a flat foot bottom so that the unit could lie flat against soft
+    or muddy ground without sinking in. We generally considered the
+    surface of the marsh to be at the point below the plant canopy which
+    the unit set flat under its own weight. In cases where the rover
+    sank into the marsh on its own weight we held the weight of the
+    staff up, flat against the surface of the mud the point of
+    resistance, and noted the adjustment in the elevation plot notes.
+  </para>
+            <para>
+    We completed two separate elevation surveys, one of the annual
+    vegetation plots measured as part of the Marine Geo Tennenbaum
+    Marine Observatory Network (TMON), and the other as a 20 by 20 m
+    grid over most of Kirkpatrick Marsh.
+  </para>
+            <para>
+    The 37 TMON plots at Kirkpatrick marsh and GCReW are arranged in
+    three transects spanning vegetation and elevation gradients. We
+    surveyed them on 22 June 2016. As the plots are 1 x 1 m in area, we
+    surveyed each corner. In the supplemental data release, we present
+    both the original data and the plot level average latitude,
+    longitude, and elevation.
+  </para>
+            <para>
+    For the 20 by 20 m grid survey, we created an outline of the
+    contiguous section of wetland using high resolution Google Earth
+    Imagery and polygons delineated by the national wetlands inventory.
+    We digitized the outlines of major features on the marsh such as
+    boardwalks, and experimental chambers. At the time of research, the
+    warming experiments and new boardwalks were not yet reflected in the
+    high resolution Google Earth imagery. We surveyed the boundaries of
+    these experiments and boardwalks. In ArcGIS, we created a 20 by 20 m
+    grid using the gridlines function in ArcGIS, and converting the grid
+    to points, then subletting those points intersecting the marsh and
+    omitting those within a 5 m buffer of site infrastructure or the
+    TMON plots. We numbered the elevation points in increasing numbers
+    in lines from north to south then west to east.
+  </para>
+            <para>
+    We surveyed the entire 525-point grid between 26 July 2016 and 15
+    August 2016. At each point an orange PVC stake with a tree tag was
+    driven in adjacent to the place the measurement was taken after the
+    elevation was taken. For a subset of plots, we took four replicate
+    measurements.
+  </para>
+            <para>
+    If a planned elevation point did not intersect the marsh as mapped,
+    because of trees, creeks, or marsh edges, the point was moved and we
+    noted the field change under elevation notes. In some places we
+    opportunistically surveyed the edges of the marsh if they were
+    either near a sampling point, or if the edge of the marsh as we saw
+    in the field was not visible in the imagrey used to plan the survey.
+    In one case a large section P. australis dominated marsh was growing
+    under trees and not apparent from the imagery we used to plan the
+    survey, Planned survey points and points taken due to opportunity
+    are classified and noted separately in the supplemental data
+    release.
+  </para>
+            <para>
+    Nominal accuracy of RTK-GPS is 4 cm. Regularly at the end and/or
+    beginning of a work day we measured the same spot on a boardwalk
+    adjacent to the base station set up on SET17.
+  </para>
+          </section>
+          <section>
+            <title>Vegetation Mapping</title>
+            <para>
+    During the grid based elevation survey that we undertook between 26
+    July 2016 and 15 August 2016, we also took the opportunity to
+    collect estimates of plant community presence and absence as well as
+    relative dominance.
+  </para>
+            <para>
+    At each elevation plot, after recording RTK-GPS elevation, we
+    estimated ordinal Braun-Blonquet scores for major vegetation
+    community types. The area of the estimation was approximately 1 m
+    circumference around the center of the elevation point estimated as
+    the length of the extended arm of the technician recording elevation
+    and vegetation. A single technician recorded all elevation and
+    vegetation measurements, so there is at least internal consistency.
+  </para>
+            <para>
+    Braun-Blanquet scores ranged from 0 to 5 with ‘0’ indicating trace
+    amounts of cover &lt;1% of the aerial view of the plot. ‘1’
+    indicated 1-5%, ‘2’ 5-25%, ‘3’ 25-50%, ‘4’ 50-75%, and ‘5’ 75-100%.
+    The major communities we recorded included Schoenoplectus
+    americanus, the C4 mix of Distichlis spicata and Spartina patens,
+    the shrub Iva frutescens, and the invasive reed Phragmites
+    australis. We recorded minor plant species as well.
+  </para>
+            <para>
+    We made other observations that, while not used in any of the
+    analyses presented herein are available in the supplemental data
+    release. For vegetated observations, we also recorded the minimum
+    and maximum height of the canopy for each species. We also recorded
+    Braun-Blanquet scores for bare ground and open water. These were
+    considered the same category as the tide varies throughout our
+    observations. Finally, we recorded Braun-Blanquet scores and canopy
+    heights for dead vegetation forming.
+  </para>
+          </section>
+        </description>
+      </methodStep>
+    </methods>
+    <dataTable>
+      <entityName>serc_benchmarks_total_station_2016.csv</entityName>
+      <entityDescription>Total Station Global Position System Occupation Results for four Elevation Benchmarks at the Smithsonian Environmental Research Center</entityDescription>
+      <physical>
+        <objectName>serc_benchmarks_total_station_2016.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>occupation_id</attributeName>
+          <attributeDefinition>Unique identifier for each of four 2 day long elevation benchmark occupations with total station GPS.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>a001</code>
+                    <definition>TIDAL - By Telephone Pole</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>a002</code>
+                    <definition>FLUME</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>a003</code>
+                    <definition>TIDAL - DOCK</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>a004</code>
+                    <definition>SET 17</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>northing</attributeName>
+          <attributeDefinition>Positional northing in Universal Transverse Mercater (UTM) zone 18N</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>easting</attributeName>
+          <attributeDefinition>Positional easting in Universal Transverse Mercater (UTM) zone 18N</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>elevation</attributeName>
+          <attributeDefinition>Elevation relative to North American Vertical Datum of 1988 (NAVD88) as determined by GEOID12a.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>gcrew_rtk_gps_2016.csv</entityName>
+      <entityDescription>2016 Real-Time Kinematic Global Positioning System data for the Global Change Research Wetland</entityDescription>
+      <physical>
+        <objectName>gcrew_rtk_gps_2016.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>point_index</attributeName>
+          <attributeDefinition>Unique integer for each elevation point of the summer indicating chronological order the survey points were collected in.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>survey_id</attributeName>
+          <attributeDefinition>Description of two elevation surveys completed during summer 2016.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>June 2016 TMON Survey</code>
+                    <definition>self explanitory</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>July and August 2016 20m Grid Survey</code>
+                    <definition>self explanitory</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>measurement_type</attributeName>
+          <attributeDefinition>Reason for dating elevation position.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>test</code>
+                    <definition>point represents a test of the equipment</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TMON vegetation plot</code>
+                    <definition>point represents a corner of a vegetatin plot observed as part of the Tennemaub Marine Observatory Network.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Braun Blanquet vegetation plot</code>
+                    <definition>point represents a series of Braun Blanquet vegetation observations made across the marsh.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>marsh edge</code>
+                    <definition>point represents the edge of the marsh, taken opportunistically as convenient during the course of surveying.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>test_type</attributeName>
+          <attributeDefinition>Type of test.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>repeated boardwalk test</code>
+                    <definition>The test was part of a regular equipment check, measuring the same spot on a boardwalk adjacent to where the base station was set up.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>one off test</code>
+                    <definition>The point represents an in field test, or feature that was opportunistically surveyed, not assoicated with a vegetation plot, or regular equipment checks.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>transect_id</attributeName>
+          <attributeDefinition>One of three transects of vegetation plots associated with the Tennenbaum Marine Obesrvatory Network (TMON).</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>g1</code>
+                    <definition>GCREW site transect number 1.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>g2</code>
+                    <definition>GCREW site transect number 2.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>g3</code>
+                    <definition>GCREW site transect number 3.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>plot_id</attributeName>
+          <attributeDefinition>Integer indicating a unique plot number.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>corner</attributeName>
+          <attributeDefinition>For vegetation plots associated with the Tennenbaum Marine Obesrvatory Network (TMON), we surveyed each of four corners.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>replicate_id</attributeName>
+          <attributeDefinition>Unique integer for any points that were measured repeatedly,</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>easting</attributeName>
+          <attributeDefinition>Positional easting in Universal Transverse Mercater (UTM) zone 18N</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>northing</attributeName>
+          <attributeDefinition>Positional northing in Universal Transverse Mercater (UTM) zone 18N</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>elevation</attributeName>
+          <attributeDefinition>Elevation relative to North American Vertical Datum of 1988 (NAVD88) as determined by GEOID12a.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>positional_notes</attributeName>
+          <attributeDefinition>Miscelaneous notes on positional measurement.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain/>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable>
+      <entityName>gcrew_braun_blanquet_2016.csv</entityName>
+      <entityDescription>2016 Braun-Blanquet vegetation cover data for the Global Change Research Wetland</entityDescription>
+      <physical>
+        <objectName>gcrew_braun_blanquet_2016.csv</objectName>
+        <dataFormat>
+          <textFormat>
+            <recordDelimiter>&#13;
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>plot_id</attributeName>
+          <attributeDefinition>Integer indicating a unique plot number.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bb_cover</attributeName>
+          <attributeDefinition>Braun Blonquet cover class.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Cover represents a trace observation, &lt;1% cover.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>1-5% cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>5-25% cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>25-50% cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>50-75% cover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>5</code>
+                    <definition>75-100% cover</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>cover_type</attributeName>
+          <attributeDefinition>Species community or cover code associated with the  cover class.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Dead</code>
+                    <definition>Dead vegetation thatch.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SCAM</code>
+                    <definition>Schoenoplectus  americanus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TYLA</code>
+                    <definition>Typha  latifolia</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>IVFR</code>
+                    <definition>Iva frutescens</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SPCY</code>
+                    <definition>Spartina cynosuroides</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BareOrWater</code>
+                    <definition>Either bare ground or open water.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PHAU</code>
+                    <definition>Phragmites australis</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SPAL</code>
+                    <definition>Spartina alterniflora</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C4</code>
+                    <definition>Spartina patens and Distichlis spicata mix</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>KOVI</code>
+                    <definition>Kosteletzkya virginica</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>AMAR</code>
+                    <definition>Amaranthus cannabinus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Hibiscus</code>
+                    <definition>Hibiscus moscheutos</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SOSE</code>
+                    <definition>Solidago sempervirens</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Unknown</code>
+                    <definition>Species was unidentified in the filed, or undecipherable from field notes.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>height_min</attributeName>
+          <attributeDefinition>Minimum height of vegetation in plot.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>height_max</attributeName>
+          <attributeDefinition>Maximum height of vegetation in plot.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>cover_notes</attributeName>
+          <attributeDefinition>Miscelaneous notes on vegetation cover.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain/>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>NA is the standard abbreviation for not available in R and many other programming languages.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+    </dataTable>
+  </dataset>
+</eml:eml>
